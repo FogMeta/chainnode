@@ -1,5 +1,23 @@
 # Chainsnap
 ### Introduction
+Chainsnap is a project for maintaining blockchain snapshots. This project enables the storing and retrieval of snapshots for blockchain projects including Filecoin, Polygon, Ethereum, Binance Smart Chain, and Near.
+
+**Main Features:**
+
+  - Full backup of the completed and minimal snapshots (if it exists) of each chain every once in a while
+ 
+  - Maintain the original download links of the snapshots and the metadata (CSV and JSON format) after preprocessing.
+  - Each piece will be sent to storage providers in the Filecoin network through [Swan Client](https://github.com/filswan/go-swan-client), and the metadata of the deal (including filename, dealCID, MinerID, etc.) will be maintained in the repository;
+  - Mint deal metadata to an NFT in the [Opensea platform](https://opensea.io/), everyone can see it at any time
+
+**How to retrieve it:**
+  - Get all pieces of each snapshot from snapshot metadata
+  - Get storage providers that store all pieces from the deal metadata
+  - Fetch all the pieces using the [Lotus retrieval function](https://lotus.filecoin.io/tutorials/lotus/store-and-retrieve/retrieve-data/#send-a-retrieval-request)
+  - Merge all pieces to the complete snapshot
+
+It is worth noting that all deal metadata will be mint to the Opensea platform through [multichain storage](https://www.multichain.storage/) to ensure that will never be lost
+
 
 #### 1. Filecoin
 
