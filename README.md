@@ -30,5 +30,5 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
 
 | Network | Snapshot Name | Download Url | Snapshot Metadata | Deal Metadata | Deal Metadata NFT(opensea) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Erigon Mainnet | erigon-archive-snapshot-2022-10-12.tar.gz | [2022-10-12](https://matic-blockchain-snapshots.s3-accelerate.amazonaws.com/matic-mainnet/erigon-archive-snapshot-2022-10-12.tar.gz )| [polygon]( Polygon ':include')                  |               |                            |
+| Erigon Mainnet | erigon-archive-snapshot-2022-10-12.tar.gz | [2022-10-12](https://matic-blockchain-snapshots.s3-accelerate.amazonaws.com/matic-mainnet/erigon-archive-snapshot-2022-10-12.tar.gz )| [CSV]( Polygon/erigon-archive-snapshot-2022-10-12.tar.gz.csv ':include') <br> [JSON]( Polygon/erigon-archive-snapshot-2022-10-12.tar.gz.json ':include')                 |               |                            |
 |                                                              |                                                              |                   |               |                            |
