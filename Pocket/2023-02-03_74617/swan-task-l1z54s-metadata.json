@@ -1,0 +1,650 @@
+[
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmeT3w2zWwsYfHmA9vQhpbmnbbEM3UZLd9DYMqUWud6qtr.car",
+  "CarFilePath": "/mnt/sdr/QmeT3w2zWwsYfHmA9vQhpbmnbbEM3UZLd9DYMqUWud6qtr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeT3w2zWwsYfHmA9vQhpbmnbbEM3UZLd9DYMqUWud6qtr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeT3w2zWwsYfHmA9vQhpbmnbbEM3UZLd9DYMqUWud6qtr",
+  "PieceCid": "baga6ea4seaqnrr3bpjvbql4d3esogl34kzu2gni7qz4mczfamnr7zijvpi2bcay",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiclvu4au4rvdcm3z34qcwy4unspdmawr3sqk4trrjq3bjjuq4ozqa",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRoppfEmW6cWxvxjrjZkoLQmNhDt3LK3h4SwG9f8bGGV2.car",
+  "CarFilePath": "/mnt/sdr/QmRoppfEmW6cWxvxjrjZkoLQmNhDt3LK3h4SwG9f8bGGV2.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRoppfEmW6cWxvxjrjZkoLQmNhDt3LK3h4SwG9f8bGGV2.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRoppfEmW6cWxvxjrjZkoLQmNhDt3LK3h4SwG9f8bGGV2",
+  "PieceCid": "baga6ea4seaqcgbt5o4ba4vf2ujs3nkzwosiobolpochg26lglu6y4rc56lb6kja",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiahmb5kfyj5kb7genukd2jbc45y5qv4eko33co3hl7fs47uual5ei",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXYvqEePF2U6BcFud9h6x4ucqFZ8dQ2M3hXpopHeRBj8H.car",
+  "CarFilePath": "/mnt/sdr/QmXYvqEePF2U6BcFud9h6x4ucqFZ8dQ2M3hXpopHeRBj8H.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXYvqEePF2U6BcFud9h6x4ucqFZ8dQ2M3hXpopHeRBj8H.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXYvqEePF2U6BcFud9h6x4ucqFZ8dQ2M3hXpopHeRBj8H",
+  "PieceCid": "baga6ea4seaqankvrdcilx2la2qzeskqo5gucrduayidxucrwfggmb5ha5vahmpi",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibwi5sqqdn7kjy43bxpbyd72yodyjnvfmwurj3ybnwamcodnxmmmm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYWxJd1CMGtfDTJJt3bFbHuuZvqWT2p3pi8YdDVZhJWRn.car",
+  "CarFilePath": "/mnt/sdr/QmYWxJd1CMGtfDTJJt3bFbHuuZvqWT2p3pi8YdDVZhJWRn.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYWxJd1CMGtfDTJJt3bFbHuuZvqWT2p3pi8YdDVZhJWRn.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYWxJd1CMGtfDTJJt3bFbHuuZvqWT2p3pi8YdDVZhJWRn",
+  "PieceCid": "baga6ea4seaqe2ryjhrnoy2cenglxixd3wtzybmqplceskmhirtks4z6mmxm4scq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicli64ammud7gfnkzxkyic5npiz3tfkryhrsssjt6ncklmrt6ohrm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZ2KKoGZ9jzEZERVn7RXJnJxcvpTPog5pG2YmMWQjQb1D.car",
+  "CarFilePath": "/mnt/sdr/QmZ2KKoGZ9jzEZERVn7RXJnJxcvpTPog5pG2YmMWQjQb1D.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZ2KKoGZ9jzEZERVn7RXJnJxcvpTPog5pG2YmMWQjQb1D.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZ2KKoGZ9jzEZERVn7RXJnJxcvpTPog5pG2YmMWQjQb1D",
+  "PieceCid": "baga6ea4seaqbmvk4kmqmvfefeduv6zhfu3xix4zaqta6xum3xruztzxa5l2kkdy",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiby4e4gc5pnrqxb6txtr6s6xlgmkwzi2h4alt56lrrryneplewf2u",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmW1QB7s9qfxgixcy3YTdtSK7HGwqsAacPufjHMQQL1hX4.car",
+  "CarFilePath": "/mnt/sdr/QmW1QB7s9qfxgixcy3YTdtSK7HGwqsAacPufjHMQQL1hX4.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmW1QB7s9qfxgixcy3YTdtSK7HGwqsAacPufjHMQQL1hX4.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmW1QB7s9qfxgixcy3YTdtSK7HGwqsAacPufjHMQQL1hX4",
+  "PieceCid": "baga6ea4seaqewlqzdcotvdenkd7titc7crps22ertg5en32l65vkewinpp37iay",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreianrfbjztk5rl2e7on2rripzoxyfouutl24hbrrxj4gfirhzrqdka",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZdhRy9tQAASQoxhmDABHPDoetpYBChwThCabzMHebgpU.car",
+  "CarFilePath": "/mnt/sdr/QmZdhRy9tQAASQoxhmDABHPDoetpYBChwThCabzMHebgpU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZdhRy9tQAASQoxhmDABHPDoetpYBChwThCabzMHebgpU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZdhRy9tQAASQoxhmDABHPDoetpYBChwThCabzMHebgpU",
+  "PieceCid": "baga6ea4seaqaxbyge66ipw6ykobvekmpelzi4cpssetpnog4ks2lw3fvpkyjupq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreievxkhojlme62eitm7wpfupbsejjw76txwmqjlsjwxouie52unqye",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXNmfxdoTpQP3PZRfkEXn9KK5SQt1wdP4R6NDov4UMYiU.car",
+  "CarFilePath": "/mnt/sdr/QmXNmfxdoTpQP3PZRfkEXn9KK5SQt1wdP4R6NDov4UMYiU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXNmfxdoTpQP3PZRfkEXn9KK5SQt1wdP4R6NDov4UMYiU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXNmfxdoTpQP3PZRfkEXn9KK5SQt1wdP4R6NDov4UMYiU",
+  "PieceCid": "baga6ea4seaqh5nro53xp64yjgxvf74346ua7zco66npv2kdcyanj3iyndyuecgi",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihoobohtfgna4r2dqvhede7gvuv5pbcul2ou25fajeknlemg5epam",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmbZdWKXRMqCax2hfeyW3hTc2xV4auAw9epv7mVfwFMZ8X.car",
+  "CarFilePath": "/mnt/sdr/QmbZdWKXRMqCax2hfeyW3hTc2xV4auAw9epv7mVfwFMZ8X.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmbZdWKXRMqCax2hfeyW3hTc2xV4auAw9epv7mVfwFMZ8X.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmbZdWKXRMqCax2hfeyW3hTc2xV4auAw9epv7mVfwFMZ8X",
+  "PieceCid": "baga6ea4seaqdhqhrft6daf2jujxeykrtokjs27onj3najgnrmre4ggncmaiqqcq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihpyelmxbevohunf3bj6txg2xzcvcgfu4ljb3ufkmynt4ztualaoy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPnuVzvPovcU596E4T9qFBVVbfsQsiNcAkBPdY47CzLdk.car",
+  "CarFilePath": "/mnt/sdr/QmPnuVzvPovcU596E4T9qFBVVbfsQsiNcAkBPdY47CzLdk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPnuVzvPovcU596E4T9qFBVVbfsQsiNcAkBPdY47CzLdk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPnuVzvPovcU596E4T9qFBVVbfsQsiNcAkBPdY47CzLdk",
+  "PieceCid": "baga6ea4seaqptt6g4kiro6kfhoxzftghge4lrsbwvgt4uj3cssqp4qeth5es4ha",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid6qofd2rxfr6l6fmp6fsm3tm7qwbglmubrxryjvpghhrdjrvlcf4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592982,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUd9vLmU3JVnD3LZkecxt6YZ4Rgpd3UBntKBCY4g7Eg7r.car",
+  "CarFilePath": "/mnt/sdr/QmUd9vLmU3JVnD3LZkecxt6YZ4Rgpd3UBntKBCY4g7Eg7r.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUd9vLmU3JVnD3LZkecxt6YZ4Rgpd3UBntKBCY4g7Eg7r.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUd9vLmU3JVnD3LZkecxt6YZ4Rgpd3UBntKBCY4g7Eg7r",
+  "PieceCid": "baga6ea4seaqgk7jp7xqltjjfi3nb7mrj6jyqzy6xo5pwjco6j2qzq2nxr54amja",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihzxn6pgzniwx2znf4fenhcolp4fzkzlgml63smd3um7yoxkhjlay",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTBKkMBsGpyASAKQTKpZpCo6ioiCJBQPwYeuT6Ut4nxid.car",
+  "CarFilePath": "/mnt/sdr/QmTBKkMBsGpyASAKQTKpZpCo6ioiCJBQPwYeuT6Ut4nxid.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTBKkMBsGpyASAKQTKpZpCo6ioiCJBQPwYeuT6Ut4nxid.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTBKkMBsGpyASAKQTKpZpCo6ioiCJBQPwYeuT6Ut4nxid",
+  "PieceCid": "baga6ea4seaqjrvcfbr42fb6czzgjz753kjocbhm6vzsdlc6wnvka7vkghtlkynq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigefnmtn5kv3fk2axu6v5bjwuq3bqzz3g44ljmqd4ybrmqdexdxue",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSigyPJRo1cQU8zEFPteGRce36LaEpoxTuXXfVGnkLMBD.car",
+  "CarFilePath": "/mnt/sdr/QmSigyPJRo1cQU8zEFPteGRce36LaEpoxTuXXfVGnkLMBD.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSigyPJRo1cQU8zEFPteGRce36LaEpoxTuXXfVGnkLMBD.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSigyPJRo1cQU8zEFPteGRce36LaEpoxTuXXfVGnkLMBD",
+  "PieceCid": "baga6ea4seaqcgzchdntrlgjd5bufwm4mbifmlevcyynq22fixoafq2orpkyoyei",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifv663qxusd24mjajlfds2l76kx7ewow4ylcq7e3isrmgqtlvaxza",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQ5mNsDtKjvP8TnjYSvtW5opaV6YJYNXVgCqfDtDwHDfq.car",
+  "CarFilePath": "/mnt/sdr/QmQ5mNsDtKjvP8TnjYSvtW5opaV6YJYNXVgCqfDtDwHDfq.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQ5mNsDtKjvP8TnjYSvtW5opaV6YJYNXVgCqfDtDwHDfq.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQ5mNsDtKjvP8TnjYSvtW5opaV6YJYNXVgCqfDtDwHDfq",
+  "PieceCid": "baga6ea4seaqackb5dvcgkskx3yjmxiigd5v4ondmbt5n33tjma6bzmhgauvkkea",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigxvu44bauuj2ibpcepkdqk7ibs2jyj5rogcyrcabez6cwkhhvvly",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYn9Haf2muXkosuBa2pNVeGkr8HZRxAG7zu44csMnr8kS.car",
+  "CarFilePath": "/mnt/sdr/QmYn9Haf2muXkosuBa2pNVeGkr8HZRxAG7zu44csMnr8kS.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYn9Haf2muXkosuBa2pNVeGkr8HZRxAG7zu44csMnr8kS.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYn9Haf2muXkosuBa2pNVeGkr8HZRxAG7zu44csMnr8kS",
+  "PieceCid": "baga6ea4seaqg5iwpmsxxz4dro3ytsm7duemcgsrgprgokex33boetxcuva2mupq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreify26fpdnkxrfy7h4z4dkdn2mrjjdtrjo4irdmfefwaarh6cqfhmm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTuGWBLLPd43VwuX4zJa6W2b5QhwFKGp71U6FtLhEporU.car",
+  "CarFilePath": "/mnt/sdr/QmTuGWBLLPd43VwuX4zJa6W2b5QhwFKGp71U6FtLhEporU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTuGWBLLPd43VwuX4zJa6W2b5QhwFKGp71U6FtLhEporU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTuGWBLLPd43VwuX4zJa6W2b5QhwFKGp71U6FtLhEporU",
+  "PieceCid": "baga6ea4seaqlepgl5tvg5xbjhiaq5yodzcfankncv723hdcicdzpttpezcdyapy",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidm4od2z4hi3a7if5sagn2vhijixb2y2eweekhwiksmh47yhmauum",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdeXnc56AT2H47TTkP6v3mCiZRpHasb59PF9E1nAZjkJP.car",
+  "CarFilePath": "/mnt/sdr/QmdeXnc56AT2H47TTkP6v3mCiZRpHasb59PF9E1nAZjkJP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdeXnc56AT2H47TTkP6v3mCiZRpHasb59PF9E1nAZjkJP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdeXnc56AT2H47TTkP6v3mCiZRpHasb59PF9E1nAZjkJP",
+  "PieceCid": "baga6ea4seaqidvr5ussggfyn6zlfvypywef5aimthl5wqrk3sc5gbvbbxwtycfa",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiecqk2gzpoxltlk26njgqijelm6v2ce64iebr3uvt4zi63emnk67y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTXM95mRAaTML1ySKvFEmcJyVnsj5UWLZ67MCTXY5pPRJ.car",
+  "CarFilePath": "/mnt/sdr/QmTXM95mRAaTML1ySKvFEmcJyVnsj5UWLZ67MCTXY5pPRJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTXM95mRAaTML1ySKvFEmcJyVnsj5UWLZ67MCTXY5pPRJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTXM95mRAaTML1ySKvFEmcJyVnsj5UWLZ67MCTXY5pPRJ",
+  "PieceCid": "baga6ea4seaqkzpysndk7pc5ilellmotuqsjtf5z75fkedgql27t2cxnmctn6oda",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidty2i57pssic2olkf44ucf6s5ylpmsfsyryjlptp3jvhrxc6vbxu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmY8QhcBhac5kUDHxUo18AGthUD2XYqAJ3okJppjGW4Kv4.car",
+  "CarFilePath": "/mnt/sdr/QmY8QhcBhac5kUDHxUo18AGthUD2XYqAJ3okJppjGW4Kv4.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmY8QhcBhac5kUDHxUo18AGthUD2XYqAJ3okJppjGW4Kv4.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY8QhcBhac5kUDHxUo18AGthUD2XYqAJ3okJppjGW4Kv4",
+  "PieceCid": "baga6ea4seaqlubkvsshgvbz6zj2eslgn6fbjeobhjm3msepnhgrijkh7e5k4wdq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicha72upegvl7mbzynd3e6rcxzioptywo4sttdjoozfmiexvxjz6u",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmbguQzU4qE1JNCbLzJAXRwzdagN3VZ1zFUjDpkWmmKaCz.car",
+  "CarFilePath": "/mnt/sdr/QmbguQzU4qE1JNCbLzJAXRwzdagN3VZ1zFUjDpkWmmKaCz.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmbguQzU4qE1JNCbLzJAXRwzdagN3VZ1zFUjDpkWmmKaCz.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmbguQzU4qE1JNCbLzJAXRwzdagN3VZ1zFUjDpkWmmKaCz",
+  "PieceCid": "baga6ea4seaqa2rhhyf2lsnahx7cnnmeogck2wdtplcobxdqeayd47z2sbejgaey",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicxgrkoau6x6jz5wv3leoxkiklha3cvdpolurmyc7i3pvjubsxn4i",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSUGHeeT5ZaV6o9WhUCRWYnqjfKyvPHUgpiNRMDRrZMG2.car",
+  "CarFilePath": "/mnt/sdr/QmSUGHeeT5ZaV6o9WhUCRWYnqjfKyvPHUgpiNRMDRrZMG2.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSUGHeeT5ZaV6o9WhUCRWYnqjfKyvPHUgpiNRMDRrZMG2.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSUGHeeT5ZaV6o9WhUCRWYnqjfKyvPHUgpiNRMDRrZMG2",
+  "PieceCid": "baga6ea4seaqmnm5ym7vfpcadbr6z72kt2ylt4ifm57fo6mm3noi2nzvvot3qqnq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiflbwak4tx6sa3w4f5rr6hr2jm65ktbhlaspdergo4mkwy3s6edie",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmV3N8Mza2AiNjbPq1p8UY8hZqEsHmY4F7wUH6tDbFtbQL.car",
+  "CarFilePath": "/mnt/sdr/QmV3N8Mza2AiNjbPq1p8UY8hZqEsHmY4F7wUH6tDbFtbQL.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmV3N8Mza2AiNjbPq1p8UY8hZqEsHmY4F7wUH6tDbFtbQL.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmV3N8Mza2AiNjbPq1p8UY8hZqEsHmY4F7wUH6tDbFtbQL",
+  "PieceCid": "baga6ea4seaqi74yx7jjspnjis7nancgoqmpjfnpbtyapdfswoa3itgizuyjk6ha",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid3xyno2if5ytb2ps7yjml4bim2b3u3ktgohl6njufa4ce3ufwvw4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdmiXFSveAcUWEZ8sgQ6aN2jjDCgMkBXmZ7oGkf2LZnmM.car",
+  "CarFilePath": "/mnt/sdr/QmdmiXFSveAcUWEZ8sgQ6aN2jjDCgMkBXmZ7oGkf2LZnmM.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdmiXFSveAcUWEZ8sgQ6aN2jjDCgMkBXmZ7oGkf2LZnmM.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdmiXFSveAcUWEZ8sgQ6aN2jjDCgMkBXmZ7oGkf2LZnmM",
+  "PieceCid": "baga6ea4seaqhpdbiqr2rutocmds63al2cazr4tdsqpbs62wr4i7ggimv2omi4py",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieibqbxpy3wgwneophnr2bbzomubvyyqfj4nyshbha3qlbykgseou",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVuUG7NUrNkiXgiGWvA1KnuPXtYDjgYTDrQ2PpkFxs6aB.car",
+  "CarFilePath": "/mnt/sdr/QmVuUG7NUrNkiXgiGWvA1KnuPXtYDjgYTDrQ2PpkFxs6aB.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVuUG7NUrNkiXgiGWvA1KnuPXtYDjgYTDrQ2PpkFxs6aB.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVuUG7NUrNkiXgiGWvA1KnuPXtYDjgYTDrQ2PpkFxs6aB",
+  "PieceCid": "baga6ea4seaqezwbbo5lr3tgjrjdxkkajytv27npbqhx5tnz5swt4ygkb3ifjiba",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibaasxvyxwldj3l7tj5bglagfmtr6isuohdpgfqt4x75d5z5rtfta",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWd8cbYyFKDhmhEVAfqTXZoEngJZMHi1GCTJswzMrcEq9.car",
+  "CarFilePath": "/mnt/sdr/QmWd8cbYyFKDhmhEVAfqTXZoEngJZMHi1GCTJswzMrcEq9.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWd8cbYyFKDhmhEVAfqTXZoEngJZMHi1GCTJswzMrcEq9.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWd8cbYyFKDhmhEVAfqTXZoEngJZMHi1GCTJswzMrcEq9",
+  "PieceCid": "baga6ea4seaqiicdngg4m4ftg454czvhkcyvcgu27ovjijezov7gzhsdahzmxqca",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigrganqbn2vjp4ldiwvr44x3wmvifixkzklfaok37c6kppwrhjmai",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdCbiBTyoBq5JYpE75xrfnb1H3c7kAmNJhc5iZVp4vSYC.car",
+  "CarFilePath": "/mnt/sdr/QmdCbiBTyoBq5JYpE75xrfnb1H3c7kAmNJhc5iZVp4vSYC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdCbiBTyoBq5JYpE75xrfnb1H3c7kAmNJhc5iZVp4vSYC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdCbiBTyoBq5JYpE75xrfnb1H3c7kAmNJhc5iZVp4vSYC",
+  "PieceCid": "baga6ea4seaqpetx2oocbw6b77awzx7duntruq4t2baj25izjbmxo2mga24ryipq",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicltjm4fyuaoj4mbamcfvxl3ewhbqpnvclrjzr4fvnq322mgaj74e",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "2827ceaa-2e91-4a2b-a888-b708bf46f902",
+  "SourceFileName": "pkt-74617-20230203",
+  "SourceFilePath": "/mnt/sda/pkt-74617-20230203",
+  "SourceFileMd5": "",
+  "SourceFileSize": 13414979469,
+  "CarFileName": "Qma9bJUmvB3yeo58Cb7TNvMugwSj5Vxvbp7A3MTYdr5ATR.car",
+  "CarFilePath": "/mnt/sdr/Qma9bJUmvB3yeo58Cb7TNvMugwSj5Vxvbp7A3MTYdr5ATR.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qma9bJUmvB3yeo58Cb7TNvMugwSj5Vxvbp7A3MTYdr5ATR.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "Qma9bJUmvB3yeo58Cb7TNvMugwSj5Vxvbp7A3MTYdr5ATR",
+  "PieceCid": "baga6ea4seaqlpsyp2cmc7fryncrfqrinleb65yuazzebecrv5bwxhou5bfycmjy",
+  "StartEpoch": 2592862,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifilfb25eht6rfugpfd4h537oia3fzz4rppzvv2adqo353ecy4feq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2592983,
+    "Cost": "0"
+   }
+  ]
+ }
+]
