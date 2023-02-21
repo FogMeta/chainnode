@@ -1,0 +1,470 @@
+[
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmSgSRwxnoSuHbjZGfBFuYoJNZUYyVo8tmzrF8rdbSEFKU.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmSgSRwxnoSuHbjZGfBFuYoJNZUYyVo8tmzrF8rdbSEFKU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSgSRwxnoSuHbjZGfBFuYoJNZUYyVo8tmzrF8rdbSEFKU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSgSRwxnoSuHbjZGfBFuYoJNZUYyVo8tmzrF8rdbSEFKU",
+  "PieceCid": "baga6ea4seaqenjydyvjyfs7mdzjqgp4obrwg7ntuh7ed5no56xv77wdny6tawka",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicasjdk55kw7eyd3ldmjogs5svkovuq47awzu4jw4oyixa6utbjze",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibkz4jt3elknabrehgyku2qmnc6ih7bemcbio4hri3kkimiwrh5ru",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreic3u4y5fuhzofmyfrsofnc6jv5pejpcjjsmzyg7f2x6a27sztzcyi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmcLjZPbKJMXXXp16W68991Q3QyXcrcJS5DHPK7v3Sori2.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmcLjZPbKJMXXXp16W68991Q3QyXcrcJS5DHPK7v3Sori2.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcLjZPbKJMXXXp16W68991Q3QyXcrcJS5DHPK7v3Sori2.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcLjZPbKJMXXXp16W68991Q3QyXcrcJS5DHPK7v3Sori2",
+  "PieceCid": "baga6ea4seaqiqxqgh6f2wvrz5vwrut66fbahjo7zpmtnbhgcajtkemklp5cyqma",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidyct4lmgqn7rzcfcxjveswgk7ierwo3osejlzj62jj6pwtdh3h7m",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreih4ndudlllovh5z7c7bl7f6jb4hxkuun5bt3bozo5zwlipmvmnsrq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiddnrtaniwisquyyhdfh5zaiku4begqvokuimnpgzj5ivw5fl2zuu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQm8m845ocDgmwVYBNeZEJbtx6ZZAYUW2CTMy8Mk9zm4z.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmQm8m845ocDgmwVYBNeZEJbtx6ZZAYUW2CTMy8Mk9zm4z.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQm8m845ocDgmwVYBNeZEJbtx6ZZAYUW2CTMy8Mk9zm4z.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQm8m845ocDgmwVYBNeZEJbtx6ZZAYUW2CTMy8Mk9zm4z",
+  "PieceCid": "baga6ea4seaqnuva7nglkjtvl7ebejbqoosmzame4t2ll7x3npjnzfur6r65f4da",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiajunyw4mgbjrquzypznks3t6w44bmbhr7qosbgem6t4uydmkxrry",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib5vzxjvlabklax3zy7emgfjcozdnyikgx2eq3mn25nacwgpdzjou",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia5gy2ryao5dtqblryx7cssyryfzp5kbwao5sykotypqozyvix3hu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmSSDza6kbbV1jx6LimEaDH2V4TFY8mDjC744MwRJBZH9P.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmSSDza6kbbV1jx6LimEaDH2V4TFY8mDjC744MwRJBZH9P.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSSDza6kbbV1jx6LimEaDH2V4TFY8mDjC744MwRJBZH9P.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSSDza6kbbV1jx6LimEaDH2V4TFY8mDjC744MwRJBZH9P",
+  "PieceCid": "baga6ea4seaqeezs22zllz6ete2nmxa6j2uhn75iyfnrim7ldslhvrcvxmbjouma",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiee5pdz4syzfhxy7hwouptp72wsyxllrrfzn54chzr7l3tlvzxmvm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifpbodwxl3gqhfchhdeo44ds2psl2ualg2g7xijtx6ervrcapr4fu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibgxktni4jut4w473jq4m45jhjbxmg4767wxxaamickwhwshuzp24",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634601,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmRi84eaVhf8SnYF825VfuRGV5yVrnDxCaPBXtq7TNZ31Y.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmRi84eaVhf8SnYF825VfuRGV5yVrnDxCaPBXtq7TNZ31Y.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRi84eaVhf8SnYF825VfuRGV5yVrnDxCaPBXtq7TNZ31Y.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRi84eaVhf8SnYF825VfuRGV5yVrnDxCaPBXtq7TNZ31Y",
+  "PieceCid": "baga6ea4seaqeix73s3ookon432p4lqwqgr5zali4ucub25ojtszbagcuejnimoq",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidsjbbcolhy3htxyn75wykl7w4smr4rdnn36khenlrr4hxhs3xqiq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreig36b2du6kglgegojxdlq4qbr4xajfb6kwnodiiyrsfa3p3nmccfi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibuqoc2gkb35gxl5prb77h35did7h24vurnvixiceobtn54nojca4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQsrdHYbE4z9FBkvcQdcHzgP6pokFDAwzLcAmetLjqH2E.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmQsrdHYbE4z9FBkvcQdcHzgP6pokFDAwzLcAmetLjqH2E.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQsrdHYbE4z9FBkvcQdcHzgP6pokFDAwzLcAmetLjqH2E.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQsrdHYbE4z9FBkvcQdcHzgP6pokFDAwzLcAmetLjqH2E",
+  "PieceCid": "baga6ea4seaqa5kp66bfzpz6ktmw37attfehfbgw5kl3rlfgnyth5cbwn3u4bmpy",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig2fxsm3i3v37yiv5i3abwkkkzguhkehg7wxql5d5h24zp2woslxe",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiglycimgcl25nw2obu2u4s5r5i6i2g7oilrrvj3fioxtvdxegyz5m",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreic6ahpjjqzgvcse3idqnobyjrdmgygbky4mcgnmczgcw4tikp57sa",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmSjr5GnbdZsGNhmiY2ParGxFbdwB9FzGraxXSNpkDosTs.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmSjr5GnbdZsGNhmiY2ParGxFbdwB9FzGraxXSNpkDosTs.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSjr5GnbdZsGNhmiY2ParGxFbdwB9FzGraxXSNpkDosTs.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSjr5GnbdZsGNhmiY2ParGxFbdwB9FzGraxXSNpkDosTs",
+  "PieceCid": "baga6ea4seaqgfjhpxqwxldd3meluo3zhtmr7elmo5ikzdotzx5twxkevblh4qdy",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid4o6svjq7tyvusvff7i5zu6qhag5mvunfotohwdpzkxlrpmukdgq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigk6aivjmuqkbbyayyvde6r2jiw5dua5b4gb4scesfawlrogcgihm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicjigmpn4x32hhpymxnkeqsq74mxgm44bjstxzrskvctimp6dn4zq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmUzc6jZTZ8fr9WhP1aoG3HTatA75ot2aXztFWQUf7gZsh.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmUzc6jZTZ8fr9WhP1aoG3HTatA75ot2aXztFWQUf7gZsh.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUzc6jZTZ8fr9WhP1aoG3HTatA75ot2aXztFWQUf7gZsh.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUzc6jZTZ8fr9WhP1aoG3HTatA75ot2aXztFWQUf7gZsh",
+  "PieceCid": "baga6ea4seaqcxnphssi5io5eirkakhlkothpawpbbdecvzzbgb7j3pni44prghi",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif6tklwziugdvkt3nk66qmgc4hg3ukutpcjlp3kvnurshpj3upwdi",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiefbvrskuxnfppjmren5ngayx7grmmeracgalpg4ddvx3j4cs3j3u",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibfkznxcdnqsx4h2o5zdnaullep5mlt3msuvott6wsykctbih2674",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZmJZ9iXSCNgdzHA3GkmDZq8cAEZMMShVEqomqCrLoDrV.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmZmJZ9iXSCNgdzHA3GkmDZq8cAEZMMShVEqomqCrLoDrV.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZmJZ9iXSCNgdzHA3GkmDZq8cAEZMMShVEqomqCrLoDrV.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZmJZ9iXSCNgdzHA3GkmDZq8cAEZMMShVEqomqCrLoDrV",
+  "PieceCid": "baga6ea4seaqcdotwesohwhg7ru5elabrlwl2cjjdjidycrnu5b7mag36lmy2sei",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaij74daqhgbh7du6xbgmf3enwzw6hb3dr7awugmewxpqebdwb4ny",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidb6l73p4mn6jwykyvvrnnxeyxrfwfqxvdwwnh2folibsrl76wrom",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibltttecfzi5kyq36qavob2rxejitucao466bhi4fzwll2dpgiri4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634602,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmd6pXP1JakKpRmLDPUaYCnsTzW6NKvAmxJaSy3NWjFErJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/Qmd6pXP1JakKpRmLDPUaYCnsTzW6NKvAmxJaSy3NWjFErJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmd6pXP1JakKpRmLDPUaYCnsTzW6NKvAmxJaSy3NWjFErJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmd6pXP1JakKpRmLDPUaYCnsTzW6NKvAmxJaSy3NWjFErJ",
+  "PieceCid": "baga6ea4seaqozhwsghkfnolbumkdyctgdyzphoaywok57ehi3ehup72q7eeuopa",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiemlewgucacakcsqnkiynxtqqsa2egfveej5jh5pb3wlrtvqfreby",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidhi33shufsfhvd4ad2tpuzw5c3zsvd5sgup4avizzgn4abwenkf4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihdyugeg7jacvooplp2mmckzo5epgsd6qhp2pqz6k6kqeujxm7arq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVQTx4xptCQ3LnpcvDXSwbKsWQPdEhbP6MaHRAbhochvD.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmVQTx4xptCQ3LnpcvDXSwbKsWQPdEhbP6MaHRAbhochvD.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVQTx4xptCQ3LnpcvDXSwbKsWQPdEhbP6MaHRAbhochvD.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVQTx4xptCQ3LnpcvDXSwbKsWQPdEhbP6MaHRAbhochvD",
+  "PieceCid": "baga6ea4seaqgzkownxo6wesxe6fn5hvjrewxozgbdysjwwqq5j54772ypue3qka",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid3zzwchaj4hngqwljkojemaqej6iynbg72maspto7qw6zsa27key",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie5av7k7gxoiko3arizq6ryjerhczzxfmaqjctxw64c2zc5dbnagq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigumwitw3juyav6aue4yphe56p77giwzfkgxasabhd7tb3dsu46ju",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQc5stLoyrdy9NaAQLMdgkqD8JS3CJMve3b8cSeW1uMc6.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmQc5stLoyrdy9NaAQLMdgkqD8JS3CJMve3b8cSeW1uMc6.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQc5stLoyrdy9NaAQLMdgkqD8JS3CJMve3b8cSeW1uMc6.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQc5stLoyrdy9NaAQLMdgkqD8JS3CJMve3b8cSeW1uMc6",
+  "PieceCid": "baga6ea4seaqgpcxe6fawm2kj32duwhuqw7km55g6xfetwnplk55d4hb4quztwna",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigmsn2qyu4ofkyiyh5twlpivff4vpyqyqh2sher2dhocp4mxbtig4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreic6572y7r4s24vcmfsbnjnut3af4tvd56tui2vv57aetfeka4rzgq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiattootzgu4e6tcwx5tnpnh442rwk2damhmjt3xhet5opm7lunkze",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "6ad3d412-7245-4a0c-94a3-167d52d9168b",
+  "SourceFileName": "erigon-mumbai-archive-20230130",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130",
+  "SourceFileMd5": "",
+  "SourceFileSize": 9774631165,
+  "CarFileName": "QmUpZKV4mLgaGyAMAMuazmipumCX2FD989oCS2iGdxLbge.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mumbai-archive-20230130-car/QmUpZKV4mLgaGyAMAMuazmipumCX2FD989oCS2iGdxLbge.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUpZKV4mLgaGyAMAMuazmipumCX2FD989oCS2iGdxLbge.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmUpZKV4mLgaGyAMAMuazmipumCX2FD989oCS2iGdxLbge",
+  "PieceCid": "baga6ea4seaqdehh6tytfhhrarugzmpezb7yc7ksbh3bxvfjgdz4xfazrzvbwmjq",
+  "StartEpoch": 2634481,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiejhiig2fqqxlspobtlm2vvcddqweqfszbvjzdttvtboplbqouor4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifvyn5josw4fixnelzdngrfmbtxlsc5kjni4j4vrgusf7gd6nrrja",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigd7yz7upahock4jhms2ggdqzzt7rb3mplwptyka3pmgm2jwmx7wm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634603,
+    "Cost": "0"
+   }
+  ]
+ }
+]

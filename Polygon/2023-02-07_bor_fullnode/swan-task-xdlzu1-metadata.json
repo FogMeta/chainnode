@@ -1,0 +1,3386 @@
+[
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVUbzQNCQnmqEARUW6a9wm166iTCmKaohHUyro1wxciuq.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVUbzQNCQnmqEARUW6a9wm166iTCmKaohHUyro1wxciuq.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVUbzQNCQnmqEARUW6a9wm166iTCmKaohHUyro1wxciuq.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVUbzQNCQnmqEARUW6a9wm166iTCmKaohHUyro1wxciuq",
+  "PieceCid": "baga6ea4seaqerdi2py5ytbsfnztlxmtzm7sudu4gicbdmj6skw3elg3ndeneada",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifplbzsmgiy25fh6bpyde5zfc6o5oxzvlbjc5rp2o6klzq34rokni",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreig6nf5cnnbxijbpcjoyedfglugio2jevb74xcjmuxc6ikg5t5vf4m",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreici7csorqbo7gyha6xnfyutunkuqvmsr7qxua5rt3wdsqvog72t2q",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZwqm5jjaAzTqqB5a9D5EgFKGFfPXikJa1hngKTRSipke.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZwqm5jjaAzTqqB5a9D5EgFKGFfPXikJa1hngKTRSipke.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZwqm5jjaAzTqqB5a9D5EgFKGFfPXikJa1hngKTRSipke.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZwqm5jjaAzTqqB5a9D5EgFKGFfPXikJa1hngKTRSipke",
+  "PieceCid": "baga6ea4seaqovpjs5q6qleyrsz6xw7woozm3uzeblrlpzhlhxk7suoc6jk56uhq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidc5qtjdmwgoaf2btzqwqvitvajbybsnid7u7ccykfphcyalgnwky",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihubmf2m3xvbh5nhnb6oepnory53vrvypwyf53xjmguvdmft35rmi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreichn4x4fkmtbps5x7mhhwx3ffohbalp6p4fixmqbqrybwd4k27gku",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmao9TxWQn5gpQmdUiub2TqVmzqSH9wgRkgTdC1ELcK2qy.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmao9TxWQn5gpQmdUiub2TqVmzqSH9wgRkgTdC1ELcK2qy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmao9TxWQn5gpQmdUiub2TqVmzqSH9wgRkgTdC1ELcK2qy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmao9TxWQn5gpQmdUiub2TqVmzqSH9wgRkgTdC1ELcK2qy",
+  "PieceCid": "baga6ea4seaqbwfcarimxhhdetkbmxtvpcz3uf3ujn3jmfuaeddzqoe575vpbkgq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicnuxzlwkpnuszkujl6kx3vo7w3jtmvmfunhbto3l55rrzpk73fwq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie2lsgid6xjqefn7gvik74cncfwi6gv4ec6evzsurzdke4hbyrase",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaopukwcp2myfxvlohpzkq7ghjju4vdavmdeeucu6m3m5fi4nj2lm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634643,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmT7FwDAi3V1NGqgbV8wdEwbuo9YAjuWPKa5DJYCGAfjtc.car",
+  "CarFilePath": "/151/bor-20230207-car/QmT7FwDAi3V1NGqgbV8wdEwbuo9YAjuWPKa5DJYCGAfjtc.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmT7FwDAi3V1NGqgbV8wdEwbuo9YAjuWPKa5DJYCGAfjtc.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmT7FwDAi3V1NGqgbV8wdEwbuo9YAjuWPKa5DJYCGAfjtc",
+  "PieceCid": "baga6ea4seaqjbbcfvzmm7ae2bqsi4u3o4lsaise6fz4vhsopx2c5umklr3j7uiy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicjfk5ebunb2qprmpbsigf2xx7cx4nk4voadzpdvca4muqjusuntq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie3tcsxrgzyhv4lodhin5367wixf34qucczy3se4wndqxc5umuqly",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreig6gtc5e3kidu4aucavm62dzp2cgk3whzhptqjc3b62ltmfmxgwqy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdR2kHvfBGQYW6gXSbLdBJyU3pnVKgwDctkUGvbKXRNKa.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdR2kHvfBGQYW6gXSbLdBJyU3pnVKgwDctkUGvbKXRNKa.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdR2kHvfBGQYW6gXSbLdBJyU3pnVKgwDctkUGvbKXRNKa.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdR2kHvfBGQYW6gXSbLdBJyU3pnVKgwDctkUGvbKXRNKa",
+  "PieceCid": "baga6ea4seaqkadmelvynxa3bzpzswvjftyyhht5rvzrirfqxyy2mfeuodalmsbq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihpkojzedjavxyqoe6uz4fj6h6lv47yke23pvp25va77cil5lpvcm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiav2izwynaxqioncz23ytrcckod5ls6hzdrry3g2g22jbn4uodo3y",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibfbssb7ic7ayyn6vrkrrpfkyseceqgnw6scqw2bgounjs2bcfb2i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQQJJSrjoLDdxdm2sZF2oP2ctvC5EZ9VQYFei64VLoVug.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQQJJSrjoLDdxdm2sZF2oP2ctvC5EZ9VQYFei64VLoVug.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQQJJSrjoLDdxdm2sZF2oP2ctvC5EZ9VQYFei64VLoVug.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQQJJSrjoLDdxdm2sZF2oP2ctvC5EZ9VQYFei64VLoVug",
+  "PieceCid": "baga6ea4seaqoxmmknbfylot3744afz5heyk2wp72kufnsz4svlyucusliuno2ia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifdjzpqkl7zln6hbtluj2x23grcu7dnjfofjwndphty7kyyj44dtq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihdouklvgajmsvzslo5dwsc675itpgjh22vveqvt7wg2akjl53zqa",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreient4vmpakfaawuvbm53p7fvzcy7glhb2f5zatrricgbjlujsipay",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634644,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmWA1XtKWQ6JqwMNZZUgov87jgQ1mbq1SkSC8yn1YXE1Zu.car",
+  "CarFilePath": "/151/bor-20230207-car/QmWA1XtKWQ6JqwMNZZUgov87jgQ1mbq1SkSC8yn1YXE1Zu.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWA1XtKWQ6JqwMNZZUgov87jgQ1mbq1SkSC8yn1YXE1Zu.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWA1XtKWQ6JqwMNZZUgov87jgQ1mbq1SkSC8yn1YXE1Zu",
+  "PieceCid": "baga6ea4seaqamgoefwfuil6ikv53bomqpt7jmgu3m2x33hfih5qi4ra4xwmraky",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih6yasc7v4au2hcbkqdp5cox6ronumtebttavn62bznih4n43ovdi",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreieaz3gnfxsz3c3d7pjw4w4bnfzztd2vlxhw5afwvj422ijl6kudmi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicclreyltua3crvoipttyxevzbnyfdtvmszajeqphm656yo3krhse",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZ6RFEkyu3NQN6fLbXxKNyjYKKPc5Pg9eERwuJp8inSJR.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZ6RFEkyu3NQN6fLbXxKNyjYKKPc5Pg9eERwuJp8inSJR.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZ6RFEkyu3NQN6fLbXxKNyjYKKPc5Pg9eERwuJp8inSJR.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZ6RFEkyu3NQN6fLbXxKNyjYKKPc5Pg9eERwuJp8inSJR",
+  "PieceCid": "baga6ea4seaqhwecsdsmxfk6klppl4pcyoa7nntg3eluatzrjmdydp5r7bvz2cia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiebj33bph3u2b57f4i22xpoohtqcp4d5fwfpghog5cceykho2k35i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihx6w4wr3jk4xnievzflgtueu2x2poahygfs5sciti5bzpj7ihccq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicxfvjswpvddoiyqnk6eqohnqe2d4p7q5h3ngmjeqeo75zvtt2jhm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmcTbnNK73yP1Znk5t1rwabzCiXwVz1BwHLacDoXw9XK8G.car",
+  "CarFilePath": "/151/bor-20230207-car/QmcTbnNK73yP1Znk5t1rwabzCiXwVz1BwHLacDoXw9XK8G.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcTbnNK73yP1Znk5t1rwabzCiXwVz1BwHLacDoXw9XK8G.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcTbnNK73yP1Znk5t1rwabzCiXwVz1BwHLacDoXw9XK8G",
+  "PieceCid": "baga6ea4seaqm6s63xo522nxr6z62tq5pbh2wm37nhnlsljnhbu3rrth5hkmbmda",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaw77x6go7inhfcrqbxwfgldzuklumcloxxmjagy2hxqioookvn3u",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib2diegifdqtvzk3bczgdnr6hqcsgypsckniir2ly6uoqjbelxm3q",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreietg2wkdu5rkrldoiueap2dvw5viwahit4d56qlnei6japckc37cy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634645,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmYYRAJvaD4HJajYhcYt46K7jFWT7cpK8vUGENP2fy9zeZ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmYYRAJvaD4HJajYhcYt46K7jFWT7cpK8vUGENP2fy9zeZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYYRAJvaD4HJajYhcYt46K7jFWT7cpK8vUGENP2fy9zeZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYYRAJvaD4HJajYhcYt46K7jFWT7cpK8vUGENP2fy9zeZ",
+  "PieceCid": "baga6ea4seaqnkicrhsswelvzlwm4spnrsjmcaxnjov7qk4wttbry57unhivhaki",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieb4qeoz5aftainhmywistkpymfug3jtto3s4lufguxownwohpelm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaryfjyqzly3xw4dbdggkxkrk43unqjogkcmin2y4fg7r56rmmhfq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia6obfiv3ulo4vilr2jufgsae23ifeinrzffnf7mwlmc2o5ibyyye",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVqSDt2UfbL77J6kPYpzatgoA5zu47NTm4Bx2jCcnWzVf.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVqSDt2UfbL77J6kPYpzatgoA5zu47NTm4Bx2jCcnWzVf.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVqSDt2UfbL77J6kPYpzatgoA5zu47NTm4Bx2jCcnWzVf.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVqSDt2UfbL77J6kPYpzatgoA5zu47NTm4Bx2jCcnWzVf",
+  "PieceCid": "baga6ea4seaqdr4gti5oiuzvhyt2pnhfvvwhuapwtzvxl27gy54jlv2thxt4kaga",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie6qj4kiegusvj5duyx2a4jsie3yp6ciywuh5u5ghwknvhhv5dbdq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibdy7u6v4yqqabehdg2ktzxiripvuvf5ep5j5z4bdpa3zg2yar36u",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreignbgt65jmlk7odko55fk32pmkvpymz2cncsymm47mxxfz72oedjm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634646,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQ6tNbRqNaQWY6aS3xWSRh1wdJ4aKauzQxiBS1jQZzsSz.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQ6tNbRqNaQWY6aS3xWSRh1wdJ4aKauzQxiBS1jQZzsSz.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQ6tNbRqNaQWY6aS3xWSRh1wdJ4aKauzQxiBS1jQZzsSz.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQ6tNbRqNaQWY6aS3xWSRh1wdJ4aKauzQxiBS1jQZzsSz",
+  "PieceCid": "baga6ea4seaqerxdiwg2lo4ui5adab7w7fs6u5mx7hug2peth47xfbdiovvtmuay",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid2lreijshzrjrnfp7hola5hrjliktm3pybkrvv3bu244crzf2liq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia4ui2a26opil5rvpcmg4gzpkmcgrjirznpxrdbhl2k6crbg2pjoe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidvkymppmir2b6rolenho3vjqcq7razxmptm2e2mplnunoxdlixli",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmegT1xEWjiTrZxJygxa9JELYK5LtH1hDv2gJCqBy1TNeK.car",
+  "CarFilePath": "/151/bor-20230207-car/QmegT1xEWjiTrZxJygxa9JELYK5LtH1hDv2gJCqBy1TNeK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmegT1xEWjiTrZxJygxa9JELYK5LtH1hDv2gJCqBy1TNeK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmegT1xEWjiTrZxJygxa9JELYK5LtH1hDv2gJCqBy1TNeK",
+  "PieceCid": "baga6ea4seaqekgpjo2bol77potti52n5lf65qhgdre2kjya6zhkveljspbvzsca",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreideliypph7e2ipezomxep4splee7utv4w4s6dpumajfg3rmeworve",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreignfn2whduqq6i2nalkmq2en5m23pw5zlzgzy4havt7tgkxymp4vm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiddv7346nuqutsz4wj4z2jwqgbyagaeqoyiggdfslm526zvhxz6h4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmXcFBuMEPs8pSbFjpV5YAizggepZ7hpb3Wfo43sPMKTmJ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmXcFBuMEPs8pSbFjpV5YAizggepZ7hpb3Wfo43sPMKTmJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXcFBuMEPs8pSbFjpV5YAizggepZ7hpb3Wfo43sPMKTmJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXcFBuMEPs8pSbFjpV5YAizggepZ7hpb3Wfo43sPMKTmJ",
+  "PieceCid": "baga6ea4seaqnu2bs3iacd2dairb3gv746n5hvwjtswinfghpsga375ls3nrwupq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieuj6qgvr3kic7zckb2cmt3hgfza6tcioza7355tvl4i7sox2ktse",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicgfbpf244pf4vxeyoszhg47o43qekzenofz33iuaejrsr6snpvma",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibzwuchewlstgah2ap5wa3grvnsi37p64wcksnd2xuoitxka5ktu4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634647,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNZhqubVD17w7zTzqM5YtyRsdxk41QvyFawaqNwhz9KMz.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNZhqubVD17w7zTzqM5YtyRsdxk41QvyFawaqNwhz9KMz.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNZhqubVD17w7zTzqM5YtyRsdxk41QvyFawaqNwhz9KMz.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNZhqubVD17w7zTzqM5YtyRsdxk41QvyFawaqNwhz9KMz",
+  "PieceCid": "baga6ea4seaqg2qvggmnurw2yuktvu4r6q653tr3k4rilntkqdcrvfsuhizl7qmq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidcdmvfgkgsz4jmjkljqlyvy4atk4xom3ygav5ljxauf22yajcfay",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreieunjrueanft3khq4fcj3ycelvc4d7z2z3byfxaooppipknhjoqly",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihi2xeddgv546kudjyheohdao7upa66lvzambqbpxyll6rznqeoyu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmc2LFxUG8AVb9gHi29sWACZ1XJXcfp12B7nyuDcCPTeRe.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmc2LFxUG8AVb9gHi29sWACZ1XJXcfp12B7nyuDcCPTeRe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmc2LFxUG8AVb9gHi29sWACZ1XJXcfp12B7nyuDcCPTeRe.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmc2LFxUG8AVb9gHi29sWACZ1XJXcfp12B7nyuDcCPTeRe",
+  "PieceCid": "baga6ea4seaqewlt2bh6twqhaclf64qizbadfskdkvg2oxsecbmn3kj5onl4gkoi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigvqqdqqlauf7cgor6kvrbjje3zozt4v3dyciyotv2kbvtmwfdj2e",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreih5ilgf76vddv3efdnd6yfm4gnm2nahgbketig72q5upj54pxlo6u",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicskw4o3zl5434xkw5e3spvm6npym7t6ypnkbs7lnmct4ia2wjxpa",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmURLgh7oXA2XrHmnRPXuvhYdRxT3THy3u8oQ7q1yxZYhS.car",
+  "CarFilePath": "/151/bor-20230207-car/QmURLgh7oXA2XrHmnRPXuvhYdRxT3THy3u8oQ7q1yxZYhS.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmURLgh7oXA2XrHmnRPXuvhYdRxT3THy3u8oQ7q1yxZYhS.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmURLgh7oXA2XrHmnRPXuvhYdRxT3THy3u8oQ7q1yxZYhS",
+  "PieceCid": "baga6ea4seaqjgiuntxmwxfm25xtaup7i4ma7fcyelhh56q4p2ilx7ge33ai5ika",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidvezqypo55h6iiruubytvhhwdsqiy6vjwmyj6324zwlanzfbbznm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreif22ydv4wilaxo56mqp4w3c7gnbyejr6va6jup4jeythzqtfrqesi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiewyskapoab7pjq7edwl7v6te4nqqhndhquyqp2t575k2xsizmr5i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmcziDnozx7TWTrFZr7TCd4ENFKMTYhWuFRKm41ntcwp35.car",
+  "CarFilePath": "/151/bor-20230207-car/QmcziDnozx7TWTrFZr7TCd4ENFKMTYhWuFRKm41ntcwp35.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcziDnozx7TWTrFZr7TCd4ENFKMTYhWuFRKm41ntcwp35.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcziDnozx7TWTrFZr7TCd4ENFKMTYhWuFRKm41ntcwp35",
+  "PieceCid": "baga6ea4seaqa3diovl6vi5i6yjiouw2gz3awfw4gjvdusbnyqx4prezycvwiycq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic45x7acquwvynhniwlapsezlgrtlhtbtnszrdefzwpbyogkx2mzq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiatssyntnp6erwo67kw37cqakzx3avz2kkythmq27khzpuxjxaaiq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiajnltvhyqjwvahipg7tq6gt42e3iplz5ccujbr3tzerqrvbirvkq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTYjAETDkCUcuQpWxFencjGYzgc4dzQZMKE35bsniPYLP.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTYjAETDkCUcuQpWxFencjGYzgc4dzQZMKE35bsniPYLP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTYjAETDkCUcuQpWxFencjGYzgc4dzQZMKE35bsniPYLP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTYjAETDkCUcuQpWxFencjGYzgc4dzQZMKE35bsniPYLP",
+  "PieceCid": "baga6ea4seaqcugin7fi7oapdyh4ovpudgoxconrw7bhz6klvfs3fqknqeobkmjq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidsykky2b7dlxxtpji5qhvicwlqzntpq662btsvtrhjztbjnubd2i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibbqyasyxrr337mg4nbwecdmj3lr5toq572av3wsthda67jhvraoq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiceldfxcrujdqelxxtrq4gcao3yifbqzyklnl4odp24dodqktvmuq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634649,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTSeTbCFN5k4kb2xCbCa9SyKixW8TbUKcoPH6UmwUygqP.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTSeTbCFN5k4kb2xCbCa9SyKixW8TbUKcoPH6UmwUygqP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTSeTbCFN5k4kb2xCbCa9SyKixW8TbUKcoPH6UmwUygqP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTSeTbCFN5k4kb2xCbCa9SyKixW8TbUKcoPH6UmwUygqP",
+  "PieceCid": "baga6ea4seaqi4dxosmn5gsevrigpq52ekja5glzxtfga3jfn7ofrto7ywxstyfy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig7a52moyjhevcps3st2wlbi5n4rplvwofeo72f5qxbn6akamomcy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigrwergxjr65ooia73kvua74d3fpkuy6j2q3ep46757ngi4ro7usy",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiawesepslrsvixlousbogfp5ihtt4mxyrx42qt7q4svz6bfrqufba",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNgnSevv7ix3DGkgsU2zCLaKUYDKuivkbT5mkgAMbFWKr.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNgnSevv7ix3DGkgsU2zCLaKUYDKuivkbT5mkgAMbFWKr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNgnSevv7ix3DGkgsU2zCLaKUYDKuivkbT5mkgAMbFWKr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNgnSevv7ix3DGkgsU2zCLaKUYDKuivkbT5mkgAMbFWKr",
+  "PieceCid": "baga6ea4seaqfp4h7zdiltskwnrt3rjk4d6zcjcgzpl2lwvfqh6x46tuyp6rrqji",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaqcysxrofxevuzrdqbenmirhi5l6zjoffi5dc37i2kszhnfzczxi",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreid2p4ccxqqf66qw7o25mqpqmeprxfuaitndhqybghuygdwxqnvixy",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigohisnaplzekerwoinl547mhafuvanymtr5qp3s2cifh55payuwa",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634650,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmf53emExtuXv6ekZAkMFRU84nmPo7W7EXwJtow2rW4wRX.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmf53emExtuXv6ekZAkMFRU84nmPo7W7EXwJtow2rW4wRX.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmf53emExtuXv6ekZAkMFRU84nmPo7W7EXwJtow2rW4wRX.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmf53emExtuXv6ekZAkMFRU84nmPo7W7EXwJtow2rW4wRX",
+  "PieceCid": "baga6ea4seaqfy4n4j2bcpwezanqdzweofg2bnhq2oq6n5mtsdluojsclkbs62eq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid37hstluwtjndxgzfmcbi3es6jlaedzvph6vqwdfdaoie3xagahy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie6sjbjohgf2rwhogg4vqupetzlp45yvij3gianizchrqdfbiitya",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidzm3rjmm2abm4wvypqvk4dr34yt3tavab34grfoetzjc4wbmglsi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQvkkPKtdWfSQ62EVoatPQFwviuEdFoeMqu8vk8RzCk9o.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQvkkPKtdWfSQ62EVoatPQFwviuEdFoeMqu8vk8RzCk9o.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQvkkPKtdWfSQ62EVoatPQFwviuEdFoeMqu8vk8RzCk9o.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQvkkPKtdWfSQ62EVoatPQFwviuEdFoeMqu8vk8RzCk9o",
+  "PieceCid": "baga6ea4seaqmt3fbyzxnt4bg6ndbudu2oh46zxwrbw43xuma6esmqi2shpeciia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig5mq3cgsyftan7zekx5j7ipoyomjhikhxrquy6sqxf6u55qx3pgy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifqh6fl2ic4ao5obmqjphych553iit5xkvmefjbth3t2gfamvxism",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidkeymcige5eaycvfxptuowvklkw52z6c4emx7ezkhtjmtbwqe4xi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634651,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNzTZWeiQRPQmcYYQ9xTpxrWnCXgNohcicQfirWpmKPg6.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNzTZWeiQRPQmcYYQ9xTpxrWnCXgNohcicQfirWpmKPg6.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNzTZWeiQRPQmcYYQ9xTpxrWnCXgNohcicQfirWpmKPg6.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNzTZWeiQRPQmcYYQ9xTpxrWnCXgNohcicQfirWpmKPg6",
+  "PieceCid": "baga6ea4seaqf4obtzsu7q46zhudvbtpjqwnruhthhotxfdkvsc6shmdbt3pveca",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicrpdxqnrjskkv75fmty7rocvdetizhmcqvqfi4wd5trnoydo5s34",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreide47v6miwxrlbsm6gxlluvopdonqmo2yn2sjozspfxzzryo2sode",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiewd62b655ixpdyaxyjzxvyxwtb2cks7a7mz5z67yhdz7wjlqalha",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmeJxuX7o8Pt1Wy5q2qfN7RezVEP76BaHiydWMr5wRxis6.car",
+  "CarFilePath": "/151/bor-20230207-car/QmeJxuX7o8Pt1Wy5q2qfN7RezVEP76BaHiydWMr5wRxis6.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeJxuX7o8Pt1Wy5q2qfN7RezVEP76BaHiydWMr5wRxis6.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeJxuX7o8Pt1Wy5q2qfN7RezVEP76BaHiydWMr5wRxis6",
+  "PieceCid": "baga6ea4seaqn4zlo3s3e2q7mdqllm37m57zdlb3ptthxcdlvu44t3lj5i5kfici",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigqgm4q5ckqu4vkddx5gyehzvtk5uq4pn42h3rgxenknpg4z23jve",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibmslydtstyxyjpeu7pgkdrx7vatwfs3abi2jffxxya6esideeswm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidpekdno3p7ecb3knp2iquerblkvyedhiya4o32icxovojpagymci",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634652,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVP9pN36fTvEbnoeAj36AiZmYw7C6q4ttcUzteL2WRS6r.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVP9pN36fTvEbnoeAj36AiZmYw7C6q4ttcUzteL2WRS6r.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVP9pN36fTvEbnoeAj36AiZmYw7C6q4ttcUzteL2WRS6r.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVP9pN36fTvEbnoeAj36AiZmYw7C6q4ttcUzteL2WRS6r",
+  "PieceCid": "baga6ea4seaqk4tazz52dnjil56clcbdhdvakfuc5ns7xe7hjzfhhjy5ivdivyji",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigzf6wd2v635hiwbqg3sijqyg4oasm7xkjjz4j52goue4furernl4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia53zpt32qzllq7t6fjvgak3ezspwbeds43azath47ojovirgwnxq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigmnzpegcvitf6bnbsxsgepl7urxaauypkndfzvgt7awrnw6em7ua",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZiWQsyZo3bkAZJC2pJna8hzpVGKcpHVoUBjE3m1VEkcD.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZiWQsyZo3bkAZJC2pJna8hzpVGKcpHVoUBjE3m1VEkcD.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZiWQsyZo3bkAZJC2pJna8hzpVGKcpHVoUBjE3m1VEkcD.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZiWQsyZo3bkAZJC2pJna8hzpVGKcpHVoUBjE3m1VEkcD",
+  "PieceCid": "baga6ea4seaqoupd76j7tvr4eymdofuvm2rgpcgs4wbn36ueetmftjvfwu5wouia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigunnp5vkuyxtxtapetovlvj244b7uzlosnauryj3qwq2twrg3qsq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia5t64pgkccjt6ntsa3kf6f36wmcqpmxeic4on3f4zcsvyvk6dhom",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiexrfu5iscsbshumfhi2nt722yiqmxyrkh2teinkpmchvvejj32ce",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634653,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmSGKUsAYzVJxqPp17Abjj3jphoMHMG3aKpogW97rhM6TY.car",
+  "CarFilePath": "/151/bor-20230207-car/QmSGKUsAYzVJxqPp17Abjj3jphoMHMG3aKpogW97rhM6TY.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSGKUsAYzVJxqPp17Abjj3jphoMHMG3aKpogW97rhM6TY.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSGKUsAYzVJxqPp17Abjj3jphoMHMG3aKpogW97rhM6TY",
+  "PieceCid": "baga6ea4seaqcrarjb7zomuukcaosyvcym27szzpf5blysmyw2alqc67lfu7mypa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreignytctdhgbzj7ye34sz4dx6hczablsrkmzt4giqjfcuqwapnemnq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicowlusaptgejbgm34iz2cg3lxm4ux5ekuf5iwyz3c5xp55edzth4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidwe6c376gpcjvyqwoesnzg5pi2jnwim6vja74otn4cnm2opprofi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmeiYJZ24iXsXmdmXSrj9mkJwxCGLGBQUKK4VKx1rNUD9U.car",
+  "CarFilePath": "/151/bor-20230207-car/QmeiYJZ24iXsXmdmXSrj9mkJwxCGLGBQUKK4VKx1rNUD9U.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeiYJZ24iXsXmdmXSrj9mkJwxCGLGBQUKK4VKx1rNUD9U.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeiYJZ24iXsXmdmXSrj9mkJwxCGLGBQUKK4VKx1rNUD9U",
+  "PieceCid": "baga6ea4seaqif7h66zzusjfndl3fy62tzel6qrkdwnb4zskwpz2a4ztrr6oecai",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig23nltnj736gau54ymwz65w4ycrygfdrbuci3a3cugwbn4cnpyea",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihcd3n4h6yaeglgle6or7xxlf2ajhdetx6ar6ye4tjt62oxfjngte",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaq5szwx6zoorbrf5tbl2bpol3n2clxevexkmoblc6n2rdzczw3pe",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634654,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmUGTHfiEfzP79qwxeWZa3RhfYcnL5g1rMNzKcKGr7NT54.car",
+  "CarFilePath": "/151/bor-20230207-car/QmUGTHfiEfzP79qwxeWZa3RhfYcnL5g1rMNzKcKGr7NT54.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUGTHfiEfzP79qwxeWZa3RhfYcnL5g1rMNzKcKGr7NT54.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUGTHfiEfzP79qwxeWZa3RhfYcnL5g1rMNzKcKGr7NT54",
+  "PieceCid": "baga6ea4seaqj7gfsmwyl5sfza7v363ea2zbzen2zx7vog4pezkwrfjjumrj6uay",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigsykzchuusnl7veacttsbitbc63djvofzdy2m46mla2fnlegtkaa",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreievin7yl53bet24z26dyavq5ewbequgeskzybxkscp3kmosh5rg54",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreienewmkgaxa7bs4d7hk4du6xpsl74zo2qkv5lc7wpdm4q7evkgcxa",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdDCgDX7ryniwzDXhuBp7DLyVdAWL3LQFNDB364GSJBSi.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdDCgDX7ryniwzDXhuBp7DLyVdAWL3LQFNDB364GSJBSi.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdDCgDX7ryniwzDXhuBp7DLyVdAWL3LQFNDB364GSJBSi.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdDCgDX7ryniwzDXhuBp7DLyVdAWL3LQFNDB364GSJBSi",
+  "PieceCid": "baga6ea4seaqoqnaxf3drlyg42a4lrj5kx7hgwrl62qztxrcuh364hitz32sfmfi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihqhky6ncb5kn4offgoawrfqyw6mxk4ysobuwvbxttsxr7yaowxe4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreid3ontz32jsogpfef5rjp4j2kzu3o2rabuajedsmzvdsmi2rhsgje",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicp2xmhbr2unaqzptwar645nfmxgxknekdzodxbtuxli57it6zc34",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVTa1U5PXxe2f8qzcUVpKLowEKtosD3nbmom5MoQK7oLK.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVTa1U5PXxe2f8qzcUVpKLowEKtosD3nbmom5MoQK7oLK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVTa1U5PXxe2f8qzcUVpKLowEKtosD3nbmom5MoQK7oLK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVTa1U5PXxe2f8qzcUVpKLowEKtosD3nbmom5MoQK7oLK",
+  "PieceCid": "baga6ea4seaqkk34pcylx5xpwiz5femea5n3mfbrtmdm5mtyq2fj4atsy6tn2aai",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiat6mkh6vuyxnafixx5kiqqtqxmc55tplff7vn2ucq667gbaz7zya",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiffwrdiioa7esu5xqhmkng6i3ld56xtmnolk4oxydyqjoh2nvycwu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihonrwyti523sjbtb52pwnmmvmio47hqsksmm7v36fu7zrm2ft5dq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634655,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmRCvxxUQvTwXfS6aEsJ9JnG41hHuZJX7sxwPTF7Bgdg3n.car",
+  "CarFilePath": "/151/bor-20230207-car/QmRCvxxUQvTwXfS6aEsJ9JnG41hHuZJX7sxwPTF7Bgdg3n.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRCvxxUQvTwXfS6aEsJ9JnG41hHuZJX7sxwPTF7Bgdg3n.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRCvxxUQvTwXfS6aEsJ9JnG41hHuZJX7sxwPTF7Bgdg3n",
+  "PieceCid": "baga6ea4seaqmeqgroqeogsokuithyk25qlvczadwgbm52ym7vszgvxnfqrubsca",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidwelrcmm4ouw7e3k3aw3r7peyqqtdqmbvf5r2agmxcllh2xknq6i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie4lcw5e4gdd5kg53zhwr75cdhthlhcbrk72n376cgqh34qtfflim",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreih33asi3e6eogog7t5rwwgkoh7ycwjjhuxphnyjonw3bdvkva5exu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmU1pxboakeQVp8oDGjeSv7AztV5wHnvvvDqo6cMcntihh.car",
+  "CarFilePath": "/151/bor-20230207-car/QmU1pxboakeQVp8oDGjeSv7AztV5wHnvvvDqo6cMcntihh.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmU1pxboakeQVp8oDGjeSv7AztV5wHnvvvDqo6cMcntihh.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmU1pxboakeQVp8oDGjeSv7AztV5wHnvvvDqo6cMcntihh",
+  "PieceCid": "baga6ea4seaqjyadw4ajanlonqxhr6b3fhklf2hu56evodsd4obmx4okc3ba2qei",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie6bwqrpbz5gtrnetnnhrn7hfrgmoi75c4fzje3xnrvi5iagw5cm4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibpkcp5aqeem5h7w6vlc4jvbgc4easee2d5mx5vlabmmxjr3nbpmm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibhyq4r5pjgc7hoaslhs4dvokjjp6iu6czemxg2yzrjd3h2wk7uby",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634656,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVG3fuGv3ZawJSwRSaZ5KJ5HdfxmTR9mHFsDhZYMedhzL.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVG3fuGv3ZawJSwRSaZ5KJ5HdfxmTR9mHFsDhZYMedhzL.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVG3fuGv3ZawJSwRSaZ5KJ5HdfxmTR9mHFsDhZYMedhzL.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVG3fuGv3ZawJSwRSaZ5KJ5HdfxmTR9mHFsDhZYMedhzL",
+  "PieceCid": "baga6ea4seaqje3lors22ycwz3appoi5m44juoi3giyjefnwt5e7ogsbqiut3chq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaddmbvdtxnpkmszsqll42ox6hqbjhdmz24lbpgkv2hscwaa33h6i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibzvn3ibvhs2gjdbtvgwjyvtazshcnvlw2l5yndxs2nhq467jn4sa",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaudfj4rk3hls2akryivgxsrv4iigj773zyrvfoxn2msevggla2ay",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmRYvb5ULRnM4K68JqMHuDFbje6k57wVdyoTbkDj3a8bSh.car",
+  "CarFilePath": "/151/bor-20230207-car/QmRYvb5ULRnM4K68JqMHuDFbje6k57wVdyoTbkDj3a8bSh.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRYvb5ULRnM4K68JqMHuDFbje6k57wVdyoTbkDj3a8bSh.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRYvb5ULRnM4K68JqMHuDFbje6k57wVdyoTbkDj3a8bSh",
+  "PieceCid": "baga6ea4seaqn424rmtskvuoqcjfacqcem2lgvekxao7vtktxntijzyqjcgvbspi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidg5rl3wtniinxkidi6u45qpenbp32wctjdleqr3wr5q6ffa7z34i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiccfcimdyur3dgsw2bjkfxyw33buycmzz2q72srg2t46vxtium7si",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiel4fummrrhu7i5ekxuneyaqjr737amib23o2v2jwddeilhmjq52a",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634657,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVLeMv5qUF8XWvYXhn9g2oBzL3PAbpTTzLmAdnqoCtQPg.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVLeMv5qUF8XWvYXhn9g2oBzL3PAbpTTzLmAdnqoCtQPg.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVLeMv5qUF8XWvYXhn9g2oBzL3PAbpTTzLmAdnqoCtQPg.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVLeMv5qUF8XWvYXhn9g2oBzL3PAbpTTzLmAdnqoCtQPg",
+  "PieceCid": "baga6ea4seaqhnmi7ow76655f5ln3cozgxh5rjurgkpxsyd24f4qy3pwmewpk6mi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreier3hcnsk347nnwq3bbmfciccwiqjivzrrnllxucxddqrb72eljje",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibuukotuoiyusvmx6z2obnremulmq2vlyezurzzfbyyngbjpfj2zq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib5xm2ge6yfxohdrgksyxo4aig7eewam25kgfu2m27eq7hnglcbza",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qme3QirSjJt1UjqQSVGEUPo7poEjFYBn6oiz3tmSExqS98.car",
+  "CarFilePath": "/151/bor-20230207-car/Qme3QirSjJt1UjqQSVGEUPo7poEjFYBn6oiz3tmSExqS98.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qme3QirSjJt1UjqQSVGEUPo7poEjFYBn6oiz3tmSExqS98.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qme3QirSjJt1UjqQSVGEUPo7poEjFYBn6oiz3tmSExqS98",
+  "PieceCid": "baga6ea4seaqavexu5zad3rghhnlxcd7vwfhhln7f56ugasrzllst2xfv25rfoda",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidea466zqeqrpn7gzhvbhehtcarndx66mau3exovlye74zbntre2q",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicry3gbgsul4dfaa4sxd4g36jcdgobmqbp4htl6r4uo2in7jnonku",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib6yh26srekf4x646hzyeb4ymrzvqfqnvklugnkntp4yxcvkzwulq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634658,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdLHGQUnW8S13BtumHh9mXZseZ19e2tA6iSwPqnbFF2A9.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdLHGQUnW8S13BtumHh9mXZseZ19e2tA6iSwPqnbFF2A9.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdLHGQUnW8S13BtumHh9mXZseZ19e2tA6iSwPqnbFF2A9.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdLHGQUnW8S13BtumHh9mXZseZ19e2tA6iSwPqnbFF2A9",
+  "PieceCid": "baga6ea4seaqa2ic36tkmtcij5gpuf3uoqzdhv4fcbn6b4mlwvkpsjogxjnvz6oa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidg2piv5mrcx6qsxe4efcohzbtsmnqfgnkd7qjhd5outjhz3kpz74",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiguxx365vx5jvmzwiothzrajn4zgjunhsr52xbe7j7wjkxztvqfqq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigkqcaj6wo5xhwfs6k7llgqrfjjc7nxpzyy5fh4zmkiw2y3gjmn2y",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQ8RuiN2dRbv2Bzj2EsEYfYJWbkM5eAK1y7YhCwtkA3ds.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQ8RuiN2dRbv2Bzj2EsEYfYJWbkM5eAK1y7YhCwtkA3ds.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQ8RuiN2dRbv2Bzj2EsEYfYJWbkM5eAK1y7YhCwtkA3ds.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQ8RuiN2dRbv2Bzj2EsEYfYJWbkM5eAK1y7YhCwtkA3ds",
+  "PieceCid": "baga6ea4seaqmybnxwrvpdq2h46ich5n3tc5cjey4crmzcshmlqciplafkbn56ca",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid6mk75gccir5b65adbnbbhhr2j6ryopywnon2ejnm2mqzaal63km",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihnhomxdpwls6qsfmjicxvumfsukirkkc6murl7yyf7jibelzva6m",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaoxmxhxmtrhsnigcwl2rdrjex3klukijuppe5teww5wlglr3inni",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634659,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVkYqnvN6kCZEDHP1ifwVsffaB5xaNxtdbkfLXmamWu1W.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVkYqnvN6kCZEDHP1ifwVsffaB5xaNxtdbkfLXmamWu1W.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVkYqnvN6kCZEDHP1ifwVsffaB5xaNxtdbkfLXmamWu1W.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVkYqnvN6kCZEDHP1ifwVsffaB5xaNxtdbkfLXmamWu1W",
+  "PieceCid": "baga6ea4seaqes3g63xrq6icnueals7szbzcjewgbczdrkyq7csbd36nlptkuoei",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidi5u6ytuucrqwwnwkxgwp3e5pduvcxwoq5ddwbcjb3muc4kx35fq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634660,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidqe7ack4beta7g2jzgps67nyjysrg2r6s7gl76myzaaixb6ymbqe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634660,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreideuodoqkkqojuregpgmr2ntuj7pycgk3ups2zxn6yqcm2pn3tk5i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634660,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQbJh3Eg8tQxm4ZshqXar545g1qHKPZv8uauRXcVfoHSU.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQbJh3Eg8tQxm4ZshqXar545g1qHKPZv8uauRXcVfoHSU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQbJh3Eg8tQxm4ZshqXar545g1qHKPZv8uauRXcVfoHSU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQbJh3Eg8tQxm4ZshqXar545g1qHKPZv8uauRXcVfoHSU",
+  "PieceCid": "baga6ea4seaqfzaiblomaowkvn3324f6iktxrvqtt5scfg4wbhq74lme7vmab4mi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibi7y4z7gms72aolaobzcxxtfmmobp2zjcjseq77rjrr4b7yjebtq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiflcjumkmofhbvnb7imajx7aqk35w4f6datfvsbc4hvqrhyikrymq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiarhxjvcrxwg6nzfv2g55slicnw3fjucla366bw2baikpypfdp3zy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQtTprzQDNCJ43NJ7QAPmxa2aVZxcAqpntiuf6fUws4tA.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQtTprzQDNCJ43NJ7QAPmxa2aVZxcAqpntiuf6fUws4tA.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQtTprzQDNCJ43NJ7QAPmxa2aVZxcAqpntiuf6fUws4tA.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQtTprzQDNCJ43NJ7QAPmxa2aVZxcAqpntiuf6fUws4tA",
+  "PieceCid": "baga6ea4seaqmh4zuptoaiolsfen5tgyf6hf3gb4o2lwruaqqdgakrjbxcvyr6eq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigojm7suarbd66mywiyog4pinc6w5nlvig4ivbk6smq6yess4bdf4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifxyangw6ccagi2j4g4hcjgfnzfdptckv7tvnbv32ek4ccub5b4ki",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreid5alsxdiqhm3wp34aacfqhdqcoyrnrxfshk3ibob24qrca5vgz4y",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634661,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmcq2FDVCf22uj2NdYGYJwTt8GH8xCsBkryJpGaWyd1q6V.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmcq2FDVCf22uj2NdYGYJwTt8GH8xCsBkryJpGaWyd1q6V.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmcq2FDVCf22uj2NdYGYJwTt8GH8xCsBkryJpGaWyd1q6V.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmcq2FDVCf22uj2NdYGYJwTt8GH8xCsBkryJpGaWyd1q6V",
+  "PieceCid": "baga6ea4seaqji4bb3msqrjff4f3f53hffazl6usqwwga7673q7sesy2bawexwci",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieeeucxs4vsd7v6cnsbnmiupxv2rrzejawylyheeoqhhylcduizzq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634662,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifnj2iagecxugq2oh55gv6iwkbvobq23gkvk3hz4w4gqjyunua7q4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634662,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidxwcftf7vw5mftoo7dwbkx4zmxsillgtlml7eb64ihgcqm63ogdm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634662,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmc8S39Hgx39L3xvU7G2r75c72uHnd6z2ShM3iSDfzqFCP.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmc8S39Hgx39L3xvU7G2r75c72uHnd6z2ShM3iSDfzqFCP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmc8S39Hgx39L3xvU7G2r75c72uHnd6z2ShM3iSDfzqFCP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmc8S39Hgx39L3xvU7G2r75c72uHnd6z2ShM3iSDfzqFCP",
+  "PieceCid": "baga6ea4seaqbjtwbrokstjwefc6w7dzj7lgirfrahyp4h5iq4btljxmp3wczema",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreib73wfmlbsjejvu2mjsw5xcury66r345mzvhuiooybbtkpqpmoanq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibcxqlpyknieveggm3xw7fhvhae5db3oa2i6arnvkgj3hrww33kba",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia572b6gg5ssfmdjcaivwxamtrzxcmjmnxu4y3jarab2fkoocl22i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmRn5MXKWbSn7PZk6jfHqw5LSHKXnh1jWu986cYd7R7pPk.car",
+  "CarFilePath": "/151/bor-20230207-car/QmRn5MXKWbSn7PZk6jfHqw5LSHKXnh1jWu986cYd7R7pPk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRn5MXKWbSn7PZk6jfHqw5LSHKXnh1jWu986cYd7R7pPk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRn5MXKWbSn7PZk6jfHqw5LSHKXnh1jWu986cYd7R7pPk",
+  "PieceCid": "baga6ea4seaqonsmc6uvwsow3e6oecudjvw56qv3h67envcgagpartqdpkhfnyay",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidsp2x7upqfd5n2ayrseltyzd6fifnr5x3osmie5qgb5cxadxtnyq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidvolqpb3o4msvp5d5n6wdm3jjc53esags6tliarwiarmxgb2lcta",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiap56d2lwfxcloi36o5jrzik53g5da5nkr772cdiyy2xmvjcx27ce",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634663,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmPwaeyPk8WUfU6pCpeowXqh2U6mroxPiXtVwP71XKzMfx.car",
+  "CarFilePath": "/151/bor-20230207-car/QmPwaeyPk8WUfU6pCpeowXqh2U6mroxPiXtVwP71XKzMfx.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPwaeyPk8WUfU6pCpeowXqh2U6mroxPiXtVwP71XKzMfx.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPwaeyPk8WUfU6pCpeowXqh2U6mroxPiXtVwP71XKzMfx",
+  "PieceCid": "baga6ea4seaqfnjzffctddkreoe7an5hqtbh66jhknqnwouzizufvgnqew5pgoay",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic4zm3gq7ezvyyeh7pd4ys6hn3slrik6dkusoed5hiooagi2bavqy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicacvgwac5ci4nvze3oh673gsjazfrduslv6rb5kmvwnkwgxvbhvm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihznvdswfxw46saqf35jjbz4xd35mzuel37esu4gs5wwyqyhpxcqy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmToV4NCsfVXjbMfggo2Y1aPQzDggtkDnLbyV4QA6keTgr.car",
+  "CarFilePath": "/151/bor-20230207-car/QmToV4NCsfVXjbMfggo2Y1aPQzDggtkDnLbyV4QA6keTgr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmToV4NCsfVXjbMfggo2Y1aPQzDggtkDnLbyV4QA6keTgr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmToV4NCsfVXjbMfggo2Y1aPQzDggtkDnLbyV4QA6keTgr",
+  "PieceCid": "baga6ea4seaqeaqt4fcmtv37byq2jg7hki54yjislaik4u665nelihn4khytwwni",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicfkdtjpfe7k7kpwom5gjfcsrsxunl3crqac6dnqfwllyszno32a4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreig6yyoxtweoixxkg4wufwhnzpg7zlndzymjv3icnvmilhxfcjlx3q",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifms25hzjcsqi3xzbvarfalcegxtcasf4arozcvk6drllsxsg3cbu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNPaddXcrFYw89yYdZavxLH3Wiwhue7R9i48EV8888W5i.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNPaddXcrFYw89yYdZavxLH3Wiwhue7R9i48EV8888W5i.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNPaddXcrFYw89yYdZavxLH3Wiwhue7R9i48EV8888W5i.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNPaddXcrFYw89yYdZavxLH3Wiwhue7R9i48EV8888W5i",
+  "PieceCid": "baga6ea4seaqgg24kw53v5i2tejzm5ouaxg7ykbv6i4uppnc5umab6pfbow72maa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifkaukjklr4ripvnsqsgr2nbmjlx74szbioui2q46bxex45pncajq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie54eggyhn2gwbfgepjubfppriduxucxwr5clkfdjlyr3hg5ugoyi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreih6xe4vvinqzekiaaj457wyyplvwhjxp6cmf6hjicgkqnuqchw2f4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634664,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qmbv3zTRJD3Zz8wLfhtmU4ixASLfzEiqcRSiEsqQAUyouD.car",
+  "CarFilePath": "/151/bor-20230207-car/Qmbv3zTRJD3Zz8wLfhtmU4ixASLfzEiqcRSiEsqQAUyouD.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmbv3zTRJD3Zz8wLfhtmU4ixASLfzEiqcRSiEsqQAUyouD.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmbv3zTRJD3Zz8wLfhtmU4ixASLfzEiqcRSiEsqQAUyouD",
+  "PieceCid": "baga6ea4seaqjnafu2jslen54peniw7xcytxy7rwyiah6u7mef4coojlfa5g24ga",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifvulevauwjqej3o4yk5jex2pspb62gnldicmlv3nxkoekitafxfu",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihn5bw6menen2hnmhn4ru6etykxhrrcaf2wgmoq4dfeylofczlkli",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreieyh4x7wl6a6sqpsfxb3rnzocii5g6qpelvptikjvlyxqqm73ls44",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmPwaaK69gsoDVC3tc7twL7gVL6AAbHN2KLwjjy3QGsBuF.car",
+  "CarFilePath": "/151/bor-20230207-car/QmPwaaK69gsoDVC3tc7twL7gVL6AAbHN2KLwjjy3QGsBuF.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPwaaK69gsoDVC3tc7twL7gVL6AAbHN2KLwjjy3QGsBuF.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPwaaK69gsoDVC3tc7twL7gVL6AAbHN2KLwjjy3QGsBuF",
+  "PieceCid": "baga6ea4seaqmr6o6gjnie63r3bswsyc7ulk6evbi565smmkqclpdxvrpodlokoa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicowkvoodtpztzp36czwedy4ar6bux757jpsaa5qwfadt35dyxue4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihznhzglra7u6as3djezqgx3iazm4peto7kaup6s5kevk6sx74fzi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibmev33mpidyx72e7ife3aavaef5p3uy5xthq45kgirp3f5ujccby",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634665,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNrJ2j9Yvf6D3Z5eFjTGj13rPWNvech4mfRtxRdtE2ufF.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNrJ2j9Yvf6D3Z5eFjTGj13rPWNvech4mfRtxRdtE2ufF.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNrJ2j9Yvf6D3Z5eFjTGj13rPWNvech4mfRtxRdtE2ufF.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNrJ2j9Yvf6D3Z5eFjTGj13rPWNvech4mfRtxRdtE2ufF",
+  "PieceCid": "baga6ea4seaqb4i7rpehlr3vzwyhcol5kfdv3z2dxxjbp66tdalpb2rs46kenoli",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifnoyntoxykq53vspdg7q4mrtggaitswyyq6ezv7nnkbn4ohaiak4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigj7x5d2gqvt7k5nhswcktd43ggqvdjr23erwmaqttpcsnjrdpwnq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicmcpewjyuoy3radf2x56vlw6md56n5h5tzzd5mhvpdoesfrhthyu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVZbgnHCTA8JCwCtHqVGtkgsZv8XuCxQ661odHruFYah4.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVZbgnHCTA8JCwCtHqVGtkgsZv8XuCxQ661odHruFYah4.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVZbgnHCTA8JCwCtHqVGtkgsZv8XuCxQ661odHruFYah4.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVZbgnHCTA8JCwCtHqVGtkgsZv8XuCxQ661odHruFYah4",
+  "PieceCid": "baga6ea4seaqeqmh56xdbqd6xp6aamndjzeoxefmzlvrooj7xvfqgcaezba5tkli",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig333fsfehzewdqz4at7dh4ueejuyntlr5g4j2ux433irdvzc6vge",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifnrdbvahinyovwuie43377zlwzzdx22ofcrhsuqu4xgkby2357ou",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihi5juouz6jmoasiekc4zjg7h5cft4be4tccgwdhqwppin3qrjw2i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634666,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmWAh25WNW6dB7FS54bMcqV3D2hPztwszUu3BYcVuLrkx3.car",
+  "CarFilePath": "/151/bor-20230207-car/QmWAh25WNW6dB7FS54bMcqV3D2hPztwszUu3BYcVuLrkx3.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWAh25WNW6dB7FS54bMcqV3D2hPztwszUu3BYcVuLrkx3.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWAh25WNW6dB7FS54bMcqV3D2hPztwszUu3BYcVuLrkx3",
+  "PieceCid": "baga6ea4seaql7wyrwqorywq7uu3dgbs3iplu7jy4tqgbugibjewiafhs6y4mibq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiepkuwfi2fs4f6m5imscqjna3emcw7ybxtgwgvuqtwsp5ilaqeupy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreid6v2h6cezmwhlgtnpug6m4e5plbgkoqnrbclufzqtmyfchwhuvg4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihdhdmmqfzbksboninzqcloovb6ygqo4cl7oywrbvrnpll52cqeli",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmXGPAkpvATj8R9QNHJjyK3QqJxpGdBzKEDdZxNNbRBvKy.car",
+  "CarFilePath": "/151/bor-20230207-car/QmXGPAkpvATj8R9QNHJjyK3QqJxpGdBzKEDdZxNNbRBvKy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXGPAkpvATj8R9QNHJjyK3QqJxpGdBzKEDdZxNNbRBvKy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXGPAkpvATj8R9QNHJjyK3QqJxpGdBzKEDdZxNNbRBvKy",
+  "PieceCid": "baga6ea4seaqmv3dwtoa5ql7fhhddtyqgq32xgtzi3rek64zs2uabikdqau2xglq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid4lkmsksxjx4xk3pqg3ulgw4tmlrye7fze5ywb4ag5zhlxnxy7be",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiae37tervsbidntanmvgkljaqo52nq6umg4cjaoomxxmmdoh7vkxq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiehu6cktd6c3t55vo66ufsjffotsmpo6b2kjb27soc37its7bukgu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634667,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmUKm8znkLz23H4Sv64YoW9RLmbKhh9Qxb9B6g8mGRU9tX.car",
+  "CarFilePath": "/151/bor-20230207-car/QmUKm8znkLz23H4Sv64YoW9RLmbKhh9Qxb9B6g8mGRU9tX.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUKm8znkLz23H4Sv64YoW9RLmbKhh9Qxb9B6g8mGRU9tX.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUKm8znkLz23H4Sv64YoW9RLmbKhh9Qxb9B6g8mGRU9tX",
+  "PieceCid": "baga6ea4seaqhz6yrr3xmt46ugbwczfsavog2rqtjimgil5bkctupbosqrvstcjy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigenzc3qscndwolp7jlypcufgvcolvgiesocnua6yu46fyo3y4keu",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634668,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihpq2tdzvk6r5hxi3vzw23vsaarkrp5bqd2fnilapdpy3vck7shfu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634668,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidpxzbka5boijmc3yyayotex6aejmy3dnzjbv7skcpmowd7wd5zqy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634668,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmThSUWt6dAJ4284JFSbCwFZNY6gaFZj1ceXDc5cvnve27.car",
+  "CarFilePath": "/151/bor-20230207-car/QmThSUWt6dAJ4284JFSbCwFZNY6gaFZj1ceXDc5cvnve27.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmThSUWt6dAJ4284JFSbCwFZNY6gaFZj1ceXDc5cvnve27.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmThSUWt6dAJ4284JFSbCwFZNY6gaFZj1ceXDc5cvnve27",
+  "PieceCid": "baga6ea4seaqfqyxoxp2bd5jtp727u5yomsvsnocbho7m75jk47dmig45oa3akii",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihngyyfn7cbglpph7qbqhzjbrw3areea32yzn7dtsvnzbhhxh34cm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib4ui7hjd2oi6l5gg7i3p5vatfg4pv3u537avb3lro4u7aqzk6pwe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifxsenckadtiloswifpirvyf2daperidqloph2gnh2nda2yljauua",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdnzkNurR8ZySCLs7o4nZCLqK4h8qERyH7iy6PdRWEeAf.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdnzkNurR8ZySCLs7o4nZCLqK4h8qERyH7iy6PdRWEeAf.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdnzkNurR8ZySCLs7o4nZCLqK4h8qERyH7iy6PdRWEeAf.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdnzkNurR8ZySCLs7o4nZCLqK4h8qERyH7iy6PdRWEeAf",
+  "PieceCid": "baga6ea4seaqmougu6nxlzlw3wpm5cyxeic6azz2yambicckcxcgn76nzyes4yna",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic3h6vxnp2atsu2l7n3h46xbr7dmllzc5vkuezjddw7s3wfb5zcoe",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie5mu42avzuywf4tuqwofyzuav3b26hviomejy3znkzuth4vefqdu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibk423pnnu7lcjgozp6txexsl4jeit7a777quxt6csk54p533jkma",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634669,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmeBZeT5fHJhS2wih9Sg5wUT6HuWCrQtZnb6RmUAv3biyn.car",
+  "CarFilePath": "/151/bor-20230207-car/QmeBZeT5fHJhS2wih9Sg5wUT6HuWCrQtZnb6RmUAv3biyn.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeBZeT5fHJhS2wih9Sg5wUT6HuWCrQtZnb6RmUAv3biyn.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeBZeT5fHJhS2wih9Sg5wUT6HuWCrQtZnb6RmUAv3biyn",
+  "PieceCid": "baga6ea4seaqognctwmktsbswlnvql3wq6hoyiqky2llosuajvzmpatrysc5ysoa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihvakfqw2iglmqwy3wwzeirxjogcdrvm2weiyltocxvk5elojuxua",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihqfg5vieg3n7l6fhmm3goebndjqna5zl4eogxj3qjeayw2wrwdpi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidz6ea2se4y7buxic2dj4hjuadwws224ubizuauweptwr5n6vtizm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTYXGhHwgfx9zFjJ2vbWH6oETVyDe2DwaHVredLkbGoKC.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTYXGhHwgfx9zFjJ2vbWH6oETVyDe2DwaHVredLkbGoKC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTYXGhHwgfx9zFjJ2vbWH6oETVyDe2DwaHVredLkbGoKC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTYXGhHwgfx9zFjJ2vbWH6oETVyDe2DwaHVredLkbGoKC",
+  "PieceCid": "baga6ea4seaqka7yfqhekmiyq6utd7rbvp5k7hilxzjpgbvirlkklrifwdd2w2di",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreialfjhjtmkoaazjlaxit3a6n3pji3qnb5teywpdkgzl7y3fl4kmuy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiegjeks2opd3uf53qqdzbtgz3nhyjclgaxsgmcn5wilw3tbzlmx6i",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifgx5vlfdsz27qtkczmnuhc7rkgyhsjdsq3fjjhj73yvkf46n4u7a",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634670,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmNaVmT4Qi7hcz5tbNaQ4ib24P3Ra2m8hWM3WmysGA93PJ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmNaVmT4Qi7hcz5tbNaQ4ib24P3Ra2m8hWM3WmysGA93PJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNaVmT4Qi7hcz5tbNaQ4ib24P3Ra2m8hWM3WmysGA93PJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNaVmT4Qi7hcz5tbNaQ4ib24P3Ra2m8hWM3WmysGA93PJ",
+  "PieceCid": "baga6ea4seaqpgzr4wrgwhu75ze7cg4opnt5atc7a4oqyjxfargfvpsj76cnjabi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifux36k2u23j5sqaavmjsbufo5hyc4jnpvqdavub64rem7bziwt6e",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidwcienjj55f24caii3qclnxogo65ls2enjpnvtxtqivu2q2mukhe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreic53oq6o6432oezkw4xd3ka3vxbwtkkvlniiwp6wuumxmou5dc3iy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdEk3vUbsmQeiGtEPQ57jsyya3FiDCjCK1MZeBswrmbVf.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdEk3vUbsmQeiGtEPQ57jsyya3FiDCjCK1MZeBswrmbVf.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdEk3vUbsmQeiGtEPQ57jsyya3FiDCjCK1MZeBswrmbVf.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdEk3vUbsmQeiGtEPQ57jsyya3FiDCjCK1MZeBswrmbVf",
+  "PieceCid": "baga6ea4seaqlprckd7kzylvxocycsk7juhfzneo46ormceoxepav4t7pol3fomq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiasvg7obawxjl73kbvevynhhwcepkp7kjsmdrylaoc6khasjelzii",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihninu7cqpwnz5oxlublywl4elbusgdq44lyeztytuurxm3uml2by",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiafmz2m3u3tfc2lu675hd766jackvnpbm2hz7sytnbss2cbhof3e4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634671,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmczUezqhKH2x56aFhQoHpZRzMe6o3WopBgxJoPEDGfrFX.car",
+  "CarFilePath": "/151/bor-20230207-car/QmczUezqhKH2x56aFhQoHpZRzMe6o3WopBgxJoPEDGfrFX.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmczUezqhKH2x56aFhQoHpZRzMe6o3WopBgxJoPEDGfrFX.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmczUezqhKH2x56aFhQoHpZRzMe6o3WopBgxJoPEDGfrFX",
+  "PieceCid": "baga6ea4seaqebhw4vfe6xasp5ey2pl3hkbtrbmybesqp4qkeplkpzoppw3z26ay",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicbx4kv3a55xnng6tmet4qtj3spsjvuzcmhbfznoa7ngb4sxel5rm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiewjhfsoh7zsxgvxjeqnjejptbfcmackonzo4czhj3pmqrdbldvna",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigsdxwgzls6zo5kvcr64wl4o2udqsblaz7pp4ezvng3tj5rj6kv4m",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmaA1UyGHBoPXdPe1auNeXGYvHBGBkbWxyFzbF9DnNpTZZ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmaA1UyGHBoPXdPe1auNeXGYvHBGBkbWxyFzbF9DnNpTZZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaA1UyGHBoPXdPe1auNeXGYvHBGBkbWxyFzbF9DnNpTZZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaA1UyGHBoPXdPe1auNeXGYvHBGBkbWxyFzbF9DnNpTZZ",
+  "PieceCid": "baga6ea4seaqpokgvmlackbjd2br3o32et5jt65ihanip7icfyx7prx64rvpgiei",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicevw5z47h5hrzdnqcw4w6rtubjfigtc4chfuepwk3tgzf3t3xyum",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigpispf2u2lyyywgj5scnojhv3i44vf2p2fndai5ctkzd7425ytc4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicuutgfrpq3jebguqwtqlcjdalypcqzxrjv6fihdopcjwtklqlcuy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634672,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVbgCDhwfy3kMThLPLp5pKBmxT3yx86w4Sk7cA5yMs192.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVbgCDhwfy3kMThLPLp5pKBmxT3yx86w4Sk7cA5yMs192.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVbgCDhwfy3kMThLPLp5pKBmxT3yx86w4Sk7cA5yMs192.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVbgCDhwfy3kMThLPLp5pKBmxT3yx86w4Sk7cA5yMs192",
+  "PieceCid": "baga6ea4seaqn25vnubcoc4pn53wdimccwyy52foqvklrpp7xvpaw7ggpzqoaudq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig6x5twerdsitltjdttcuercdljwe36ajcb6eqxc5tt43rlu7qweu",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634673,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreianxh6nwdl42sh7uyfkujtqb7iaoa2jj4mkpa4ep4zzpn265stg54",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634673,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreighsmdw5re43tsttk3fctdzrcdi5wullyeoooriuzqa3yld22am7i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634673,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTFVfScMnKR2dJFvYdCDCXDHvJZSurSDKjW1iXG1fRecS.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTFVfScMnKR2dJFvYdCDCXDHvJZSurSDKjW1iXG1fRecS.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTFVfScMnKR2dJFvYdCDCXDHvJZSurSDKjW1iXG1fRecS.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTFVfScMnKR2dJFvYdCDCXDHvJZSurSDKjW1iXG1fRecS",
+  "PieceCid": "baga6ea4seaqgjarqk7gfgpls23prxkyt746jzv3wofpfpsaxs7zrtye6pl2amly",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibpmg7xicb47hwel7aivwwb7wknxi25zguk4d5ayzy5xz72dwfx4y",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreig7ewqlwbqyt43qm4kawxqjdcnzulj63j4inub5ywlrpzprcj2oqu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreid264gvwelrlsbtlztgn2mwk242t7dp7nmrtpg3cft46wdcsmmidm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmPJVWEkPGszyx4zHj9TqSSQDUBWk4CvrQpY3n7jwxDVbJ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmPJVWEkPGszyx4zHj9TqSSQDUBWk4CvrQpY3n7jwxDVbJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPJVWEkPGszyx4zHj9TqSSQDUBWk4CvrQpY3n7jwxDVbJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPJVWEkPGszyx4zHj9TqSSQDUBWk4CvrQpY3n7jwxDVbJ",
+  "PieceCid": "baga6ea4seaqn5mhg6ioh6velntzw4552efkmff3y4eawouzfgx24kel5wfs6gcq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicxvd4jkuxbtmummtmuwz7avxar6x5vsu3wa2nkzzrgsgqbpu3pj4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifmutwj4ogo3nejnmaoeogpwxgonahoii4rswiqjmhwzxfoy6c3q4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreie4oamdfff5z4w4l4kx7ce4e2njq2qkctxi6cd24vnlb3sw4dgdai",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634674,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTtZxjX8Q3q7pcfLurs2qvJZGKxA8HkFmUmY23TbyyyXA.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTtZxjX8Q3q7pcfLurs2qvJZGKxA8HkFmUmY23TbyyyXA.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTtZxjX8Q3q7pcfLurs2qvJZGKxA8HkFmUmY23TbyyyXA.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTtZxjX8Q3q7pcfLurs2qvJZGKxA8HkFmUmY23TbyyyXA",
+  "PieceCid": "baga6ea4seaqmkn45l3pvw5zfamuevg7gc5tkhuq4zazv56ggc2jhgck3v3dzmfy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieirihl6p6uumlisxlsnsmzqk6t2qgssc6rygg5kguzwe3uejbcre",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634675,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiha25aywvzzn46al6bhuargrzlb4il66myvm2uupbdahujmljppki",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634675,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifzj3rdih4vivzq554rfbhflnwe6ewzdlfnu2fz44e2753vygtcva",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634675,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZggFGpm6urnFfJD4aZyEEsptjcGgxZfMscDeBgc7y3to.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZggFGpm6urnFfJD4aZyEEsptjcGgxZfMscDeBgc7y3to.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZggFGpm6urnFfJD4aZyEEsptjcGgxZfMscDeBgc7y3to.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZggFGpm6urnFfJD4aZyEEsptjcGgxZfMscDeBgc7y3to",
+  "PieceCid": "baga6ea4seaqno66l6tpqmblvztv2c37dxjm5twch345mudw377tk3uoglcljema",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidjjpzlcy2h6hivvi5iy64mgbwi6o5s7eoa7gytb45q7cyy332em4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigiuw3pwahwestdj6eiepp7r5ecqw6dbc4fnnjwd54szuvon3itxa",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiblgskgebzkvdawxjd7c7237wfzjhb7pnzwbtdd2eed6t3shzglsq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmeAm7ZTi2WrKFFSe6HkVr5HSbGP9KJtpTvXEJxY9fcDJ1.car",
+  "CarFilePath": "/151/bor-20230207-car/QmeAm7ZTi2WrKFFSe6HkVr5HSbGP9KJtpTvXEJxY9fcDJ1.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeAm7ZTi2WrKFFSe6HkVr5HSbGP9KJtpTvXEJxY9fcDJ1.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeAm7ZTi2WrKFFSe6HkVr5HSbGP9KJtpTvXEJxY9fcDJ1",
+  "PieceCid": "baga6ea4seaqbubejkqc4bn57lncptv7f7dwwegpbinjoudhhig3bnimlvup2kby",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibae5rcumsdarqziebig6kkwknayja4xysdmbiuearsxkx3carw2q",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihdfhnzshpt4zou7iirlzq6upty3s4vekw7wzgenhbhgb6krsekxq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicbilpawgxhylufvcklm5hq4e372vgeze63whzpgsvkuffknwncfy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634676,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVKGiJV9CVQtrzMkgQWCu9zDRsTsYNZp71zURSgWSsEt5.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVKGiJV9CVQtrzMkgQWCu9zDRsTsYNZp71zURSgWSsEt5.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVKGiJV9CVQtrzMkgQWCu9zDRsTsYNZp71zURSgWSsEt5.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVKGiJV9CVQtrzMkgQWCu9zDRsTsYNZp71zURSgWSsEt5",
+  "PieceCid": "baga6ea4seaqfzwrbomb5qmn7xdb524jz62cybpjct37xqkkhdapacyxcd2bpgoq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif5lbhgfzozmen6dzumbiyv4lc5ham6jc6actn4qdhxejwe6udixu",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634677,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiejquaxm7metenyfpj6lynvie3p5woo4vnnenbdnwonkxr67df6ea",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634677,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiahxc3mac2ldvbevdybdqnngl3satn6wm7bkh6iswmskr76dphi5u",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634677,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmYC1xY4PVogQkzHcqddkuEcd1wFzfF6WWvbvDJoEfKibP.car",
+  "CarFilePath": "/151/bor-20230207-car/QmYC1xY4PVogQkzHcqddkuEcd1wFzfF6WWvbvDJoEfKibP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYC1xY4PVogQkzHcqddkuEcd1wFzfF6WWvbvDJoEfKibP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYC1xY4PVogQkzHcqddkuEcd1wFzfF6WWvbvDJoEfKibP",
+  "PieceCid": "baga6ea4seaqlmsk2pawqkryugg6ksp7ggi52lboqzgvbb4ezkxgii4nsxjnssfi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiazh3xwgn6inerbgi7qm4n7cbqn4m4tzegd52rmf4zpg4dft2ihry",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihgpo2pgjo3jogmh2ijeesexb35g44pgkgud7tsuamvq46cihbany",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifez5a3t5qqxasi6gugmppr7ceqibsj5pdjtwuyed2rmhoxs7uhxi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZLdErkjYe6kAW9NCvfhrF6SfYqBBPuLbAHin1s59Rv1g.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZLdErkjYe6kAW9NCvfhrF6SfYqBBPuLbAHin1s59Rv1g.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZLdErkjYe6kAW9NCvfhrF6SfYqBBPuLbAHin1s59Rv1g.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZLdErkjYe6kAW9NCvfhrF6SfYqBBPuLbAHin1s59Rv1g",
+  "PieceCid": "baga6ea4seaqiquq64oibijbcppdryubq5s2b5g5uknqyo3xtxwydhdts4zsneny",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihqe4mfjohizbnownvyevqstzli7y7fj3ff2su6gucbpvvwwdot2m",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreichdtg6hjeda5isltngjzxsq6a5wvn36d4wwrftqpzko3xc2jokfu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreichzb4trrdxg7j6oqschys34cuekj6oljse6xde7swr6w6qbjil64",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634678,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQgaABithfPqQwUotQykorHoRwQqpyhAs6P6WmgE8PaFB.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQgaABithfPqQwUotQykorHoRwQqpyhAs6P6WmgE8PaFB.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQgaABithfPqQwUotQykorHoRwQqpyhAs6P6WmgE8PaFB.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQgaABithfPqQwUotQykorHoRwQqpyhAs6P6WmgE8PaFB",
+  "PieceCid": "baga6ea4seaqnleol2iqddh6jye2dnrejef7traa7jmqdglrfzaqmwipledmbqka",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifsqq7lpduwfmagt5lgotcoptt22jcol4u2uczikwxznk2wpngfnq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634679,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibn7nvhzmmsp46uxhedtfdtcqsuqtxz23aafvdlk7p5off5izce2m",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634679,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicnjrym4lvoipjzz2lv3vurf5bxhtjk7qggmbdtp4dgn43qwefm24",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634679,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVm5mRWJkaGz2fo5696zsG8vYuCHx9LPRu5k1xq53ELVZ.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVm5mRWJkaGz2fo5696zsG8vYuCHx9LPRu5k1xq53ELVZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVm5mRWJkaGz2fo5696zsG8vYuCHx9LPRu5k1xq53ELVZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVm5mRWJkaGz2fo5696zsG8vYuCHx9LPRu5k1xq53ELVZ",
+  "PieceCid": "baga6ea4seaqpnph6zab7b2yysp44jzjcrqtq4zof245sxxgyk4ygbwgoe6ywoia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiauns4624d7by4tghur4ti2caqfahfryne2lckraoknm645qvtdda",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634680,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibgvo5gburicb2ldlaxojka4cmcmwasviiy6ixendkdgj2w2hl6ba",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634680,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaoy5gmwd6icssm6oh2rhmetzj5aij3dpzmp2zk3m37uffaotcfsq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634680,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmeLDq92dPJZghy45T3mbx5F4GPfgBPiEreJFYoxAaxq8D.car",
+  "CarFilePath": "/151/bor-20230207-car/QmeLDq92dPJZghy45T3mbx5F4GPfgBPiEreJFYoxAaxq8D.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeLDq92dPJZghy45T3mbx5F4GPfgBPiEreJFYoxAaxq8D.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeLDq92dPJZghy45T3mbx5F4GPfgBPiEreJFYoxAaxq8D",
+  "PieceCid": "baga6ea4seaqcb24gssr33zauj3jsvdz44xr54mt3arxirx5mdczptohnf7kiwka",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreierkobdat2hkwyl5bccnoyjkljqlfw3vajebl3jfhnzprm4w5jumi",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia5s2waroavx3q6546fxrc54ufcch7zq2ukp7rbfklqhu53df24fi",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidg27sakx7ngh43loliut6q6fx7riuptlstzj2ofk5e37prbw7bb4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmUuB4NQUsRPEYjTuYFtuJm4z3TRbFoGJ713SVgrf17iyG.car",
+  "CarFilePath": "/151/bor-20230207-car/QmUuB4NQUsRPEYjTuYFtuJm4z3TRbFoGJ713SVgrf17iyG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUuB4NQUsRPEYjTuYFtuJm4z3TRbFoGJ713SVgrf17iyG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUuB4NQUsRPEYjTuYFtuJm4z3TRbFoGJ713SVgrf17iyG",
+  "PieceCid": "baga6ea4seaqlcbxxlxvejsjuwchlh2kngg5c3drqkgq6iwd5lmypw32xifqzuha",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreib6jo2ljbw7nuc7mheqnpy526n7bnu2mtekqq2gwi2wqxzvwhu3e4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia7a4252it2ltu423krd5uiwnojfgbsox73czi57k3hcig2jmthc4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreieikvxfo347pznk7dniam2kfizv55nsi3f6ccw3hiy7rivhaqnk2q",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634681,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmXw6f5Br8xPewxbgd8zv2LA2vTzpNiqzirSmWFDbHTPgy.car",
+  "CarFilePath": "/151/bor-20230207-car/QmXw6f5Br8xPewxbgd8zv2LA2vTzpNiqzirSmWFDbHTPgy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXw6f5Br8xPewxbgd8zv2LA2vTzpNiqzirSmWFDbHTPgy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXw6f5Br8xPewxbgd8zv2LA2vTzpNiqzirSmWFDbHTPgy",
+  "PieceCid": "baga6ea4seaqkidtfmhdw34rxvsk76mzto5vakrxhmkvq7doge2idcah7hs4acly",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreia5iqqizlhvbp4czbj6c22ikuowdrvd4lvellhdnfhofzdrurwbjm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634682,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifxswd7bowepnbicqbikp25nbfbjjghkv3ly77tobxj7s5cn2zfky",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634682,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreias47abh5l7uu7lgogsfgjtwiguqslkv7ixeow5wiartcrcnrkhki",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634682,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmXdhiLP6cmnY2fse8w76BVq46ozPx3jrYABveoUb6FfYy.car",
+  "CarFilePath": "/151/bor-20230207-car/QmXdhiLP6cmnY2fse8w76BVq46ozPx3jrYABveoUb6FfYy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXdhiLP6cmnY2fse8w76BVq46ozPx3jrYABveoUb6FfYy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXdhiLP6cmnY2fse8w76BVq46ozPx3jrYABveoUb6FfYy",
+  "PieceCid": "baga6ea4seaqdrakstrqidx7fwnhfb5v5yofjgntnxbddjkdgxa4suzvwbu4n2cq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidii2hpcqwjhamjcsdmhqbxqir6tr6kdzsapfsbrskcw3jxjy72ii",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiasotwfmia6zivfvze4fzngm7jyijevof6xktsyqauvnxb5mdgurq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiezzzut7iqks4z4ru2t2lgn4nh7eme7zhx47f4euql6siayauvtgu",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qma6avw53wLwR3yjjgzT7jMBaCuLqYwH3FX5npgFW9VCCy.car",
+  "CarFilePath": "/151/bor-20230207-car/Qma6avw53wLwR3yjjgzT7jMBaCuLqYwH3FX5npgFW9VCCy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qma6avw53wLwR3yjjgzT7jMBaCuLqYwH3FX5npgFW9VCCy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qma6avw53wLwR3yjjgzT7jMBaCuLqYwH3FX5npgFW9VCCy",
+  "PieceCid": "baga6ea4seaqh2wseyuuh5el6mimy4g2byu76vaxxjodn44u5e4a7sujko5r2anq",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigfrlz7efpzfj6lcfrx5zrpt7y53rwiff3pyhqqeodr6bf7ecgmzy",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihr6duuu5coji5w4xzouzp7l3h7bhebbzc2dbjkmh7qllyswvcmh4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihbqr7bzptgmad2xzjej2y6l6nlcrc2cov6c7vcis7okztkomke3e",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634683,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZHD5D1tm9pHV1acT84xYKvZbjYKu3RxhA3hdYfoH1MGS.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZHD5D1tm9pHV1acT84xYKvZbjYKu3RxhA3hdYfoH1MGS.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZHD5D1tm9pHV1acT84xYKvZbjYKu3RxhA3hdYfoH1MGS.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZHD5D1tm9pHV1acT84xYKvZbjYKu3RxhA3hdYfoH1MGS",
+  "PieceCid": "baga6ea4seaqm5jhhxon34fdflwfej67fhpdwnjg3mi67fdpv5awlspb6q4ubwfy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihzjkboei4rojc7j5x3vyd2knuuqecmdn2fsjoxp67skzbuogysne",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634684,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiarnnfeg5rvsc4gtggaiwos3urdzebikzzusf3u2mdkx5iqswil3e",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634684,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibo6d26a35cxbepwozdvqbdkofpj76sbrqwxmtnnxtx5npvpojhpy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634684,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZZ84dUYsgfB8p9TzeAnG3Yi2soiZe9KjyHJJ4Usj1Ycj.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZZ84dUYsgfB8p9TzeAnG3Yi2soiZe9KjyHJJ4Usj1Ycj.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZZ84dUYsgfB8p9TzeAnG3Yi2soiZe9KjyHJJ4Usj1Ycj.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZZ84dUYsgfB8p9TzeAnG3Yi2soiZe9KjyHJJ4Usj1Ycj",
+  "PieceCid": "baga6ea4seaqctzid2e7eqyxctwsbg3zgotqm6fp65ll27u7yn2logjeufjxbgia",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiag7nd5m4fyeah22boi2vrrsydg6rwwswrnwakeol2pfcyw5osaaa",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiafl7qwcmywbygxyqpdglagzgpgnfasuq5o3xbofjdog5hh7l7c4i",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreif3swjxzkp7bawwcl3ubpgfjlxxdvryjqoly3y3w5whz7i4qd2wqe",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "Qme2AUKvwjweEXK2FprEeeCQdAFjWwvBEEL1NhAAe85UMh.car",
+  "CarFilePath": "/151/bor-20230207-car/Qme2AUKvwjweEXK2FprEeeCQdAFjWwvBEEL1NhAAe85UMh.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qme2AUKvwjweEXK2FprEeeCQdAFjWwvBEEL1NhAAe85UMh.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qme2AUKvwjweEXK2FprEeeCQdAFjWwvBEEL1NhAAe85UMh",
+  "PieceCid": "baga6ea4seaqevbkhbbxrzvjs6qnd5g3o7fivokzyantwrkzxfb6gh65bucqfqpa",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreierjxanj2oi3qdfc7mxjwsujxqgduauiz243xyvpekkbf4jhxxyh4",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreico45vavx57mb73xbflkd75b3yqv2miykkijzw5hm2pqrmn3kib5e",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifg5jfuckvqdw5benks6i7x7yet2ma55qeecp2ilvwuypzsovbl5i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634685,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmZctkYMZgELyBFXzKfVqCJLbZZt8ZDjwrQo4PzjajbWBe.car",
+  "CarFilePath": "/151/bor-20230207-car/QmZctkYMZgELyBFXzKfVqCJLbZZt8ZDjwrQo4PzjajbWBe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZctkYMZgELyBFXzKfVqCJLbZZt8ZDjwrQo4PzjajbWBe.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZctkYMZgELyBFXzKfVqCJLbZZt8ZDjwrQo4PzjajbWBe",
+  "PieceCid": "baga6ea4seaqg3lsghqdwnnmrfwpf3lfodry32ov54o73j2yh6sggxxlk4x6xsji",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiam5xlpa7nmuubrzpeoxtv7kofjl5wsrfm3i2j4d477iavs7ybgdu",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634686,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidid3hnn4rgrkn636soum6ex2vky2acy63t7llohgsmp53h55zdpm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634686,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigjtaihgv75wddsu4ldc3yriehugm7bneyeagd42nykql4dsdcd4m",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634686,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmS5WVB3zTmi2apkDVEUbzT3QPxTzZfRiF88DAgahBNZkU.car",
+  "CarFilePath": "/151/bor-20230207-car/QmS5WVB3zTmi2apkDVEUbzT3QPxTzZfRiF88DAgahBNZkU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmS5WVB3zTmi2apkDVEUbzT3QPxTzZfRiF88DAgahBNZkU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmS5WVB3zTmi2apkDVEUbzT3QPxTzZfRiF88DAgahBNZkU",
+  "PieceCid": "baga6ea4seaqfipue73porbu4nqjlaaiqytug5yokrcq7vtyprp2tr6dp6of3aey",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicka3zv2h3cg6ntwzrn52uej3uh2i45lwjuojpaj7p4dbeijhfh6q",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidhhf3zczcuhip4xa7cfhld26v7fxynfe5o7lxag2ajayp6ijg7dy",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiffqkm643hdizpcz347bgkqm3j6bgra663qq2btztjqbqixal7f5i",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmVUUHkKyG8McTwmQE6k1dQQUXCHUm8XdEsQyXycrkv5Zk.car",
+  "CarFilePath": "/151/bor-20230207-car/QmVUUHkKyG8McTwmQE6k1dQQUXCHUm8XdEsQyXycrkv5Zk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVUUHkKyG8McTwmQE6k1dQQUXCHUm8XdEsQyXycrkv5Zk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVUUHkKyG8McTwmQE6k1dQQUXCHUm8XdEsQyXycrkv5Zk",
+  "PieceCid": "baga6ea4seaqbzyxj4t6wahekyryledfz3rqxitvvdknsms6rgsx4s6u57tdl6fy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic5kikanbi3ilrdxmo2nzgbpgnffsh3ljfeidhonxm4otr2eej7ti",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidrsyqgawsxx5cdrlempxskefx5d7t622qoflppusjvocec5sxm5q",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreia6xvgsvrnourlvohh6arelj6d26en5da5ehyfqdpxuqm6wqvirsm",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634687,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmaNDCr9JTrQJs9vrnQhAyKvMMRUY3PeHWupghDqHYqmJq.car",
+  "CarFilePath": "/151/bor-20230207-car/QmaNDCr9JTrQJs9vrnQhAyKvMMRUY3PeHWupghDqHYqmJq.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaNDCr9JTrQJs9vrnQhAyKvMMRUY3PeHWupghDqHYqmJq.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaNDCr9JTrQJs9vrnQhAyKvMMRUY3PeHWupghDqHYqmJq",
+  "PieceCid": "baga6ea4seaqo7vz6ncprxwrmoio6xyhlw2727bycjgcjehcfklzbylxwy6rbida",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidnhlvmoki465yrdjjb54iezwnzxzk7gtzx3xyktcjaxi2wqzljty",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634688,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiamno5ee2ccdeozgaaivdjbih6ppkzoykvsk3m2uxvatfsnzqmuei",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634688,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreic2bxc6vc2h6rejz2z3sn4u7efkocjssm6nbksbzunk5ib3fvsmee",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634688,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQrKZbWJEvyLEAbLgRBWaEZRpR5RqqmCb8JeunqAMCd5q.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQrKZbWJEvyLEAbLgRBWaEZRpR5RqqmCb8JeunqAMCd5q.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQrKZbWJEvyLEAbLgRBWaEZRpR5RqqmCb8JeunqAMCd5q.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQrKZbWJEvyLEAbLgRBWaEZRpR5RqqmCb8JeunqAMCd5q",
+  "PieceCid": "baga6ea4seaqefgn3ixeuzp7mtthns2fwsi3e2ohe6qj4kecbs225o2jiptdoija",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreietgj5j7rygk7h5m42p2ulhmylrzanvfiv3t7vm4pluu7swy6776y",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreifl6ens5i4pjq6cyi7mezmsg4ffhym72moeeq3d2aymgbp4uhdd4q",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigejc5iwib6g2nfxsv74uvop72wl24rfx7lwzzaj5eygsy7ooi4fe",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmWvXxnNdtrXjGWc5j4t5nK9p8AV7XKCZjw8VC92FU4njr.car",
+  "CarFilePath": "/151/bor-20230207-car/QmWvXxnNdtrXjGWc5j4t5nK9p8AV7XKCZjw8VC92FU4njr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWvXxnNdtrXjGWc5j4t5nK9p8AV7XKCZjw8VC92FU4njr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWvXxnNdtrXjGWc5j4t5nK9p8AV7XKCZjw8VC92FU4njr",
+  "PieceCid": "baga6ea4seaqaq6ac624wzbbvlkjk5tztn26eg2ypok7cxonjqphqjfbfqra6gby",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif2t6fwwwepcjtn3fsr2qe4u2ahrts3gy3vxttnvyrnbjrxkkaw5u",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiblk47jf3ngv32ppgpvo3775aub7jgocrvkywt2hngtzy5ckndprq",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicuf4oohpkrsdljuhreclihena2w23nphnbhnfrr3ynxjwstoimae",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634689,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmQVKbpykhj2UDVxiNkeegHdGrAkHeX6GBGACoNDYY5oC4.car",
+  "CarFilePath": "/151/bor-20230207-car/QmQVKbpykhj2UDVxiNkeegHdGrAkHeX6GBGACoNDYY5oC4.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQVKbpykhj2UDVxiNkeegHdGrAkHeX6GBGACoNDYY5oC4.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQVKbpykhj2UDVxiNkeegHdGrAkHeX6GBGACoNDYY5oC4",
+  "PieceCid": "baga6ea4seaqpvksotzvf7kcz4r2yopme4z55f7w7uycrmekgynofxsuqrursoba",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig32jkkej4bln5b4hzmz7fw7wu4dmqkchsmb6ljvmcoospgzjjgri",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634690,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibejk3sjf4xhw5zaorrfxll5p2r7juf6g5kjfbwwnzzp23ecrpw5e",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634690,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihbmfls5xfqet2dewgfuga7tj6qa37s6btyhkikid7aaidj3osv3u",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634690,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmcoqMrny6wP8URRfCYDmyVs5YhkocpPzbURDr88yxTLKb.car",
+  "CarFilePath": "/151/bor-20230207-car/QmcoqMrny6wP8URRfCYDmyVs5YhkocpPzbURDr88yxTLKb.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcoqMrny6wP8URRfCYDmyVs5YhkocpPzbURDr88yxTLKb.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcoqMrny6wP8URRfCYDmyVs5YhkocpPzbURDr88yxTLKb",
+  "PieceCid": "baga6ea4seaqclgksmygtobfxotigwezhpo56jacmjux4k3uxoqrmnhztn52xcma",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibqz4evvvpbyrqume27dp52pyavv2fij5us4cvqfm6ycwveli44ti",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634691,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicv2vjerjgbvliz75zeod3iswhunphacg2ysnhedkrsa7xe3jzm3i",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634691,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihqbciwxtdt2hdbeqb4u5767aynzsmvcge4kbwymu4jnwthqzcjme",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634691,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmTqucXHH9nDvqj7LSz7dZEBjJYF6cM6fLCW78QSjUCL5v.car",
+  "CarFilePath": "/151/bor-20230207-car/QmTqucXHH9nDvqj7LSz7dZEBjJYF6cM6fLCW78QSjUCL5v.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTqucXHH9nDvqj7LSz7dZEBjJYF6cM6fLCW78QSjUCL5v.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTqucXHH9nDvqj7LSz7dZEBjJYF6cM6fLCW78QSjUCL5v",
+  "PieceCid": "baga6ea4seaqn6dcixxyzjyoycugrnxzndulvg2rmtr4bcdp2vt2gyxprpl6iidi",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieh6qlomplqlsszzzb54nwj54ite4exdwcsmfwrgw5aydj5mpxftm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibulnnozzofysezm5c23zcrvklp5ndqyjcfe43tdyuca34egjvdxm",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaclgli62d4uhr4ucgkxjq4s7ybfsqol5yhhzkwnchbsytmqg4vmi",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016135,
+  "CarFileName": "QmdVAUHKPkuTaEA2nAjU3LMoX3NmY2rxwoQidRvZ8E4Dwr.car",
+  "CarFilePath": "/151/bor-20230207-car/QmdVAUHKPkuTaEA2nAjU3LMoX3NmY2rxwoQidRvZ8E4Dwr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdVAUHKPkuTaEA2nAjU3LMoX3NmY2rxwoQidRvZ8E4Dwr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdVAUHKPkuTaEA2nAjU3LMoX3NmY2rxwoQidRvZ8E4Dwr",
+  "PieceCid": "baga6ea4seaqajabhfpvmgl4suwrhk6siz4qcwg3qqwboc6vnaja54bp2zqepmjy",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiguty7rnt6kh7gbgpbv23hxaz2ovvx4gem2ibfbvgxrq2udgyczcm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreif2aqd7xi4dmbfsyhmohwa4wxd44vetkicxuzvqwcgbkeg2bwtpwe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreielv57agrys7dduxwqm7i2oakvsb7bitipcilqqnaq6qlnoieizxq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634692,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "5c913fea-5098-44d2-ae15-5d5aed5923f7",
+  "SourceFileName": "bor-20230207",
+  "SourceFilePath": "/151/bor-20230207",
+  "SourceFileMd5": "",
+  "SourceFileSize": 6790281554,
+  "CarFileName": "QmSjTCSg1EcSPzoUU1gf3SWcBgAsLXsFDfHig5CpLSgKwh.car",
+  "CarFilePath": "/151/bor-20230207-car/QmSjTCSg1EcSPzoUU1gf3SWcBgAsLXsFDfHig5CpLSgKwh.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSjTCSg1EcSPzoUU1gf3SWcBgAsLXsFDfHig5CpLSgKwh.car",
+  "CarFileSize": 8522825728,
+  "PayloadCid": "QmSjTCSg1EcSPzoUU1gf3SWcBgAsLXsFDfHig5CpLSgKwh",
+  "PieceCid": "baga6ea4seaqaog73pnuyjc2wrcrd7sylyd257zmq5f7mv2czysyo54zgv73kmka",
+  "StartEpoch": 2634523,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreielpwg5mqj6m5yrqptrj26saywsgkpknjbrevlfwlpmqik7hpc3ou",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2634693,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiekrr5nzradsdsjbaeqwrn7zquzbqmk6qesuhjdwdctvv2cyedq4e",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2634693,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreif4dgsdttqpr7sawe64ops4c3mcpbffbbjp47rk5s4au2fge43umy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2634693,
+    "Cost": "0"
+   }
+  ]
+ }
+]
