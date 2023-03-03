@@ -1,0 +1,254 @@
+[
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "QmXUe6WD4VvCaECUi9rvXv7PgRbJVRE7NoYXJYqYhmLJ1p.car",
+  "CarFilePath": "/mnt/nvme0/m-21/QmXUe6WD4VvCaECUi9rvXv7PgRbJVRE7NoYXJYqYhmLJ1p.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXUe6WD4VvCaECUi9rvXv7PgRbJVRE7NoYXJYqYhmLJ1p.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXUe6WD4VvCaECUi9rvXv7PgRbJVRE7NoYXJYqYhmLJ1p",
+  "PieceCid": "baga6ea4seaqhs3q4oklb35wjceka3qkhfa2hfkuspbqcxo52llkhhfa2oc6hsfy",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigik5nlb3d4o6biqcfpuhnan2qvcj4cvuzlg5luc7o6ms6bi6j5re",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiaokrigable25jxwtytytypbp745skrmwwftppw5sn4phl4phuidq",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659647,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiez2fwilnlq7sikpzarl75w34rgcausaxj5ix6dods6fppqem6mxe",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659647,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "QmQcjhW8ubxW3xmTTmtXTXitHuQkeQwy34YjKEfw1thbBe.car",
+  "CarFilePath": "/mnt/nvme0/m-21/QmQcjhW8ubxW3xmTTmtXTXitHuQkeQwy34YjKEfw1thbBe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQcjhW8ubxW3xmTTmtXTXitHuQkeQwy34YjKEfw1thbBe.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQcjhW8ubxW3xmTTmtXTXitHuQkeQwy34YjKEfw1thbBe",
+  "PieceCid": "baga6ea4seaqecudqpkyxpwmhjbkew52vcok67pjvwjb7v4losxemo6rvkkomoey",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifd4mrn5yahgc5mdxo3ocdcaz3us5b56skzkahzet3frmu3h2fsgm",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicuxrufkhzwgvghlifxaew6hd4an5idjm2ekfkor3lmmkjlgncko4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreigx4hfkvsrwyexmv6eup3kroz75upb5koieda6eu6gb5affuqu7uu",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "QmeY2QasAwufY7q43EX5uqfdDXLjDkEPsEduzzTThPXg4p.car",
+  "CarFilePath": "/mnt/nvme0/m-21/QmeY2QasAwufY7q43EX5uqfdDXLjDkEPsEduzzTThPXg4p.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeY2QasAwufY7q43EX5uqfdDXLjDkEPsEduzzTThPXg4p.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeY2QasAwufY7q43EX5uqfdDXLjDkEPsEduzzTThPXg4p",
+  "PieceCid": "baga6ea4seaqfryvddnbospwie2ntzhbccinvejejak6mkpy4fovoqke6pmbzyfi",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihszuetw3xzc423dv4cgxcprjhxbe3i4cj2vw2ppjiwesrv7lcw2i",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreiapwuudctabqrct4les3vzya7pp23z4kpaywsl57366vttrirjk3a",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreidc56mmnrdimhobj3ocyfb6nkbnwycmj3j5tw3w2vfvdkv5j7gzmy",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "QmbB57z3kA4rYm6Dbwsf8gazPdw7y9Ug6pVXzUfxe2BXJs.car",
+  "CarFilePath": "/mnt/nvme0/m-21/QmbB57z3kA4rYm6Dbwsf8gazPdw7y9Ug6pVXzUfxe2BXJs.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmbB57z3kA4rYm6Dbwsf8gazPdw7y9Ug6pVXzUfxe2BXJs.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmbB57z3kA4rYm6Dbwsf8gazPdw7y9Ug6pVXzUfxe2BXJs",
+  "PieceCid": "baga6ea4seaqecfnncfb3vid7veoi2v5tvtilfsqfnt2ekalu6quqijtve4cs6ni",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreify4dsgy5qeb3qhzi5gnnl3eh4q56p6qmke3r3clmjqmbcyifygii",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreieglv2ftvsdikynf6bvj3zzprlbnppwcsq727f6h6ss6zk3chy26q",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreicsnw2gceekg2pquryhj57vbbi357qxrt25u44t522o3m7zsm7pty",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "QmaTK6WfbZkWYmZsVrxq3cA1h92AxDcSuwRmYajmG7xco3.car",
+  "CarFilePath": "/mnt/nvme0/m-21/QmaTK6WfbZkWYmZsVrxq3cA1h92AxDcSuwRmYajmG7xco3.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaTK6WfbZkWYmZsVrxq3cA1h92AxDcSuwRmYajmG7xco3.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaTK6WfbZkWYmZsVrxq3cA1h92AxDcSuwRmYajmG7xco3",
+  "PieceCid": "baga6ea4seaqbpy34mfoqc7cpq5mrjbew5ov7nxbvcpzrxsdmsjxb3wiqierkanq",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidq26e7uify6c62xy5iyelqiccwle7ofmvpf7e6dnt7w5lxkhe2nq",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreievka6vd7kmsvn6yfrrykq76dh6xgjuv45nwogrsxqmbwok4ogcie",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreige6ghsn4lecvpff3hnzwolazuu3kbdvyemxlf2mbstf2pgs4mms4",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17280892022,
+  "CarFileName": "Qmcfd2XnVjpPaVcdWM6hLq4ayCzNDEvMdwEfeApWB2LMGW.car",
+  "CarFilePath": "/mnt/nvme0/m-21/Qmcfd2XnVjpPaVcdWM6hLq4ayCzNDEvMdwEfeApWB2LMGW.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmcfd2XnVjpPaVcdWM6hLq4ayCzNDEvMdwEfeApWB2LMGW.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmcfd2XnVjpPaVcdWM6hLq4ayCzNDEvMdwEfeApWB2LMGW",
+  "PieceCid": "baga6ea4seaqnvfn7mfmnvrcjwebdeivccj4yv4asww5ui6iknk4dtq6nogmoaiy",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieanyn7n5nimmch3b546tlvj5dr5jepw2l5mtysdktwav3feqc2ra",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihi7kl4jwsicib2xa45j5sihzlbrzgrtpr34i4cedhvjntel4agl4",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreibuoji5uuq355rx7gvfsq7hvnwywupppsitvot5l7kilqatx2laty",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "287320a6-5642-4a6d-a54d-c4896b00db65",
+  "SourceFileName": "aptos_mainnet-20230221",
+  "SourceFilePath": "/151/aptos_mainnet-20230221/",
+  "SourceFileMd5": "",
+  "SourceFileSize": 8295798135,
+  "CarFileName": "Qmf2k6DbAHJcnjgpo94pLitNLYjC6YJqeBqCdK33wnkvKu.car",
+  "CarFilePath": "/mnt/nvme0/m-21/Qmf2k6DbAHJcnjgpo94pLitNLYjC6YJqeBqCdK33wnkvKu.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmf2k6DbAHJcnjgpo94pLitNLYjC6YJqeBqCdK33wnkvKu.car",
+  "CarFileSize": 8522825728,
+  "PayloadCid": "Qmf2k6DbAHJcnjgpo94pLitNLYjC6YJqeBqCdK33wnkvKu",
+  "PieceCid": "baga6ea4seaqhc5nr6aakwen474khnkwz2gcvgjrnyvl3rwnpgzaa4ip445es4fq",
+  "StartEpoch": 2659527,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie2wodpfuiwvi5hrihjdybmw324n35gznnpcugml34qoskf2ulxoi",
+    "MinerFid": "f01955028",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreihlpfjpdaaaoxtp7hvfmjukaht4vbjnin2llph4avljkkztud7hgy",
+    "MinerFid": "f01955034",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   },
+   {
+    "DealCid": "bafyreib33jrgu6fndggrugtkp4vrp3o52cb5mmttlxg7op25ilylrejv6q",
+    "MinerFid": "f01955030",
+    "StartEpoch": 2659648,
+    "Cost": "0"
+   }
+  ]
+ }
+]
