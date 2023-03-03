@@ -1,0 +1,3194 @@
+[
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVVBJnRiDjYYQTxVgA4u2HnnRa3hLnQXxTUn55erP8sjY.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVVBJnRiDjYYQTxVgA4u2HnnRa3hLnQXxTUn55erP8sjY.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVVBJnRiDjYYQTxVgA4u2HnnRa3hLnQXxTUn55erP8sjY.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVVBJnRiDjYYQTxVgA4u2HnnRa3hLnQXxTUn55erP8sjY",
+  "PieceCid": "baga6ea4seaqpiejhjnnmba4w6rvkx2g6ajxyebugilddqlfkumaog5b4t2ywwnq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiein25xjluvokz2rasbhvw5pjug52wdslyy6lcjaqwudvccasqivm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXf9HSrXZungBU8aQQwDXZsAEx8zdMoQKB1d3wn7unJcJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmXf9HSrXZungBU8aQQwDXZsAEx8zdMoQKB1d3wn7unJcJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXf9HSrXZungBU8aQQwDXZsAEx8zdMoQKB1d3wn7unJcJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXf9HSrXZungBU8aQQwDXZsAEx8zdMoQKB1d3wn7unJcJ",
+  "PieceCid": "baga6ea4seaqkiiivjalw22hv4ac3g5i33zlplzvr3uf27hjudearltzjyrwqaha",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifqzl4meck6ratyho5a2ctg5xv6w63oc3k3uokevamzru242pp2pu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmU9RKTSZDCZBFunRoneyanSNuH5Cx4Fakdm8nxdADtvXd.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmU9RKTSZDCZBFunRoneyanSNuH5Cx4Fakdm8nxdADtvXd.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmU9RKTSZDCZBFunRoneyanSNuH5Cx4Fakdm8nxdADtvXd.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmU9RKTSZDCZBFunRoneyanSNuH5Cx4Fakdm8nxdADtvXd",
+  "PieceCid": "baga6ea4seaqlj75mc62oy3xkns3jb6xmbvwztfdumkfy5aairhwv3pulx34ymaa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih2btrdqtrwzp7stun3rcvgrpbmm24wcst5vfpjgvqpudgxb4cnqe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRHbZdhHS6g7RcxE4HpMR8dK12WWckfCBJKXfSR3oP2bn.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRHbZdhHS6g7RcxE4HpMR8dK12WWckfCBJKXfSR3oP2bn.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRHbZdhHS6g7RcxE4HpMR8dK12WWckfCBJKXfSR3oP2bn.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRHbZdhHS6g7RcxE4HpMR8dK12WWckfCBJKXfSR3oP2bn",
+  "PieceCid": "baga6ea4seaqfaqrcqsy3reg7nqludaw7e2fna7l76dpdxou4sqtbn7ewhju5kea",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicoytsugzk2de3uawztv3nfqfdbyujkr7iexqkic3zezg7j4qulei",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQfMUML3QnFGJyqD9E46BuRwWoHb7hHcqnwiaqaJaRjzb.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQfMUML3QnFGJyqD9E46BuRwWoHb7hHcqnwiaqaJaRjzb.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQfMUML3QnFGJyqD9E46BuRwWoHb7hHcqnwiaqaJaRjzb.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQfMUML3QnFGJyqD9E46BuRwWoHb7hHcqnwiaqaJaRjzb",
+  "PieceCid": "baga6ea4seaqmysiyqqwu23sfo5c264wle6edbftz7n2t36iwxxgjyvz3b3fhkpy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif7tbddbj47fycyeq4wwic3275sawbrcpjjczsmw47z6ddsprfh4i",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYJvemz89DvS2gbhKkGKSwmheEFBMiBovT4Lb7aS8dAzs.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYJvemz89DvS2gbhKkGKSwmheEFBMiBovT4Lb7aS8dAzs.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYJvemz89DvS2gbhKkGKSwmheEFBMiBovT4Lb7aS8dAzs.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYJvemz89DvS2gbhKkGKSwmheEFBMiBovT4Lb7aS8dAzs",
+  "PieceCid": "baga6ea4seaqegtb6u4z65mda6x3cwmqouctuz4w54x3xrpnjkrund5y4cvql4fi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicoiqyx56pmaknz65we33kv7lz3auhk27rkdpb4l3qj4kdjsd72xy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQgjZBDHsD8nbcrvEbMyQMKLAxJHVhiL9hFY6gFCc3wwf.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQgjZBDHsD8nbcrvEbMyQMKLAxJHVhiL9hFY6gFCc3wwf.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQgjZBDHsD8nbcrvEbMyQMKLAxJHVhiL9hFY6gFCc3wwf.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQgjZBDHsD8nbcrvEbMyQMKLAxJHVhiL9hFY6gFCc3wwf",
+  "PieceCid": "baga6ea4seaqjav36qzugizwsoxhjlawgntauug7qdouy5vdxs5rrbw3vr2w42nq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifc2htd55kwbu5sbozu7gzpoxfi4noqds4oaznbwbf76rrylwnxdm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUiGHPJB3fPAE7tRS3UEjXT2UiPh37pGwzh9v6k4BeC2j.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUiGHPJB3fPAE7tRS3UEjXT2UiPh37pGwzh9v6k4BeC2j.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUiGHPJB3fPAE7tRS3UEjXT2UiPh37pGwzh9v6k4BeC2j.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUiGHPJB3fPAE7tRS3UEjXT2UiPh37pGwzh9v6k4BeC2j",
+  "PieceCid": "baga6ea4seaqnh3vrhqyxqwqmozcdqe6jgsc2nmace3wj4wmvesbgoqfzoghacfy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigdxacklrbxl2qq4pwwr2e2rtzoi4odkkc2j4mh5u6eig7lz7mn2a",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSaHmgSu5Uk9ErytLqfD82JiRuypcoZ3TteWUyxrc57xN.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmSaHmgSu5Uk9ErytLqfD82JiRuypcoZ3TteWUyxrc57xN.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSaHmgSu5Uk9ErytLqfD82JiRuypcoZ3TteWUyxrc57xN.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSaHmgSu5Uk9ErytLqfD82JiRuypcoZ3TteWUyxrc57xN",
+  "PieceCid": "baga6ea4seaqntakt6dlhynefnu4rqqsl6oyly7iclh2rhqs2lshdbtk2533acdy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibhetf56bqp5altflmj5vaoaya5db7zi6phdwddo3r3zgifw2mphe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWbGDCSWUqtcQFKbgxgnnDmEuGJo16k1TZScYCnJhQgyZ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWbGDCSWUqtcQFKbgxgnnDmEuGJo16k1TZScYCnJhQgyZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWbGDCSWUqtcQFKbgxgnnDmEuGJo16k1TZScYCnJhQgyZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWbGDCSWUqtcQFKbgxgnnDmEuGJo16k1TZScYCnJhQgyZ",
+  "PieceCid": "baga6ea4seaqc6e3ujdimbwwd4b6bhr42lsj52nrqerwajxva37jdyjkg3ew7wga",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaebg4g6ali5ykabknas7jx6yj7c7nlqqqcmasnhja2bshz4tx55y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmW92TpHXYT4feoeSsSjnzdSCFwwbbaphG9XCHTuVwWpyz.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmW92TpHXYT4feoeSsSjnzdSCFwwbbaphG9XCHTuVwWpyz.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmW92TpHXYT4feoeSsSjnzdSCFwwbbaphG9XCHTuVwWpyz.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmW92TpHXYT4feoeSsSjnzdSCFwwbbaphG9XCHTuVwWpyz",
+  "PieceCid": "baga6ea4seaqjns436s27r6csjyerdsjl755oznp5mwvaw2mmsx7osuw22g7c6ba",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifxispfhkx65y6qqeuc6jder5ssf2vxb3yjihek52ngltfvscn7fi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTyd2bpFj6PWvZKbh6RGmVUDUKMczLwggk1cNhW2iTDcQ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmTyd2bpFj6PWvZKbh6RGmVUDUKMczLwggk1cNhW2iTDcQ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTyd2bpFj6PWvZKbh6RGmVUDUKMczLwggk1cNhW2iTDcQ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTyd2bpFj6PWvZKbh6RGmVUDUKMczLwggk1cNhW2iTDcQ",
+  "PieceCid": "baga6ea4seaqnnevlepmtjs2f6megfctwykqn4lmogl6j6xjl2vqqsufzjzkwuba",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiba7nzyt3xb5gsu2zl4fgokt4mu2bz4vsuatxxymnjg3hzwxbqyw4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRQd6DhAPpC44wviRM2d9v1bcqk6QMj4cjfEWN7v3cRzi.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRQd6DhAPpC44wviRM2d9v1bcqk6QMj4cjfEWN7v3cRzi.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRQd6DhAPpC44wviRM2d9v1bcqk6QMj4cjfEWN7v3cRzi.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRQd6DhAPpC44wviRM2d9v1bcqk6QMj4cjfEWN7v3cRzi",
+  "PieceCid": "baga6ea4seaqektc3lushgeagptd42yopbaxua7k256wyqle5znsvnmhysfgxqea",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid5qj37svbn4kglxbzit36forypyf2caxjl7t6yyswplnc27rae5u",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qma7x7sieNUbLR6GbLd5xGx2MzYpfM6ZmiUXHZ9cYsSe4X.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qma7x7sieNUbLR6GbLd5xGx2MzYpfM6ZmiUXHZ9cYsSe4X.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qma7x7sieNUbLR6GbLd5xGx2MzYpfM6ZmiUXHZ9cYsSe4X.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qma7x7sieNUbLR6GbLd5xGx2MzYpfM6ZmiUXHZ9cYsSe4X",
+  "PieceCid": "baga6ea4seaqctr5s4xblrzuxhizjjv7kza2fjxtf2ip462swbk5piblvlu6hqiy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibhi4tpe54rhokygohkft3o5r4ye53deu2tpqped2xxdf3jt7ljwe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmW2SL3rw1e4uGhS3FPsCPapi2dpYQUvUkUkfokhX9so5H.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmW2SL3rw1e4uGhS3FPsCPapi2dpYQUvUkUkfokhX9so5H.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmW2SL3rw1e4uGhS3FPsCPapi2dpYQUvUkUkfokhX9so5H.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmW2SL3rw1e4uGhS3FPsCPapi2dpYQUvUkUkfokhX9so5H",
+  "PieceCid": "baga6ea4seaqjgmkq6czstk4wxpkxbyg65tsk63ctx77kw4naqfkqy526ufp46aq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihhrkppdx2nmyo7nhyzql2yhb5qewoxyyx6dd6ubm3uxi73mhzkhe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmbTKM7PFh8i9EPp6t8xewXE82A3rmU9GaSWYGBa3Wx3Wi.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmbTKM7PFh8i9EPp6t8xewXE82A3rmU9GaSWYGBa3Wx3Wi.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmbTKM7PFh8i9EPp6t8xewXE82A3rmU9GaSWYGBa3Wx3Wi.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmbTKM7PFh8i9EPp6t8xewXE82A3rmU9GaSWYGBa3Wx3Wi",
+  "PieceCid": "baga6ea4seaqkyko7auy2l22wbnvmy3clbf3swus3dgbapb5scsbpbkk6sqa2ghy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreib7xeulgreffk7k65lm62inlqklqw4h75zv637q563p4h6dt4rbcq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYAYWoV2oeuzCLgCRhoWYQzFNYpfypNB3UjouiY7bA9kY.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYAYWoV2oeuzCLgCRhoWYQzFNYpfypNB3UjouiY7bA9kY.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYAYWoV2oeuzCLgCRhoWYQzFNYpfypNB3UjouiY7bA9kY.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYAYWoV2oeuzCLgCRhoWYQzFNYpfypNB3UjouiY7bA9kY",
+  "PieceCid": "baga6ea4seaqfcqtdrhybn4bnictpqmlqti4pvdcedwyf7ztdh77agmn47tug4ea",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiapm6awdcl2u7pw4ysihjhkkp6hwhmbymyax4rc27gympdk6vrg44",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYBLuy43wRzfUodEHtSkzeS4JcR6dm8LkaKHgsqQ1KTEd.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYBLuy43wRzfUodEHtSkzeS4JcR6dm8LkaKHgsqQ1KTEd.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYBLuy43wRzfUodEHtSkzeS4JcR6dm8LkaKHgsqQ1KTEd.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYBLuy43wRzfUodEHtSkzeS4JcR6dm8LkaKHgsqQ1KTEd",
+  "PieceCid": "baga6ea4seaqh4cickn3tiklvpjir2bomzeyqbwgh6lizoavxl5tvtcpqyymgwoq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicf4osxtkahb4p7mc2lbbisquzar2vlm7swfh2jkqm67ze26tbq74",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQENrqVR2ckwXWEADmSLLtadGJmr3cs5MEJ3wjj3nYUEM.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQENrqVR2ckwXWEADmSLLtadGJmr3cs5MEJ3wjj3nYUEM.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQENrqVR2ckwXWEADmSLLtadGJmr3cs5MEJ3wjj3nYUEM.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQENrqVR2ckwXWEADmSLLtadGJmr3cs5MEJ3wjj3nYUEM",
+  "PieceCid": "baga6ea4seaqc67xxlkkir2hkdroboei7h26lkuecgx6w4gvq44qdqcp26ekccai",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif3y7bqgl5plihxyltxekyh77fyl3kyigg2qswbe7blw327xxdcja",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmNb3KAVxxK7y8a9sFfRAU1XTcLVmFs1HLhhzXenPPUpNt.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmNb3KAVxxK7y8a9sFfRAU1XTcLVmFs1HLhhzXenPPUpNt.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNb3KAVxxK7y8a9sFfRAU1XTcLVmFs1HLhhzXenPPUpNt.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNb3KAVxxK7y8a9sFfRAU1XTcLVmFs1HLhhzXenPPUpNt",
+  "PieceCid": "baga6ea4seaqnt7mvrdo6vpsbzsgvaycs2mdjiuzmrdaytpqid6z7tosfqgxxiba",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibzo65a6qe2ivloxhhhi3ltm57dcsabtpmuiy7cdojohphno5srwm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPBJCYJ6vR6Zx993CrCVmW4w8E3PyKzfCjZWG1e2JE6mJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPBJCYJ6vR6Zx993CrCVmW4w8E3PyKzfCjZWG1e2JE6mJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPBJCYJ6vR6Zx993CrCVmW4w8E3PyKzfCjZWG1e2JE6mJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPBJCYJ6vR6Zx993CrCVmW4w8E3PyKzfCjZWG1e2JE6mJ",
+  "PieceCid": "baga6ea4seaqdap5nys3npjfdqasenqww3fwkjulbz2kpf6hw23vk2tmozpf7cfq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiggfo6ofra44w3g4347vmjnh7acrzoutdahtosp4lvmzhnoe2dkjm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQCJSXh5HtMKwNrSU4GpZaQm3fVF16nzwZFviX4s5To7F.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQCJSXh5HtMKwNrSU4GpZaQm3fVF16nzwZFviX4s5To7F.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQCJSXh5HtMKwNrSU4GpZaQm3fVF16nzwZFviX4s5To7F.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQCJSXh5HtMKwNrSU4GpZaQm3fVF16nzwZFviX4s5To7F",
+  "PieceCid": "baga6ea4seaqmhf7dzeyptjyunhim4iljysgcfs5qx3c2p7d6gb6ecq6ysjnn4ji",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie742mrzfm36j3ft4pr5lhbphuzulfljt3ezsbisc56w6hnzxatze",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmNMvvGXgVJMVnbYwJ4tFbbVwgMFj6bGtbA4PqcxNXQZZC.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmNMvvGXgVJMVnbYwJ4tFbbVwgMFj6bGtbA4PqcxNXQZZC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNMvvGXgVJMVnbYwJ4tFbbVwgMFj6bGtbA4PqcxNXQZZC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNMvvGXgVJMVnbYwJ4tFbbVwgMFj6bGtbA4PqcxNXQZZC",
+  "PieceCid": "baga6ea4seaqifpbvjwcob6wkpveiw3kzthj3xefg3laozmmriapnbaap5otecdy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiczs4byvjbwr7xggbfam5xmqh5sb67amtzeaakwm6mqcezc6igzyi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmY9AJwHyTd1s79UtyiVsn6Wt5fG2tixkMsvfPTiaz7kvr.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmY9AJwHyTd1s79UtyiVsn6Wt5fG2tixkMsvfPTiaz7kvr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmY9AJwHyTd1s79UtyiVsn6Wt5fG2tixkMsvfPTiaz7kvr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY9AJwHyTd1s79UtyiVsn6Wt5fG2tixkMsvfPTiaz7kvr",
+  "PieceCid": "baga6ea4seaqnx2ittgmaoegyoqzl7dofddkdbcgyjvg7zhqydzm5neke5etp4gq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihyzrqrrxufr5ylhgwkap3gjikypnm6xtaudwywdbje5ascrs6sgi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVyz1HHQYs6GTfK3WeorTetp4TKi8Mu6GrE5TAapEJM9i.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVyz1HHQYs6GTfK3WeorTetp4TKi8Mu6GrE5TAapEJM9i.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVyz1HHQYs6GTfK3WeorTetp4TKi8Mu6GrE5TAapEJM9i.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVyz1HHQYs6GTfK3WeorTetp4TKi8Mu6GrE5TAapEJM9i",
+  "PieceCid": "baga6ea4seaqctcr224vduq7a7gxzgzhk6khjkdqsd5p3hq4x5mraixjvb5nkmpq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreictm3bq6we4hnyur7xfzb3epc3ldrkacigv6noyszkthprjn4sbgu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYWeiN1M6nWgBQzEeNucUeV9Abm4Y6XyD4yutPB8hAqP8.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYWeiN1M6nWgBQzEeNucUeV9Abm4Y6XyD4yutPB8hAqP8.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYWeiN1M6nWgBQzEeNucUeV9Abm4Y6XyD4yutPB8hAqP8.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYWeiN1M6nWgBQzEeNucUeV9Abm4Y6XyD4yutPB8hAqP8",
+  "PieceCid": "baga6ea4seaqgql4546qaid3jtudz6jqvlgjzpxfsmzn7f53nvx7lldspb6cc6aq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid6uq7meb2f64cvmqbhv5jtn75ff2szeocx744aqskbrokpy7kh7e",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUWymRAX8hrFeYxhswRdm1GceA282nq3aPPRBxoUUBW9e.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUWymRAX8hrFeYxhswRdm1GceA282nq3aPPRBxoUUBW9e.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUWymRAX8hrFeYxhswRdm1GceA282nq3aPPRBxoUUBW9e.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUWymRAX8hrFeYxhswRdm1GceA282nq3aPPRBxoUUBW9e",
+  "PieceCid": "baga6ea4seaqpcuu642bxsbgo4unf4aavcbcduaalhirsawyqrdz7zr76x5peofi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieo2dc5jwxzjydltytw3ldytm2to6wthb2jyv6illsm4gtrbllmnq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659377,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSskN8aCD1LbRaJRNEDZkPR74d7fQAcs3RAijkPnDZi1D.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmSskN8aCD1LbRaJRNEDZkPR74d7fQAcs3RAijkPnDZi1D.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSskN8aCD1LbRaJRNEDZkPR74d7fQAcs3RAijkPnDZi1D.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSskN8aCD1LbRaJRNEDZkPR74d7fQAcs3RAijkPnDZi1D",
+  "PieceCid": "baga6ea4seaqdu2ncjxry4rxm2ieiejhetr37ph77xlx7fpvqp37eg3yegkjxefi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif33c3mrr76xjq5qavnauna6ly3ox7ap4jsuvrj5o6i4lg5paemfu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRgNEWnv7oAFCqQBnjGrSfxFFBk1zXPBQat2AhQ8MTKgk.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRgNEWnv7oAFCqQBnjGrSfxFFBk1zXPBQat2AhQ8MTKgk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRgNEWnv7oAFCqQBnjGrSfxFFBk1zXPBQat2AhQ8MTKgk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRgNEWnv7oAFCqQBnjGrSfxFFBk1zXPBQat2AhQ8MTKgk",
+  "PieceCid": "baga6ea4seaqkz7i7i3bos6ozfbppazoi5avan2p7tnxcb2qnptgb2i63uab5olq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihrtaqepguzxkdhxonozjspeax6ergpkokw3mwd3c55rjznawekmi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWHJcMi29toja85RPsFyNQgeRjTpPAt11cexRLCVpTrSE.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWHJcMi29toja85RPsFyNQgeRjTpPAt11cexRLCVpTrSE.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWHJcMi29toja85RPsFyNQgeRjTpPAt11cexRLCVpTrSE.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWHJcMi29toja85RPsFyNQgeRjTpPAt11cexRLCVpTrSE",
+  "PieceCid": "baga6ea4seaqobg66upa25bo54mev7znktf6iewmdfqdyauezq365ph7bwdszgly",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifk7ffoftfxmlvasfa4kq2ew7p2g6q76f5tkoioun633k2hffikru",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmNb68jaFWbtotBtyzF6EbMrPTzeShXJBzoEiV2dPYYAKC.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmNb68jaFWbtotBtyzF6EbMrPTzeShXJBzoEiV2dPYYAKC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNb68jaFWbtotBtyzF6EbMrPTzeShXJBzoEiV2dPYYAKC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNb68jaFWbtotBtyzF6EbMrPTzeShXJBzoEiV2dPYYAKC",
+  "PieceCid": "baga6ea4seaqlix3c7b6dy2325kamanolpq7g2p3ykypf4mjkpqw7m4yibhczunq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihajqmpxlw4knjhjhzjueaweqx5veea4xwhooyqmn3ocv3flz4cay",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVTdeN2V5NYeHw6AknGvJYKcfpqPECeXXNC3K81PahdsH.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVTdeN2V5NYeHw6AknGvJYKcfpqPECeXXNC3K81PahdsH.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVTdeN2V5NYeHw6AknGvJYKcfpqPECeXXNC3K81PahdsH.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVTdeN2V5NYeHw6AknGvJYKcfpqPECeXXNC3K81PahdsH",
+  "PieceCid": "baga6ea4seaqhb5ckmpl4sltm6u7akaulwqghmxtm5pgyhhnbgornklfrdn6ywji",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigjllt7fxmkuwdc34bqoz2zvtsiwwumd2yfd3m4l4zr646uznulea",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVJVPLqbZ2joo89r2jpAGBvbmNFJJs7LCyeWWVjQ8Zw9K.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVJVPLqbZ2joo89r2jpAGBvbmNFJJs7LCyeWWVjQ8Zw9K.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVJVPLqbZ2joo89r2jpAGBvbmNFJJs7LCyeWWVjQ8Zw9K.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVJVPLqbZ2joo89r2jpAGBvbmNFJJs7LCyeWWVjQ8Zw9K",
+  "PieceCid": "baga6ea4seaqelt7s5tzopihx6knaihdjwhunvxxlcs4ej2k7omx6vqvlfw5t4gy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifkoyxtsocqwo4wlhuoorpj4dfcnkaluaxllqf6df34xkfqbch3cm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmciCKGSKN54PRSiRmfax8Nut4mCa8uHLMfguwkSp3U5JK.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmciCKGSKN54PRSiRmfax8Nut4mCa8uHLMfguwkSp3U5JK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmciCKGSKN54PRSiRmfax8Nut4mCa8uHLMfguwkSp3U5JK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmciCKGSKN54PRSiRmfax8Nut4mCa8uHLMfguwkSp3U5JK",
+  "PieceCid": "baga6ea4seaqoaukbck66u5egq4mm26ud6wgj5blxg4sqlk3wh4zvm7timlu3yey",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaec5sgteundnypi4ffqrd4mc4zwmc2xvbkuk6aygmibz2butn4be",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWfDhsjyUDrE5bVhpekcHFHaAtp7TpiH12ni6r9qDEtc9.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWfDhsjyUDrE5bVhpekcHFHaAtp7TpiH12ni6r9qDEtc9.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWfDhsjyUDrE5bVhpekcHFHaAtp7TpiH12ni6r9qDEtc9.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWfDhsjyUDrE5bVhpekcHFHaAtp7TpiH12ni6r9qDEtc9",
+  "PieceCid": "baga6ea4seaqmhpyc6ltstoazapd3miiqrtv6i5beeylvuajtgwlb4lbdibeqwhy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihlm3nofefyxmcliwxxyehyfwbhipmvhmj4epzjkg3wetoouerqby",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXpzysmcXBiUspoA6WZ2BLujzdaiW9CvbNpBcVhwBaAAb.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmXpzysmcXBiUspoA6WZ2BLujzdaiW9CvbNpBcVhwBaAAb.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXpzysmcXBiUspoA6WZ2BLujzdaiW9CvbNpBcVhwBaAAb.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXpzysmcXBiUspoA6WZ2BLujzdaiW9CvbNpBcVhwBaAAb",
+  "PieceCid": "baga6ea4seaqe6x5eljnnbphcpwvdau725w75u3wpvjjegqbcm7afljmwldwjeny",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiat5xtu2kyc7cawirsh3angrzqd435dqo2wkaanhrsdaaqwfkrhje",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVn5ZiKVBQbgz4k1vGv4bFLVUnsSmdXeQyJSeMSKN4V3W.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVn5ZiKVBQbgz4k1vGv4bFLVUnsSmdXeQyJSeMSKN4V3W.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVn5ZiKVBQbgz4k1vGv4bFLVUnsSmdXeQyJSeMSKN4V3W.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVn5ZiKVBQbgz4k1vGv4bFLVUnsSmdXeQyJSeMSKN4V3W",
+  "PieceCid": "baga6ea4seaqh7xg4vz5unrrgebng2nj3ts6zekjikchfj4bmvzkv6deorsxcqga",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihb2pmkqbgivgayzxomiuw4uprm5gdxvzth6mprjae6bpuayfxz5a",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaDtqNgb9qynQiDBh7Rrco6F5KZwFrXR8mP23iXRj8RC1.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaDtqNgb9qynQiDBh7Rrco6F5KZwFrXR8mP23iXRj8RC1.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaDtqNgb9qynQiDBh7Rrco6F5KZwFrXR8mP23iXRj8RC1.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaDtqNgb9qynQiDBh7Rrco6F5KZwFrXR8mP23iXRj8RC1",
+  "PieceCid": "baga6ea4seaqhodwzibwxwurgr6g4cz3q74oxbp77r3vyl2uytwubdrwxa3sqmly",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigifu7xs7k4zjhnb4ga3pmljzvbeggphbq7q5eciy7vq6z2nkyt5q",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaZHXWgJC2Td8tsEWRyaPACJD6yWBD8nGij12Fv74Q1xe.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaZHXWgJC2Td8tsEWRyaPACJD6yWBD8nGij12Fv74Q1xe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaZHXWgJC2Td8tsEWRyaPACJD6yWBD8nGij12Fv74Q1xe.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaZHXWgJC2Td8tsEWRyaPACJD6yWBD8nGij12Fv74Q1xe",
+  "PieceCid": "baga6ea4seaqa4oy5xcdhdnpr7i6hxinogoreospb6gbhxakozxvnngy7mlngoni",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibtguzgmcnrhpnp4gx3ef2aymlwxqfshhr3tpudwj3zrmxusdxehm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZrrCxEShdALYMVsSMJPJEiQo4p3VcMgUw5LrxMtpyyJE.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZrrCxEShdALYMVsSMJPJEiQo4p3VcMgUw5LrxMtpyyJE.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZrrCxEShdALYMVsSMJPJEiQo4p3VcMgUw5LrxMtpyyJE.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZrrCxEShdALYMVsSMJPJEiQo4p3VcMgUw5LrxMtpyyJE",
+  "PieceCid": "baga6ea4seaqf7sawndii7dazxtahdfiwty3rsz3ky6wi4a4xz73mwpvhndb3aki",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicwoxqpxuf6uqd6cbi4dtj5tvps5wf2sx44ztxbxrueapwggkjtvy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdFYKAnAXiSuXow1g8j9oYJPp82ka6jX22k9pXE4eFb1r.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdFYKAnAXiSuXow1g8j9oYJPp82ka6jX22k9pXE4eFb1r.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdFYKAnAXiSuXow1g8j9oYJPp82ka6jX22k9pXE4eFb1r.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdFYKAnAXiSuXow1g8j9oYJPp82ka6jX22k9pXE4eFb1r",
+  "PieceCid": "baga6ea4seaqp2cq2g6vrzfdegicuwdcpa7ltgalp6w3xhtj4x4lxdltzyyit2pq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifzoyszcvbm5xkdhchdhh3ret7zufagvjkpzdpkaq4ilqaheuk25y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUQu1nBi8rkhBiENoi1DtoEpJqBZ6EaFQNmXTcgH2gZkL.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUQu1nBi8rkhBiENoi1DtoEpJqBZ6EaFQNmXTcgH2gZkL.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUQu1nBi8rkhBiENoi1DtoEpJqBZ6EaFQNmXTcgH2gZkL.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUQu1nBi8rkhBiENoi1DtoEpJqBZ6EaFQNmXTcgH2gZkL",
+  "PieceCid": "baga6ea4seaqmpnyv7q4rwtbo44qofota4mnzhfnvxrlxl34h5qshlupxr6cj2jq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie4ayofadz2hfp7sysfy3hhdsav5ubzug2uiactoeiwaljixztffq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQUb72qBqvHsX6sPrNyJgiV35oTTGnDR166ovBFhyvGBG.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQUb72qBqvHsX6sPrNyJgiV35oTTGnDR166ovBFhyvGBG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQUb72qBqvHsX6sPrNyJgiV35oTTGnDR166ovBFhyvGBG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQUb72qBqvHsX6sPrNyJgiV35oTTGnDR166ovBFhyvGBG",
+  "PieceCid": "baga6ea4seaqmhj6kd3xh4rro6ziuoygdaqg45mlsyxz5ywhypdlmgk3fcuvusjq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiesyaeayq6snclm2odnnnfioxs6y4dcpaag5y6farippemsgxotrq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaLywjZZkF9ZUcSBCwq9jnCVFNeurnjdTMHXSHmTDd4JK.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaLywjZZkF9ZUcSBCwq9jnCVFNeurnjdTMHXSHmTDd4JK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaLywjZZkF9ZUcSBCwq9jnCVFNeurnjdTMHXSHmTDd4JK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaLywjZZkF9ZUcSBCwq9jnCVFNeurnjdTMHXSHmTDd4JK",
+  "PieceCid": "baga6ea4seaqdmlessh6ofb5c4xkqmxmixj2lcq4ke7cdpuxteojzop5tjcvgwpi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic5rd2nk4dj42xrv3lu6ea3i3gux2j3k7xbfot3uh6l7mvvtgn3iy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfZD4FppqVrrUfhdknQ8acZ1fAzPcxMEUzRPRdNwC49XK.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfZD4FppqVrrUfhdknQ8acZ1fAzPcxMEUzRPRdNwC49XK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfZD4FppqVrrUfhdknQ8acZ1fAzPcxMEUzRPRdNwC49XK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfZD4FppqVrrUfhdknQ8acZ1fAzPcxMEUzRPRdNwC49XK",
+  "PieceCid": "baga6ea4seaqkr3pqrhqaspghv5kxr36ebel4zcr4upxvggdhnngjnpdebbl4qci",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih5fa4wr7o4gjl55ye5oxdkcvpwnnvboeza4bcrmiz5eqrgzhjuyq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaYRucuuZDG21ECXg9DSeWs2GCmEkbzhpSiac4wCQeMES.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaYRucuuZDG21ECXg9DSeWs2GCmEkbzhpSiac4wCQeMES.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaYRucuuZDG21ECXg9DSeWs2GCmEkbzhpSiac4wCQeMES.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaYRucuuZDG21ECXg9DSeWs2GCmEkbzhpSiac4wCQeMES",
+  "PieceCid": "baga6ea4seaqkwu3nqtdh2olofxxmfodh7d5p2b4edsrmxxfo7suq5ct4asmhudi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihlv4tl3uvb3clbwikzbu2t3o3m5lbozv6us66xi2r72h22l5atx4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTmgkqF7417u65xd7HhuQSGtqQqGi3ZxV3weEq82FgzRy.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmTmgkqF7417u65xd7HhuQSGtqQqGi3ZxV3weEq82FgzRy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTmgkqF7417u65xd7HhuQSGtqQqGi3ZxV3weEq82FgzRy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTmgkqF7417u65xd7HhuQSGtqQqGi3ZxV3weEq82FgzRy",
+  "PieceCid": "baga6ea4seaqgqlaqjb3vmrqv2ngpt7n54y5e5cmqeursi443gg6ynf3nff6leni",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie5bv27wegrrizcwnooa7xdsc2lu3jknuqy6mqqmwidyueavpvvkq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmR21sd4Q2xqa5S4Eua3oaaeTh2pxkjNUohEf2Tbhwd3Lj.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmR21sd4Q2xqa5S4Eua3oaaeTh2pxkjNUohEf2Tbhwd3Lj.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmR21sd4Q2xqa5S4Eua3oaaeTh2pxkjNUohEf2Tbhwd3Lj.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmR21sd4Q2xqa5S4Eua3oaaeTh2pxkjNUohEf2Tbhwd3Lj",
+  "PieceCid": "baga6ea4seaqghjsedictstzqpa2elh6pmws6lpumhyz2ys2cfkdx6qyhjotegni",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiflzwfwy22i363l3bs47wjsca3ggyyhyfjwdq7mzmcsubihf6je5y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUoiECunoBVNw3FoyW6bY42Rc5CPMarizVLKLqcxsEMC5.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUoiECunoBVNw3FoyW6bY42Rc5CPMarizVLKLqcxsEMC5.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUoiECunoBVNw3FoyW6bY42Rc5CPMarizVLKLqcxsEMC5.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUoiECunoBVNw3FoyW6bY42Rc5CPMarizVLKLqcxsEMC5",
+  "PieceCid": "baga6ea4seaqb2fei2tow3ao3jzpevggimnlpqby5sxjqolqhugfj4tul65c32gq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreife6vdjp3wd55k24wh73q5ylydtbrdu3tw6mzay4hfiz3caejw2gm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaHZ84ssYUfVc4GpYnFYETxssdUjDTpNc1xHu5zk18Dwz.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaHZ84ssYUfVc4GpYnFYETxssdUjDTpNc1xHu5zk18Dwz.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaHZ84ssYUfVc4GpYnFYETxssdUjDTpNc1xHu5zk18Dwz.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaHZ84ssYUfVc4GpYnFYETxssdUjDTpNc1xHu5zk18Dwz",
+  "PieceCid": "baga6ea4seaqhlvro5tvo23jydlyguu7yxtkprtgjixqv7xebisgkehnw6z4t4jy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifn6jqljj33g72ctxzj7ytqv62ku3xw5a7wvdurmyahmt6cv2libe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmbDuQgDdzrxXzqaxz5kYLGgFkZxEpVh8ScbvqhYw8qpQX.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmbDuQgDdzrxXzqaxz5kYLGgFkZxEpVh8ScbvqhYw8qpQX.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmbDuQgDdzrxXzqaxz5kYLGgFkZxEpVh8ScbvqhYw8qpQX.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmbDuQgDdzrxXzqaxz5kYLGgFkZxEpVh8ScbvqhYw8qpQX",
+  "PieceCid": "baga6ea4seaqgufixtkue4nxkvyhkn2l7n5unn35a5nqatpmmq3iv2hbarblrkhi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic3f6z7vrqnfmgc2nj5ny27bulxcghhtu63rvbr6zahjm5gdggzeu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQFEk1q5nzzYpKCGxFN3x8KHHEU5LGkCPUpx7RgJMQufX.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQFEk1q5nzzYpKCGxFN3x8KHHEU5LGkCPUpx7RgJMQufX.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQFEk1q5nzzYpKCGxFN3x8KHHEU5LGkCPUpx7RgJMQufX.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQFEk1q5nzzYpKCGxFN3x8KHHEU5LGkCPUpx7RgJMQufX",
+  "PieceCid": "baga6ea4seaqoqnhozcayckivg3qlxco4jse5zos2xntmpqg5654idbuzo2iuuky",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieecty7ih2bluijukdagurzibjg52e2d7u6b7g32fx6kbjcmpeywm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmazYt5m9JfSKXCUfREcQD76VkEn3a1tjgjDw8mRu7VKFC.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmazYt5m9JfSKXCUfREcQD76VkEn3a1tjgjDw8mRu7VKFC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmazYt5m9JfSKXCUfREcQD76VkEn3a1tjgjDw8mRu7VKFC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmazYt5m9JfSKXCUfREcQD76VkEn3a1tjgjDw8mRu7VKFC",
+  "PieceCid": "baga6ea4seaqakfpbgrbwhsm5ymaovyt3dgtdhuj4gcucpi4xncnzwaiqot7nuay",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiahr3maihvhiwfyegjuau65djcp7vzr7mmyuz63ridzfnzrxv3ila",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmcaiBMxQyv3feX4xfeQN9huoitfAGKUAsvZdF8vS4bCyJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmcaiBMxQyv3feX4xfeQN9huoitfAGKUAsvZdF8vS4bCyJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcaiBMxQyv3feX4xfeQN9huoitfAGKUAsvZdF8vS4bCyJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcaiBMxQyv3feX4xfeQN9huoitfAGKUAsvZdF8vS4bCyJ",
+  "PieceCid": "baga6ea4seaqaursmjjiofg3buipw3ouacydgg5m3xhypz3xfrtj24yzx5wht2hi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih2xyybk77p4t2zff2vm7huwf6zzgkquetipanqahaf2m7qjsmmyy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmboCBpunzPLWLBouKrkJ8yqhafSAivK7afAPv36q4JMtG.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmboCBpunzPLWLBouKrkJ8yqhafSAivK7afAPv36q4JMtG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmboCBpunzPLWLBouKrkJ8yqhafSAivK7afAPv36q4JMtG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmboCBpunzPLWLBouKrkJ8yqhafSAivK7afAPv36q4JMtG",
+  "PieceCid": "baga6ea4seaqpcamajteahogwp47uzmih4mkjlrradfwhjjy3y6zenqetr54i4hq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigrmxa7sts62mntzzwp7pimvnxg2q5yhdot6xo6mldawtar6xvnta",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQVQ6vMq7Yjb7FDrYNJfW4y91NEhnigHdjNViXJFNCNQw.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQVQ6vMq7Yjb7FDrYNJfW4y91NEhnigHdjNViXJFNCNQw.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQVQ6vMq7Yjb7FDrYNJfW4y91NEhnigHdjNViXJFNCNQw.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQVQ6vMq7Yjb7FDrYNJfW4y91NEhnigHdjNViXJFNCNQw",
+  "PieceCid": "baga6ea4seaqi4afj6ilc3jepv5jk62h4tt7lyhxp7m6xivpyvjqs7yk552gcgby",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicmvr2ynizpmevlj63etlkg5bbrdpychtdsycozf4rpcjyxnor5li",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659378,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdEgEWgRgNFJb3FW9RYeWCJCdgxKu4KmBuKWRVKyFKYw5.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdEgEWgRgNFJb3FW9RYeWCJCdgxKu4KmBuKWRVKyFKYw5.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdEgEWgRgNFJb3FW9RYeWCJCdgxKu4KmBuKWRVKyFKYw5.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdEgEWgRgNFJb3FW9RYeWCJCdgxKu4KmBuKWRVKyFKYw5",
+  "PieceCid": "baga6ea4seaqcaw2kmx7jwuwqo7xoup5wd4cbzm7hr4u5ogjswmgk77olzqhjemq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiese64pkw6rryq74lvtoels6bsicff5ld2ixgypimury3tmxfm7na",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPiQ2TzwxsYV3Ygo1xwGBuK5kJay7wtqbDr59NF9PUo5X.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPiQ2TzwxsYV3Ygo1xwGBuK5kJay7wtqbDr59NF9PUo5X.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPiQ2TzwxsYV3Ygo1xwGBuK5kJay7wtqbDr59NF9PUo5X.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPiQ2TzwxsYV3Ygo1xwGBuK5kJay7wtqbDr59NF9PUo5X",
+  "PieceCid": "baga6ea4seaqmfhucrmgr7c4fotkw2mfgkiaf2k5gd5bvn4ennqswcw3436bosgy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigs5a7lzc4ujbn4fco36djmopfw7qpe22iqmyul4hokl3umuwu57m",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdrkTZgMwvFWbvmfw36ykueA2WGEt5B88aJFxTKH6xSk8.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdrkTZgMwvFWbvmfw36ykueA2WGEt5B88aJFxTKH6xSk8.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdrkTZgMwvFWbvmfw36ykueA2WGEt5B88aJFxTKH6xSk8.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdrkTZgMwvFWbvmfw36ykueA2WGEt5B88aJFxTKH6xSk8",
+  "PieceCid": "baga6ea4seaqeblw6dp34wox4nu6ueno5ujpzcn5kgjlwt7sgu5v3ammngmemgmq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreignjxn45lwak6gcxefsnnbc44q6kt5zub3cpzgmrqqdg7aqnuazoa",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmeKZyDfuQMCeEQw35Wj8UESx5jX5MC7TNfCgBi34ackMG.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmeKZyDfuQMCeEQw35Wj8UESx5jX5MC7TNfCgBi34ackMG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeKZyDfuQMCeEQw35Wj8UESx5jX5MC7TNfCgBi34ackMG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeKZyDfuQMCeEQw35Wj8UESx5jX5MC7TNfCgBi34ackMG",
+  "PieceCid": "baga6ea4seaqkxgpkxaih7be2myklx3jv6kmfffqt3rfwmubmo7th6nyq2nmxmjy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig46dnmzyeuepywcajbam3wmapsvae3aalzx2aecjoxmd5sxijykq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmS7DyvtK2oYmF9z4kuSQgYaHt73DZG5tTHsoZUf7qBZue.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmS7DyvtK2oYmF9z4kuSQgYaHt73DZG5tTHsoZUf7qBZue.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmS7DyvtK2oYmF9z4kuSQgYaHt73DZG5tTHsoZUf7qBZue.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmS7DyvtK2oYmF9z4kuSQgYaHt73DZG5tTHsoZUf7qBZue",
+  "PieceCid": "baga6ea4seaqgyynnvky76bvwuuye346cqlgoaiko76pc4elzt43pviuogbprena",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreice5o66jqkrweh6xezlt3lje5fb5k7yzczqg5fc5n6gd5fznfawqi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfApLYvUQnyCByMNF7PLN1TeZriw6YnnwauMimodn5pXM.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfApLYvUQnyCByMNF7PLN1TeZriw6YnnwauMimodn5pXM.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfApLYvUQnyCByMNF7PLN1TeZriw6YnnwauMimodn5pXM.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfApLYvUQnyCByMNF7PLN1TeZriw6YnnwauMimodn5pXM",
+  "PieceCid": "baga6ea4seaqkekorwlsxd27cckkj4pzbyumwi3syhmzxyutykqax6utr3rcpmai",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibqpwlsfhgxxpoymgdcdrtxinplg2szbyu7uvcu3w2qbdllbhtx44",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmcYPNJamPzvRoSTxDKBX78V7GdTwJHgb52tS3rdgiQuK4.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmcYPNJamPzvRoSTxDKBX78V7GdTwJHgb52tS3rdgiQuK4.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcYPNJamPzvRoSTxDKBX78V7GdTwJHgb52tS3rdgiQuK4.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcYPNJamPzvRoSTxDKBX78V7GdTwJHgb52tS3rdgiQuK4",
+  "PieceCid": "baga6ea4seaqoyjqkhojej64332sr5av2rnrtinsbt2fne5vmbux3xqb52dzaqoy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreideq6u6dtlgjzmkcqfhrrlfrbsk2rhblh6dh6r3emdf7jydthox6u",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmag25o9bLvARpKEx1p74FhoUQd6K2wrVaQk5F8Dr8tLfu.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmag25o9bLvARpKEx1p74FhoUQd6K2wrVaQk5F8Dr8tLfu.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmag25o9bLvARpKEx1p74FhoUQd6K2wrVaQk5F8Dr8tLfu.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmag25o9bLvARpKEx1p74FhoUQd6K2wrVaQk5F8Dr8tLfu",
+  "PieceCid": "baga6ea4seaqdielcj33eh6ypwh3z4g3f5lumtybufctfo5pveanzbgdldrd2oha",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigifrjizyn7ppq7bao4ysfejnifqe5jd2pc5ueyjhclvn7h5vaofm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmNrHBKtyndWe9sjmdrYLgfF28SVQBdktXEEbNzzt8v2oo.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmNrHBKtyndWe9sjmdrYLgfF28SVQBdktXEEbNzzt8v2oo.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmNrHBKtyndWe9sjmdrYLgfF28SVQBdktXEEbNzzt8v2oo.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmNrHBKtyndWe9sjmdrYLgfF28SVQBdktXEEbNzzt8v2oo",
+  "PieceCid": "baga6ea4seaqihkiobfp54555kqxkjfog2z5pf46x2vs6w7nadyjuaxw6krgwqna",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicxzd4csfzt5giwakc5r6njflydwcfwokpfz6bfosxsw7zeeu4kou",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZNE9ZgDGb7g4jtVN6LFWbTUsVycMC1MduULAwjGE4CWZ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZNE9ZgDGb7g4jtVN6LFWbTUsVycMC1MduULAwjGE4CWZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZNE9ZgDGb7g4jtVN6LFWbTUsVycMC1MduULAwjGE4CWZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZNE9ZgDGb7g4jtVN6LFWbTUsVycMC1MduULAwjGE4CWZ",
+  "PieceCid": "baga6ea4seaqhrdip6r4unutxehvsd22cfhycq7milhvygpb77bg653v4nv4f2jy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidmmczfja5fpj6kx5cdrucola2jfzwvq5m66j3lczwzcmdvj7ml7i",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXjnCf74Twu1zyjYDbKW88Yn6udMMc8f6VbJF6ZJL6cWY.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmXjnCf74Twu1zyjYDbKW88Yn6udMMc8f6VbJF6ZJL6cWY.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXjnCf74Twu1zyjYDbKW88Yn6udMMc8f6VbJF6ZJL6cWY.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXjnCf74Twu1zyjYDbKW88Yn6udMMc8f6VbJF6ZJL6cWY",
+  "PieceCid": "baga6ea4seaqfcin6mnsx4l5vvgkkmotmrbzlq2b6nxtepoxllcqbzit2u4aswfa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihuktcbpig3oymdhhoxlgoqaiz2czjnp3ins4cu6uyshbbyp2i4tq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmax18nfkfwYyFLGUqM9vBk6nzqDSd3dVxnQxTpT9t2pan.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmax18nfkfwYyFLGUqM9vBk6nzqDSd3dVxnQxTpT9t2pan.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmax18nfkfwYyFLGUqM9vBk6nzqDSd3dVxnQxTpT9t2pan.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmax18nfkfwYyFLGUqM9vBk6nzqDSd3dVxnQxTpT9t2pan",
+  "PieceCid": "baga6ea4seaqajfxoitbf7kwtwj4izjej7leuivdoiismxvcv6m2r2is7sfi6kbq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreial3s6ezpxr254ptqlyla23nb3dodmfefudgml72g7di755al5npi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQ8T2jt8br6hLbJM8ivFTBMD29o5HjEicCYa9yCR6L5qK.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQ8T2jt8br6hLbJM8ivFTBMD29o5HjEicCYa9yCR6L5qK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQ8T2jt8br6hLbJM8ivFTBMD29o5HjEicCYa9yCR6L5qK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQ8T2jt8br6hLbJM8ivFTBMD29o5HjEicCYa9yCR6L5qK",
+  "PieceCid": "baga6ea4seaqja7co36d5j2tnulx6vweuktwyyhot6w2b3cdu2kvghpfli2dfooi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiay3pokwgkgal362vrgh24vqn4dbgy4o4jbcbnooowvp4l32hdfeu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPekHPb8L7byKsho3yjax12DEsGCtvgWb9Ydu8RjzdtfM.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPekHPb8L7byKsho3yjax12DEsGCtvgWb9Ydu8RjzdtfM.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPekHPb8L7byKsho3yjax12DEsGCtvgWb9Ydu8RjzdtfM.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPekHPb8L7byKsho3yjax12DEsGCtvgWb9Ydu8RjzdtfM",
+  "PieceCid": "baga6ea4seaqbsnvnldhlqmb4njxyyop4jt27ygcakx3d6nkfw5oqx47xaueoyni",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreighhl7i5bgse37rm2p3cgbc5vciurdpcvluqgq6x5kh2sejfue72i",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659379,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdLZSmcVUK85oiRSvBdraDEtpU1jahTR3dhYLKmYc6tmy.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdLZSmcVUK85oiRSvBdraDEtpU1jahTR3dhYLKmYc6tmy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdLZSmcVUK85oiRSvBdraDEtpU1jahTR3dhYLKmYc6tmy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdLZSmcVUK85oiRSvBdraDEtpU1jahTR3dhYLKmYc6tmy",
+  "PieceCid": "baga6ea4seaqblgqfri7ymzai2wfhiyeeweh6yl7xjwscb7gd5ct2ueal53krkky",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreichza6dgjsiesk75ouw4gifiwerdzhhtuufbacuf5wahddulluksu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUPBdH9VqZFG1NYWhVCsNKxjLxUwiYuxudEFpYtNPN3Kc.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUPBdH9VqZFG1NYWhVCsNKxjLxUwiYuxudEFpYtNPN3Kc.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUPBdH9VqZFG1NYWhVCsNKxjLxUwiYuxudEFpYtNPN3Kc.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUPBdH9VqZFG1NYWhVCsNKxjLxUwiYuxudEFpYtNPN3Kc",
+  "PieceCid": "baga6ea4seaqjjfbqoazruf6vw36qw5omwcav5ii2skkyttotq5ib2shgxnisenq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreich62oes7cau3bqxgf7kmig4cwg7pwhyv7qswkjinzaxb4szdx6je",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfJEtLqYBGiTnAtBweffSF3NAnrwr3i4kuMBuGQvfny6E.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfJEtLqYBGiTnAtBweffSF3NAnrwr3i4kuMBuGQvfny6E.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfJEtLqYBGiTnAtBweffSF3NAnrwr3i4kuMBuGQvfny6E.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfJEtLqYBGiTnAtBweffSF3NAnrwr3i4kuMBuGQvfny6E",
+  "PieceCid": "baga6ea4seaqao4l3qlcc5pmxcawhlfm4qzcp2cgd2r3hgcsejt5za4rya2xaeia",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid5p6anfxibrtotz2oargsdmkjghziqeb5tnrtfbaeqky6wrgrtue",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWKLgyW7FMANVwL5kPQWU2Vk6VYJ6rQKyYEjejMgXza48.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWKLgyW7FMANVwL5kPQWU2Vk6VYJ6rQKyYEjejMgXza48.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWKLgyW7FMANVwL5kPQWU2Vk6VYJ6rQKyYEjejMgXza48.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWKLgyW7FMANVwL5kPQWU2Vk6VYJ6rQKyYEjejMgXza48",
+  "PieceCid": "baga6ea4seaqlux72fqfv7v2kfwse4rsmsf5jvkh2xfnn2z2trvdjje52rutaqlq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig26vcqpowkawmakt22f4idd5sq7fhrp5yztpy76swgf6e2pnfbo4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPDP1fdmPaBFg1sgXuMi41A9TYSzFfCUvKZAksq1ihYkq.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPDP1fdmPaBFg1sgXuMi41A9TYSzFfCUvKZAksq1ihYkq.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPDP1fdmPaBFg1sgXuMi41A9TYSzFfCUvKZAksq1ihYkq.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPDP1fdmPaBFg1sgXuMi41A9TYSzFfCUvKZAksq1ihYkq",
+  "PieceCid": "baga6ea4seaqnradc5na36ynid52s4fkywk24nqd47gphfyc5dnt2roolszjqaaa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiexgwevhtf3isvjmzpxsuzdhgthun4rk5qqwy7i7pe2k7vklnzxf4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUvc2kfA8nAevUkZWCwMy4RXvqiqPV5WakBr5ey731ish.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUvc2kfA8nAevUkZWCwMy4RXvqiqPV5WakBr5ey731ish.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUvc2kfA8nAevUkZWCwMy4RXvqiqPV5WakBr5ey731ish.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUvc2kfA8nAevUkZWCwMy4RXvqiqPV5WakBr5ey731ish",
+  "PieceCid": "baga6ea4seaqmefgxtxcnxs5t35aiv6zsjdep7kjdk5dlta2ksx47wlfxmv73oia",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiff5xuzxhorw7rrnhjwqwax6j44nfytzzscq6xx3ojol3cvbn7kj4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmcUiscCTR4KvDKYnkUJtmG45zFEgQcGp9pcgskHhHbFEH.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmcUiscCTR4KvDKYnkUJtmG45zFEgQcGp9pcgskHhHbFEH.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcUiscCTR4KvDKYnkUJtmG45zFEgQcGp9pcgskHhHbFEH.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcUiscCTR4KvDKYnkUJtmG45zFEgQcGp9pcgskHhHbFEH",
+  "PieceCid": "baga6ea4seaqfgh4xpc4abfr7bykbakazttidgs6montbdixlcdoc7n3bglg6agq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidn654ftehnddy3fwwgntzl5gy57whrgp3ywraadwesq3ajk6sprm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRgi6RaWMQRZunQpM5BqUvhcRHJsVtQS8RD7DvGHWNjEP.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRgi6RaWMQRZunQpM5BqUvhcRHJsVtQS8RD7DvGHWNjEP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRgi6RaWMQRZunQpM5BqUvhcRHJsVtQS8RD7DvGHWNjEP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRgi6RaWMQRZunQpM5BqUvhcRHJsVtQS8RD7DvGHWNjEP",
+  "PieceCid": "baga6ea4seaqdibobsk5cyhdj6gbrshzfizgzik5vgmvbv5qjqwmws4myh46n2ji",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihgywxqz3gajhi43upzihiaiw532fzkfk3slguabd3q6o22fi63ty",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZibokkmCYdWhQrS857HUsGdjBrhp3JcA161rcfNP1d8y.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZibokkmCYdWhQrS857HUsGdjBrhp3JcA161rcfNP1d8y.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZibokkmCYdWhQrS857HUsGdjBrhp3JcA161rcfNP1d8y.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZibokkmCYdWhQrS857HUsGdjBrhp3JcA161rcfNP1d8y",
+  "PieceCid": "baga6ea4seaqdy5q3a667cxl2krdutuufdy5ybnks5setdl34iyp4dzzhg26iooa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibvs4hwqz4lhfricskyayblzq75a2cwtxebynfabzpgfnehlrzsqq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmXcrVU3e7MQHgLHpdzL82Boq8UZcDR8HTE5ui62quKCga.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmXcrVU3e7MQHgLHpdzL82Boq8UZcDR8HTE5ui62quKCga.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmXcrVU3e7MQHgLHpdzL82Boq8UZcDR8HTE5ui62quKCga.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmXcrVU3e7MQHgLHpdzL82Boq8UZcDR8HTE5ui62quKCga",
+  "PieceCid": "baga6ea4seaqeqttnduwg52ygzbhyqfhzsk5rws4a2hk2pbbclfwpj5pwq4vg6li",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifeh3riv55qkb6h477hrvlpl3twlceacdn72ejqryvo3jztil3z4y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmec8MP881GsJY5LL3uKVjfCKP2jCYm2xQxj1nhZ79ghRq.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmec8MP881GsJY5LL3uKVjfCKP2jCYm2xQxj1nhZ79ghRq.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmec8MP881GsJY5LL3uKVjfCKP2jCYm2xQxj1nhZ79ghRq.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmec8MP881GsJY5LL3uKVjfCKP2jCYm2xQxj1nhZ79ghRq",
+  "PieceCid": "baga6ea4seaqksw566ofhexs4jfdvwivlqtzq2m2gubmz3m7mlg6ir5csagmzagq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihcfgue5uxjhfbdelhd2jwn73fyywfyjz5ljg2pxreabf5zblul3e",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659380,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdLweC16m7gttWguVU516DAfvobkyL8vrwx95urv1kkZP.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdLweC16m7gttWguVU516DAfvobkyL8vrwx95urv1kkZP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdLweC16m7gttWguVU516DAfvobkyL8vrwx95urv1kkZP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdLweC16m7gttWguVU516DAfvobkyL8vrwx95urv1kkZP",
+  "PieceCid": "baga6ea4seaqlctirq7rrisjrkshpuy2tr2xfod555ao2tjnff7eomgzm3gas2oy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieft7mjcmfinr4npyvqhw4pzcoa6kr2jqf76qwnqxcdltfvgmp7ne",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSN3YNfWoh2t4ctD2xjayyn3oQ9YfVktJBdk4hoLSYCPF.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmSN3YNfWoh2t4ctD2xjayyn3oQ9YfVktJBdk4hoLSYCPF.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSN3YNfWoh2t4ctD2xjayyn3oQ9YfVktJBdk4hoLSYCPF.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSN3YNfWoh2t4ctD2xjayyn3oQ9YfVktJBdk4hoLSYCPF",
+  "PieceCid": "baga6ea4seaqnrbiesvxmkgz3ubect3n43btx6wtper2wohk2wqizylkldueo6oy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreib77ceqolx3h2mkbblkagwrbeifnkmqltbuj63bvp3lmd6gerjnv4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUh7DTXePnn58z5ehViqnwb8yNq1R2JAuFjgbAscXu3vP.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUh7DTXePnn58z5ehViqnwb8yNq1R2JAuFjgbAscXu3vP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUh7DTXePnn58z5ehViqnwb8yNq1R2JAuFjgbAscXu3vP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUh7DTXePnn58z5ehViqnwb8yNq1R2JAuFjgbAscXu3vP",
+  "PieceCid": "baga6ea4seaqgl22gkguml6vlwdezf3gwl4sask6sl3brik4vc4fb36ybt2hasoy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig5k6fecjp4jzyugmvo5r7znixfu2eojnekjiczwts4ywlk6e4ixq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaH5JeLaZNNhkzbnAfrGSPTmgQ1V4Fo6boYguWdB2tYeW.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaH5JeLaZNNhkzbnAfrGSPTmgQ1V4Fo6boYguWdB2tYeW.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaH5JeLaZNNhkzbnAfrGSPTmgQ1V4Fo6boYguWdB2tYeW.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaH5JeLaZNNhkzbnAfrGSPTmgQ1V4Fo6boYguWdB2tYeW",
+  "PieceCid": "baga6ea4seaqisauqkfl356iykftrxo46vrv5rlhkzngwpizypbpck6dpuomn4kq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigkceue4oy6kzwcgbf5kx5uxhpyrkc2v7izwzgpsr2sae4jh6r76a",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmV6e44nkYLVZ9j7tj3QfNHuRNtvR3cP9P92T8UJPi57mv.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmV6e44nkYLVZ9j7tj3QfNHuRNtvR3cP9P92T8UJPi57mv.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmV6e44nkYLVZ9j7tj3QfNHuRNtvR3cP9P92T8UJPi57mv.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmV6e44nkYLVZ9j7tj3QfNHuRNtvR3cP9P92T8UJPi57mv",
+  "PieceCid": "baga6ea4seaqlar2oataamapnlyggic4avqf27rs73gvk4dvw6jwhr26wliom6bq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid6eti2vvnnhhwf6ukfs2lng2rpzoa5ur3irqi5wg7yidue3egyiu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmP1BgPR2wQ5LHXFwqe6QdLF7d9mqaMzkthC6poUFYoZsR.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmP1BgPR2wQ5LHXFwqe6QdLF7d9mqaMzkthC6poUFYoZsR.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmP1BgPR2wQ5LHXFwqe6QdLF7d9mqaMzkthC6poUFYoZsR.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmP1BgPR2wQ5LHXFwqe6QdLF7d9mqaMzkthC6poUFYoZsR",
+  "PieceCid": "baga6ea4seaqecctf4gemtezaums7lgzfaonwgiep4cky5sxxysxbovbentmx4ha",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic3bqpunvmazitsa7dos5dh7v74e4somcjzzshcfj22kemb4uqdnu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYtab2aQbxpf1FqE3vu2Pnk97oXJ3bJjYyM6qGyurKPUw.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYtab2aQbxpf1FqE3vu2Pnk97oXJ3bJjYyM6qGyurKPUw.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYtab2aQbxpf1FqE3vu2Pnk97oXJ3bJjYyM6qGyurKPUw.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYtab2aQbxpf1FqE3vu2Pnk97oXJ3bJjYyM6qGyurKPUw",
+  "PieceCid": "baga6ea4seaqacehogbn3v24iguzjnlnypokkeghojumyqc75b5h3nskxdxjnyna",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifyte7bhgsblc7pcdpysag62x4dkvh3su6y2fl7ivourdxfsem5fq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYMwNyCnCjyacKGjGirYcZUVwbJnE7fYtEwFBgWmKiY5G.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYMwNyCnCjyacKGjGirYcZUVwbJnE7fYtEwFBgWmKiY5G.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYMwNyCnCjyacKGjGirYcZUVwbJnE7fYtEwFBgWmKiY5G.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYMwNyCnCjyacKGjGirYcZUVwbJnE7fYtEwFBgWmKiY5G",
+  "PieceCid": "baga6ea4seaqisqgmurgutkdgz2yxpprcfmljzjp6b7vzdfmvlq2z3re63ribibq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig63m5w22csqkobrm5tvoyvfvkurhtyxtmod7nsnspys6c6rvqruy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRDn56QbMZgd2mkv8DefXi7V1VRZA2mgBr3fEBffdbCEx.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRDn56QbMZgd2mkv8DefXi7V1VRZA2mgBr3fEBffdbCEx.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRDn56QbMZgd2mkv8DefXi7V1VRZA2mgBr3fEBffdbCEx.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRDn56QbMZgd2mkv8DefXi7V1VRZA2mgBr3fEBffdbCEx",
+  "PieceCid": "baga6ea4seaql4jt7si4ztlxdfxaln2xc2tqltqbakzmvldyk74qqmcq3iuwm2oi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibbg2rncilrpq57p3qu3wefx53jel53dltctftysens7dshqgsqr4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZKbc2R8bGsFGebnX5XQpw6921c3PmvRosH3kLy4rBBmv.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZKbc2R8bGsFGebnX5XQpw6921c3PmvRosH3kLy4rBBmv.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZKbc2R8bGsFGebnX5XQpw6921c3PmvRosH3kLy4rBBmv.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZKbc2R8bGsFGebnX5XQpw6921c3PmvRosH3kLy4rBBmv",
+  "PieceCid": "baga6ea4seaqia74uq4jnup7ucdz4hdtprwr74amagg4ppimkxdhhfptpunm3ujq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihmc5m7rxlxnspsobdhbatrjwa5p2owzwnwhpfvfjlznjbtiems6y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYrAqpJZmA6w9dwjp8sRhdcWzsaiUTeDBqPQrsewxib8Z.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYrAqpJZmA6w9dwjp8sRhdcWzsaiUTeDBqPQrsewxib8Z.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYrAqpJZmA6w9dwjp8sRhdcWzsaiUTeDBqPQrsewxib8Z.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYrAqpJZmA6w9dwjp8sRhdcWzsaiUTeDBqPQrsewxib8Z",
+  "PieceCid": "baga6ea4seaqldjet5hirxizr4yuz25lji2lkmljmwwlww4vrg3qk6gmygpn6cci",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiduhcaotwmolg6aj6fskzn6fcvg5ovt7bpngtfba45zxvzkadeomq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRfsHmrEy8FFzz3WbXerzrGRu8F5CRj8WMZ4hBWSF4hXd.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRfsHmrEy8FFzz3WbXerzrGRu8F5CRj8WMZ4hBWSF4hXd.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRfsHmrEy8FFzz3WbXerzrGRu8F5CRj8WMZ4hBWSF4hXd.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRfsHmrEy8FFzz3WbXerzrGRu8F5CRj8WMZ4hBWSF4hXd",
+  "PieceCid": "baga6ea4seaqaz2ydmsg5xotyl5jufsqcnzr6gsaba7f5fay3w7arkunfbw6r6ba",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihp52snp7rmfxwaofc7dk2uubq45kpukbm3hvru35ha6ebuodivme",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdVsJ9DGFrc33QTbS5zA1NYmPHEviwZ3v1PBBCtbS3aAG.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdVsJ9DGFrc33QTbS5zA1NYmPHEviwZ3v1PBBCtbS3aAG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdVsJ9DGFrc33QTbS5zA1NYmPHEviwZ3v1PBBCtbS3aAG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdVsJ9DGFrc33QTbS5zA1NYmPHEviwZ3v1PBBCtbS3aAG",
+  "PieceCid": "baga6ea4seaqcra46dbwh7uswfk6y7sgg67y6uv46tft7rtpk5htbewwvqv3vgfq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiemdl52ik3nxf6jfraafymte27jqpdcy2xjnelvdwrqunmbxpcoke",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmf6jdd2chK6tmjyrf2zgS3qAYB3cBUt6PKoAiX2vF8kkY.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmf6jdd2chK6tmjyrf2zgS3qAYB3cBUt6PKoAiX2vF8kkY.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmf6jdd2chK6tmjyrf2zgS3qAYB3cBUt6PKoAiX2vF8kkY.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmf6jdd2chK6tmjyrf2zgS3qAYB3cBUt6PKoAiX2vF8kkY",
+  "PieceCid": "baga6ea4seaqhsu3r5mjdjds6tvbt73k6phbgvkf23lq67rssdystdx5w5taoqcy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifbxp4emglw3hju233arkfrjq6i3vxawnva3va3k2yt7eud3zj4be",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdjPaerbx6HoMu4PrhUi1yuECRoJ1A9ygmmVD2gUx618X.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdjPaerbx6HoMu4PrhUi1yuECRoJ1A9ygmmVD2gUx618X.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdjPaerbx6HoMu4PrhUi1yuECRoJ1A9ygmmVD2gUx618X.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdjPaerbx6HoMu4PrhUi1yuECRoJ1A9ygmmVD2gUx618X",
+  "PieceCid": "baga6ea4seaqgd57yucwfwnvfvhkvrpc42p3236cscj3wv7tbozcxztfsvudg6oq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidce3lhevggkyyczm26wkjtegfw7zzsg2mdgnelfzhj6qd6dbio7m",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfZs3BQHE9bCnPB2cpLAMw46V4RF5xFFAFEfsKS9ady3U.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfZs3BQHE9bCnPB2cpLAMw46V4RF5xFFAFEfsKS9ady3U.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfZs3BQHE9bCnPB2cpLAMw46V4RF5xFFAFEfsKS9ady3U.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfZs3BQHE9bCnPB2cpLAMw46V4RF5xFFAFEfsKS9ady3U",
+  "PieceCid": "baga6ea4seaqjln6eaksw47fr2uns5d2rms4f52w3twg5hqeqgwfcwvynrccyefy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibvksulw73tmxfqsn5lagsepzpnvvwevdibulwosdknnm4mi56dy4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTSRyuhDu5WgeWckcw88QDkeuyiZJ1JrwvpQrkDf4TAw6.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmTSRyuhDu5WgeWckcw88QDkeuyiZJ1JrwvpQrkDf4TAw6.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTSRyuhDu5WgeWckcw88QDkeuyiZJ1JrwvpQrkDf4TAw6.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTSRyuhDu5WgeWckcw88QDkeuyiZJ1JrwvpQrkDf4TAw6",
+  "PieceCid": "baga6ea4seaqgupjvby3egq3c3vvmka46gxgjhabyxdft3mensjbcnlyjwlxooky",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreialaf4rqedifywetucweq6ur67lhcabf2kofmu36t5jpk7hqq73mi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfN8Pxy9Ff1mN9oJcf4Yi8hBDovgrfUb3uQyHCyz94pee.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfN8Pxy9Ff1mN9oJcf4Yi8hBDovgrfUb3uQyHCyz94pee.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfN8Pxy9Ff1mN9oJcf4Yi8hBDovgrfUb3uQyHCyz94pee.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfN8Pxy9Ff1mN9oJcf4Yi8hBDovgrfUb3uQyHCyz94pee",
+  "PieceCid": "baga6ea4seaqao426j3xuclxgvt3h5c57ytjsniuxp76jucsboejhy4gpdcizynq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibb7nv2i4cxab6nrr3hnt543eya66dwcz7enim3dkefngi3nqzevq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmfW6c8py6BWnaYyvR2VCSfCfCgkgf245s8VWVXjFW99zJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmfW6c8py6BWnaYyvR2VCSfCfCgkgf245s8VWVXjFW99zJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmfW6c8py6BWnaYyvR2VCSfCfCgkgf245s8VWVXjFW99zJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmfW6c8py6BWnaYyvR2VCSfCfCgkgf245s8VWVXjFW99zJ",
+  "PieceCid": "baga6ea4seaqp7dviliyzpzvdzh6txwx3wkafn5oyu2lhxzwhq3oilzpjjokjifa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicf7sbtoxfwjsbthqobokf53dimn5etb6mr25ift4angednw2rtgu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmaQ4rCVjWZ9Fxkw84djBdA7Z3hMrc3ynQBXaK8sCVMtWe.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmaQ4rCVjWZ9Fxkw84djBdA7Z3hMrc3ynQBXaK8sCVMtWe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmaQ4rCVjWZ9Fxkw84djBdA7Z3hMrc3ynQBXaK8sCVMtWe.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmaQ4rCVjWZ9Fxkw84djBdA7Z3hMrc3ynQBXaK8sCVMtWe",
+  "PieceCid": "baga6ea4seaqo3lk565ycmngpqmidclp3mybam2k6fbwtqezjse7hlkntu43s2nq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifk4v6fkqfklw3yktt75dhloqv3qay6bj7jgqh2mxujn25vl6cbsi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPYesQueWC9XfzwXX1vWJuZP1pg2kgEN8bopLFhy8F9Ry.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPYesQueWC9XfzwXX1vWJuZP1pg2kgEN8bopLFhy8F9Ry.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPYesQueWC9XfzwXX1vWJuZP1pg2kgEN8bopLFhy8F9Ry.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPYesQueWC9XfzwXX1vWJuZP1pg2kgEN8bopLFhy8F9Ry",
+  "PieceCid": "baga6ea4seaqivnap2yesazr2vlbucdv4lpgxe7wdddjnr7gikffektj5wtag6pq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigcnxetfio26wolyvzjuxxmstxtxpvobwaorhmwgt4ppkfksfqybi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUff7vnsw8KLZ8HSy6vxL69q9vgrrQzWJTerny3tQXY6m.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUff7vnsw8KLZ8HSy6vxL69q9vgrrQzWJTerny3tQXY6m.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUff7vnsw8KLZ8HSy6vxL69q9vgrrQzWJTerny3tQXY6m.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUff7vnsw8KLZ8HSy6vxL69q9vgrrQzWJTerny3tQXY6m",
+  "PieceCid": "baga6ea4seaqioskt3zmevf5hckezi5j2kn6opwkdbv2fdichcme4cyghyn22mka",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihc4uexjngauoaynbgmevdmo65gmyeur76wrrmnyslq3elr2tio54",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZjHAjtJ1BihW2cw2JySEaRKD6umku1NcDpU4nceMeUNi.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZjHAjtJ1BihW2cw2JySEaRKD6umku1NcDpU4nceMeUNi.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZjHAjtJ1BihW2cw2JySEaRKD6umku1NcDpU4nceMeUNi.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZjHAjtJ1BihW2cw2JySEaRKD6umku1NcDpU4nceMeUNi",
+  "PieceCid": "baga6ea4seaqk3h5ge7r6wokecdszoe7hnkkm6d5pdmf7xebfepen4qr6la5aeiy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih5p3folctssvosqumhjwvwkbqsa27vkxtyjn5uo2b7blyottnmte",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmZCb3ZM4pjk6xYuGoTQgxZEkCfhJgqmiwsyrVUxX2eNAx.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmZCb3ZM4pjk6xYuGoTQgxZEkCfhJgqmiwsyrVUxX2eNAx.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmZCb3ZM4pjk6xYuGoTQgxZEkCfhJgqmiwsyrVUxX2eNAx.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmZCb3ZM4pjk6xYuGoTQgxZEkCfhJgqmiwsyrVUxX2eNAx",
+  "PieceCid": "baga6ea4seaqoblc5zm2yjiixhce62j434vamnrasxtnef3lrdkfy6d5yo6wiwiy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifvpk73634ttug3l55j4hrhjnqtbvmzrzzly3dnaoqwr3vgz3tptq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQgq1ecc36H2c3x5MJdaHzggLhZX2eifGRirLSSZ2k775.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQgq1ecc36H2c3x5MJdaHzggLhZX2eifGRirLSSZ2k775.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQgq1ecc36H2c3x5MJdaHzggLhZX2eifGRirLSSZ2k775.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQgq1ecc36H2c3x5MJdaHzggLhZX2eifGRirLSSZ2k775",
+  "PieceCid": "baga6ea4seaqbmqvlajbzlfxa7ycoyd5vd4wfw2ju4myis4oosqf4g4gpuyj5ama",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihtuxfzax2pxk6duvl4c6s3necs7vdn5m5gphcsnm2xw3qotddfmy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659381,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdQWSbdCkVuDSoGvASczYxiKAzMchCM8fFHtLVzqRejfP.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdQWSbdCkVuDSoGvASczYxiKAzMchCM8fFHtLVzqRejfP.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdQWSbdCkVuDSoGvASczYxiKAzMchCM8fFHtLVzqRejfP.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdQWSbdCkVuDSoGvASczYxiKAzMchCM8fFHtLVzqRejfP",
+  "PieceCid": "baga6ea4seaqbwvux5heiabwnrmwm5hfxtijtdyxgyxd323umiw7wnfheyg7k4by",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidfec4pe5msvovs2e6aa4y65i7q5g2vq54qqayn4lu5fbvsndswxe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qme5TxAP5mitq3LdXjhBbrvQoY7ac15iTmubrNJdgLMtnJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qme5TxAP5mitq3LdXjhBbrvQoY7ac15iTmubrNJdgLMtnJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qme5TxAP5mitq3LdXjhBbrvQoY7ac15iTmubrNJdgLMtnJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qme5TxAP5mitq3LdXjhBbrvQoY7ac15iTmubrNJdgLMtnJ",
+  "PieceCid": "baga6ea4seaqddp6bwnrk5vl5i76gbwk7yztnn7v6jjyl4qzslp247ffplacaqgq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifdjr3kx5l2hi6mvik2dubrviahe6ortmw4qanlj6hyqsrghihngu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmeriQsgwXzBxUsKUGTyhwpQvvV318EqKtpuzyPULvhSzp.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmeriQsgwXzBxUsKUGTyhwpQvvV318EqKtpuzyPULvhSzp.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmeriQsgwXzBxUsKUGTyhwpQvvV318EqKtpuzyPULvhSzp.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmeriQsgwXzBxUsKUGTyhwpQvvV318EqKtpuzyPULvhSzp",
+  "PieceCid": "baga6ea4seaqfpsh4am3g5y63hazwa7fuvo7uharygzn645cc2pzlanfnjhfqapa",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiawgp4qupxhtrez55n74xppcmax3npmyxqfim3vxouufkhwrzh7vy",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWQU6DRA4nbo3kZsvaunbsU6xMRvjN3M75VBNewHkYwgr.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWQU6DRA4nbo3kZsvaunbsU6xMRvjN3M75VBNewHkYwgr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWQU6DRA4nbo3kZsvaunbsU6xMRvjN3M75VBNewHkYwgr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWQU6DRA4nbo3kZsvaunbsU6xMRvjN3M75VBNewHkYwgr",
+  "PieceCid": "baga6ea4seaqikirfkxf2xiw2k2o652mtzrstdyb4e5t7n4pgheuvjkyjszzusbq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifwnvwn6kk4slri2xm3utj7tf7hpxgxtclluncpobw25bcuffjhgm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTUVqMH3BBz1EVvWzYNqXSU28Gpvmh5hHVqrSHKq2rB6x.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmTUVqMH3BBz1EVvWzYNqXSU28Gpvmh5hHVqrSHKq2rB6x.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTUVqMH3BBz1EVvWzYNqXSU28Gpvmh5hHVqrSHKq2rB6x.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTUVqMH3BBz1EVvWzYNqXSU28Gpvmh5hHVqrSHKq2rB6x",
+  "PieceCid": "baga6ea4seaqlnagdbmzdydy745lj4566bm4sqtp5nimkvnzoupxkgmihd4qemny",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibyf334bdany5l44qqhtxyfo6nvhxyguwn4h7nvueu4jyocn2tkdm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmTpF9qMxht6SYvudCnD8WAK1Mz7Whsy1tdwHQSp96QWw9.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmTpF9qMxht6SYvudCnD8WAK1Mz7Whsy1tdwHQSp96QWw9.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmTpF9qMxht6SYvudCnD8WAK1Mz7Whsy1tdwHQSp96QWw9.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmTpF9qMxht6SYvudCnD8WAK1Mz7Whsy1tdwHQSp96QWw9",
+  "PieceCid": "baga6ea4seaqb4daa2j2kirqudfwp5pltmg27qj5knrfjhvdrldkqb4e3oxciijy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibckvzkbei4cweixy5yknxddmcex7jua4zbbshzbwf3vmzc6435hi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmceUr9ToXbS72kPsXSi7g6GwiA3K5ehKA12an2yjrehnK.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmceUr9ToXbS72kPsXSi7g6GwiA3K5ehKA12an2yjrehnK.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmceUr9ToXbS72kPsXSi7g6GwiA3K5ehKA12an2yjrehnK.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmceUr9ToXbS72kPsXSi7g6GwiA3K5ehKA12an2yjrehnK",
+  "PieceCid": "baga6ea4seaqj4xfkt6miphimnbo5hmsiy5vkjdu2aikgu4xtm5db74hvxensoha",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidqzf7yyaytl3dzzde7mqz7ilgrepeznfglzl3gbk5otfqvctgqlq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmT296bGrKjCNfiAsGEFWBSCecPt1T29DZX34MtgWx6YWG.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmT296bGrKjCNfiAsGEFWBSCecPt1T29DZX34MtgWx6YWG.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmT296bGrKjCNfiAsGEFWBSCecPt1T29DZX34MtgWx6YWG.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmT296bGrKjCNfiAsGEFWBSCecPt1T29DZX34MtgWx6YWG",
+  "PieceCid": "baga6ea4seaqhrtk3xh4g63vd3ketksq6hinapswfwqdvsfdtisrj5ayzk5vuyba",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibq4qeqy3ehs3u3rcltpn6msdlehv6rpchhnfz3seltch4ii6phz4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmefdsPu36A2GTVmkUd186ozGJhVDMVWUPZ4fnRHpBjWvB.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmefdsPu36A2GTVmkUd186ozGJhVDMVWUPZ4fnRHpBjWvB.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmefdsPu36A2GTVmkUd186ozGJhVDMVWUPZ4fnRHpBjWvB.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmefdsPu36A2GTVmkUd186ozGJhVDMVWUPZ4fnRHpBjWvB",
+  "PieceCid": "baga6ea4seaqcdcd652o4kspoxriczkhe7nzz4jsairmmkmluk3hdeditzknvobq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigtdvingh6zzyi23tmo6sfwx46mxmrebz7ybxuy7i7fhxqgdggtjm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmf8JgrAsKDybJhEL5sQJhiwRvPNbH82eaFaS8v1wRGCVy.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmf8JgrAsKDybJhEL5sQJhiwRvPNbH82eaFaS8v1wRGCVy.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmf8JgrAsKDybJhEL5sQJhiwRvPNbH82eaFaS8v1wRGCVy.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmf8JgrAsKDybJhEL5sQJhiwRvPNbH82eaFaS8v1wRGCVy",
+  "PieceCid": "baga6ea4seaqpod4p467436zi3mdchr4chk2dfmkrqsfudpecohhuld4yjjaiydi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreie5i4dejk4xybxrumgqopwxswsjv4fqfgwkpestfnwq5y4c3zh3ha",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmWW9S3KrTNuHZFHT1NsphbCwXEzWW1S8aUX1rDeThUPtC.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmWW9S3KrTNuHZFHT1NsphbCwXEzWW1S8aUX1rDeThUPtC.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmWW9S3KrTNuHZFHT1NsphbCwXEzWW1S8aUX1rDeThUPtC.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmWW9S3KrTNuHZFHT1NsphbCwXEzWW1S8aUX1rDeThUPtC",
+  "PieceCid": "baga6ea4seaqhg77e56ybn6o6evuhkfbzeu7u7luavnhkwdbeatasgod7zx6lipy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifabbrin2i5tlymigz3xvvoufcxzxlqyvx2zmaxi3ajvb2363hisi",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQze91nArMtS6gYPbyRTcezcXJ4avr4MWPh2Pn48E6aN1.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQze91nArMtS6gYPbyRTcezcXJ4avr4MWPh2Pn48E6aN1.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQze91nArMtS6gYPbyRTcezcXJ4avr4MWPh2Pn48E6aN1.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQze91nArMtS6gYPbyRTcezcXJ4avr4MWPh2Pn48E6aN1",
+  "PieceCid": "baga6ea4seaqescciyofm6f77nxfyo57nevuk2wfss3wm6jxtfup5g66uj3hzipi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreichantcp76wrbf3nz2q7lcnqelv257keas3c5s6umkicn2juk6swq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmRKw4pYngFqVM4kQVFvbYps9A9wEq3PTDJ695MsX3b5xZ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmRKw4pYngFqVM4kQVFvbYps9A9wEq3PTDJ695MsX3b5xZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmRKw4pYngFqVM4kQVFvbYps9A9wEq3PTDJ695MsX3b5xZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmRKw4pYngFqVM4kQVFvbYps9A9wEq3PTDJ695MsX3b5xZ",
+  "PieceCid": "baga6ea4seaqh66gugxde33xnyvzsrxdgj6gefotgtqvjmrcucxrd3toiqnntggi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiga25a7ugxix6mf7v2jvohddja7v73qwhcirr62ifrfuzaxv5owu4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmPF6tyCe89V9MXT9vWX42mAFn9QhapJ9tBRxTPWkeF4gs.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmPF6tyCe89V9MXT9vWX42mAFn9QhapJ9tBRxTPWkeF4gs.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmPF6tyCe89V9MXT9vWX42mAFn9QhapJ9tBRxTPWkeF4gs.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmPF6tyCe89V9MXT9vWX42mAFn9QhapJ9tBRxTPWkeF4gs",
+  "PieceCid": "baga6ea4seaqiy2ljppjop24d3ytdldlao4efvem6qz7vq6y22cerc6xvjvlamcy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih5j2dwidhxpuzfuy73vzaldesb2lt43zbekdxp3fnlw43klyfm7u",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmVSBVKZGkvmdiL2kEY38VJym2t9eETjWEqFfdRdszFmgJ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmVSBVKZGkvmdiL2kEY38VJym2t9eETjWEqFfdRdszFmgJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmVSBVKZGkvmdiL2kEY38VJym2t9eETjWEqFfdRdszFmgJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmVSBVKZGkvmdiL2kEY38VJym2t9eETjWEqFfdRdszFmgJ",
+  "PieceCid": "baga6ea4seaqdek74dx6kl32aj5y3qj7hof35mpanmymw3f3e7n7gkutv7ezvijy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihusxj6hkvrvzhxa4gd2tfijvbitc5m6nzx3gxdefmftlyp5ts5ei",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmcxV8qRDNFBBDYHp4b8gkpMcPvK2e3bWtbFNBvtFcBGnE.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmcxV8qRDNFBBDYHp4b8gkpMcPvK2e3bWtbFNBvtFcBGnE.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcxV8qRDNFBBDYHp4b8gkpMcPvK2e3bWtbFNBvtFcBGnE.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcxV8qRDNFBBDYHp4b8gkpMcPvK2e3bWtbFNBvtFcBGnE",
+  "PieceCid": "baga6ea4seaqalump6rzn4fxsfiofnjdvtbfvvdq57humnxvwivrgedw4logwkca",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibblqfhzf2isn545bwvmhz272t2lv3l4b2s7q2w5i4c6usd55vra4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYodW9nPBoCLe6SEdpJCU47HW4URMiobeMXFBKerJYGgA.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYodW9nPBoCLe6SEdpJCU47HW4URMiobeMXFBKerJYGgA.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYodW9nPBoCLe6SEdpJCU47HW4URMiobeMXFBKerJYGgA.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYodW9nPBoCLe6SEdpJCU47HW4URMiobeMXFBKerJYGgA",
+  "PieceCid": "baga6ea4seaqcwzj5wmjdt7p22ac6kakqnpg2s5bq4bjttuo7zk7kwrehahukwai",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigv53b3yuwlxsvnqzeqhgm6nzaoed7rzc5fls2dozlldw6cxkox6y",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmX8nSQ4Gmh7u1BrVHTRbaczwGeVvmjhMnG6AEHXa81ciT.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmX8nSQ4Gmh7u1BrVHTRbaczwGeVvmjhMnG6AEHXa81ciT.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmX8nSQ4Gmh7u1BrVHTRbaczwGeVvmjhMnG6AEHXa81ciT.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmX8nSQ4Gmh7u1BrVHTRbaczwGeVvmjhMnG6AEHXa81ciT",
+  "PieceCid": "baga6ea4seaqiim6bj7jo432lnaie25jsjqisuwbml2cmizxpejf4rfdzynlp6ni",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifiq4k3tkju4vcdztzneanhndaaun67femwpg44yndppznrquvqe4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmconoWdX8iUDuKR9NzH1iSQCLh69wLJeam4uFmaaGHh9A.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmconoWdX8iUDuKR9NzH1iSQCLh69wLJeam4uFmaaGHh9A.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmconoWdX8iUDuKR9NzH1iSQCLh69wLJeam4uFmaaGHh9A.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmconoWdX8iUDuKR9NzH1iSQCLh69wLJeam4uFmaaGHh9A",
+  "PieceCid": "baga6ea4seaqandm2l6arxhibyrgoglzaylsxmjpjoya4auxbmvcm5746ktbuofy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidvopafcev7lxxynmdx6gt7j7gk3k4eka7f5ebqhb67cnlpbqaguq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmQifTtfXZSULxatCDRWfuicvDK3F3bw5Nq9FjHS1XJHbZ.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmQifTtfXZSULxatCDRWfuicvDK3F3bw5Nq9FjHS1XJHbZ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmQifTtfXZSULxatCDRWfuicvDK3F3bw5Nq9FjHS1XJHbZ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmQifTtfXZSULxatCDRWfuicvDK3F3bw5Nq9FjHS1XJHbZ",
+  "PieceCid": "baga6ea4seaqp77gwd63rdqxq252ngaiq42ldyxygjl2jilphp3k4hrzxzosdsla",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifov2leduisrynjjn22u5fgqsg37pxacwmglvbl23xnwtyqqhwpwu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmcFx45MjthfAZtBj8UULbix1LzPQ7yo3zun5rc4T3LQSo.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmcFx45MjthfAZtBj8UULbix1LzPQ7yo3zun5rc4T3LQSo.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmcFx45MjthfAZtBj8UULbix1LzPQ7yo3zun5rc4T3LQSo.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmcFx45MjthfAZtBj8UULbix1LzPQ7yo3zun5rc4T3LQSo",
+  "PieceCid": "baga6ea4seaqdiuccduynhjlb3ac6wb2sb4wzhstsvog47dhuwl7ju3dyvbuckpq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibluhgstatncrmnizarlvqlrwjgnv2ihpgqk7cxsk7h3tgh73z2eu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmdZxU4MXfVB6EZbHfsXiJ1WdGtn74D1WH3jHC41Xqdokb.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmdZxU4MXfVB6EZbHfsXiJ1WdGtn74D1WH3jHC41Xqdokb.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmdZxU4MXfVB6EZbHfsXiJ1WdGtn74D1WH3jHC41Xqdokb.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdZxU4MXfVB6EZbHfsXiJ1WdGtn74D1WH3jHC41Xqdokb",
+  "PieceCid": "baga6ea4seaqizxyba7cbmntxedra6arj46ynh4vetg52u4cmrl5lzo5j2nnkapy",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibpenag76a3fttkwo5o6r4dfda6v26gqhy7we4yedgru32p6is3le",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "Qmae2eF135dQmRR36AeKqmKVRi9AUmhBbZRPBtZBHqtBYr.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmae2eF135dQmRR36AeKqmKVRi9AUmhBbZRPBtZBHqtBYr.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmae2eF135dQmRR36AeKqmKVRi9AUmhBbZRPBtZBHqtBYr.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "Qmae2eF135dQmRR36AeKqmKVRi9AUmhBbZRPBtZBHqtBYr",
+  "PieceCid": "baga6ea4seaqb6nnb2b7rk5mx5skqxb4hwvvardryg22fdwccjztgjpbr7vsegfi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigp7cjwws7uav4j4qd3uoogutegougmxof4xww4gttwp2tiqwbshm",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmYaBU1c1a15sZKLw7YQ7K6cN5D3A98DvL3wz9e39Uuu9x.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmYaBU1c1a15sZKLw7YQ7K6cN5D3A98DvL3wz9e39Uuu9x.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmYaBU1c1a15sZKLw7YQ7K6cN5D3A98DvL3wz9e39Uuu9x.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmYaBU1c1a15sZKLw7YQ7K6cN5D3A98DvL3wz9e39Uuu9x",
+  "PieceCid": "baga6ea4seaqkpgjj2fsjxnmamsdaacx5qf3wfsgmixsoy5wsd2p5mf4d3o2g2nq",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigtemoxwhd7x34w4465cpy6bbirga5xepwk5j6jsgff46yq67skcu",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmUmtWDAUbtHwKb69awbdUZxkPZiU4NwBSxPKkfCjceea9.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmUmtWDAUbtHwKb69awbdUZxkPZiU4NwBSxPKkfCjceea9.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUmtWDAUbtHwKb69awbdUZxkPZiU4NwBSxPKkfCjceea9.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUmtWDAUbtHwKb69awbdUZxkPZiU4NwBSxPKkfCjceea9",
+  "PieceCid": "baga6ea4seaqco567tkij7naqwl2hx77waqnk4qe3larwycha4e44ozeycaj2odi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifjubqafi4cm5m4cxoahgbi4nwzt7qu7swalsnquzngvtelehyhm4",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17181016235,
+  "CarFileName": "QmSGSPibCeDUBDSiGcN5zMMy3S83PyvAXBzVzj4kEdCiQd.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/QmSGSPibCeDUBDSiGcN5zMMy3S83PyvAXBzVzj4kEdCiQd.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSGSPibCeDUBDSiGcN5zMMy3S83PyvAXBzVzj4kEdCiQd.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSGSPibCeDUBDSiGcN5zMMy3S83PyvAXBzVzj4kEdCiQd",
+  "PieceCid": "baga6ea4seaqpqwwc72u4ypxaopto5a4zmmpcnyjywhowqzw7p3ctvorc2llq4fi",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig3nfxneiszgofa7vcizx3lrvuycisfstwawivpcfiognvmfd2zbe",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ },
+ {
+  "Uuid": "bf57131d-8eb6-4d10-8939-e575faa88d42",
+  "SourceFileName": "erigon-archive-20230124",
+  "SourceFilePath": "/mnt/nvme0/source/snap/erigon-archive-20230124",
+  "SourceFileMd5": "",
+  "SourceFileSize": 9073672435,
+  "CarFileName": "Qmc44AJvALX5N5sJM4yf3R2p1S3fYadY4KN1uzpk5y7nFB.car",
+  "CarFilePath": "/mnt/nvme0/source/snap/erigon-mainnet-archive-20230124-car/Qmc44AJvALX5N5sJM4yf3R2p1S3fYadY4KN1uzpk5y7nFB.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "Qmc44AJvALX5N5sJM4yf3R2p1S3fYadY4KN1uzpk5y7nFB.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "Qmc44AJvALX5N5sJM4yf3R2p1S3fYadY4KN1uzpk5y7nFB",
+  "PieceCid": "baga6ea4seaqmhcsmpqmawts6ib472lqsjcwd6nn2pn6yd5h3i5ljlnvzd4ciqda",
+  "StartEpoch": 2659257,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic7a2ervdzc3utlcmrqrjm6ng6dee7a5nmm2uo253o2exlpghrfuq",
+    "MinerFid": "f02017390",
+    "StartEpoch": 2659382,
+    "Cost": "0"
+   }
+  ]
+ }
+]
