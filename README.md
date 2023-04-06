@@ -81,3 +81,9 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
 | Aptos Testnet | aptos20230227.tar.lz4 | [2023-02-27](https://snapshots.bwarelabs.com/aptos/testnet/aptos20230227.tar.lz4 )| [JSON]( Aptos/2023-02-27_apt_testnet/aptos_testnet-2023-02-27.json ':include') | [swan-task-aptos_testnet-2023-02-27-metadata.json](Aptos/2023-02-27_apt_testnet/swan-task-aptos_testnet-2023-02-27-metadata.json ':include') | |
 | Aptos Mainnet | aptos20230228.tar.lz4 | [2023-02-28](https://snapshots.bwarelabs.com/aptos/mainnet/aptos20230228.tar.lz4 )| [JSON]( Aptos/2023-02-28_apt_mainnet/aptos_mainnet-2023-02-28.json ':include') | [swan-task-aptos_mainnet-2023-02-28-metadata.json](Aptos/2023-02-28_apt_mainnet/swan-task-aptos_mainnet-2023-02-28-metadata.json ':include') | |
 | Aptos Testnet | aptos20230228.tar.lz4 | [2023-02-28](https://snapshots.bwarelabs.com/aptos/testnet/aptos20230228.tar.lz4 )| [JSON]( Aptos/2023-02-28_apt_testnet/aptos_testnet-2023-02-28.json ':include') | [swan-task-aptos_testnet-2023-02-28-metadata.json](Aptos/2023-02-28_apt_testnet/swan-task-aptos_testnet-2023-02-28-metadata.json ':include') | |
+
+#### 7. Near
+
+| Network | Snapshot Name | Download Url | Snapshot Metadata | Deal Metadata | Deal Metadata NFT(opensea) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Near Archive Mainnet | Near_2023-02-06 | [2023-02-06](s3://near-protocol-public/backups/mainnet/archive/latest)| [JSON]( Near/2023-02-06_near_snap/near-snap-20230206-car-01.json ':include') | [swan-task-rmvi71-metadata.json](Near/2023-02-06_near_snap/swan-task-rmvi71-metadata.json ':include') <br> [swan-task-u2sdxe-metadata.json](Near/2023-02-06_near_snap/swan-task-u2sdxe-metadata.json ':include') | |
