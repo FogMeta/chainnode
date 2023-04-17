@@ -1,4 +1,4 @@
-### Binance Smart Chain
+### Binance Smart Chain Snapshot
 
 | Snapshot Name | Download Url | Snapshot Metadata | Deal Metadata | Deal Metadata NFT(opensea) |
 | :-: | :-: | :-: | :-: | :-: |
