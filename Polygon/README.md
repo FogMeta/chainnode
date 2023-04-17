@@ -1,5 +1,5 @@
 
-### Polygon Snapshot
+### Polygon Snapshots
 
 | Network | Snapshot Name | Download Url | Snapshot Metadata | Deal Metadata | Deal Metadata NFT(opensea) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
