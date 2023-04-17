@@ -1,4 +1,4 @@
-### Filecoin Snapshot
+### Filecoin Snapshots
 
 | Snapshot Name | Download Url | Snapshot Metadata | Deal Metadata | Deal Metadata NFT(opensea) |
 | :-: | :-: | :-: | :-: | :-: |
