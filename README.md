@@ -27,6 +27,6 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
  - [Polygon Snapshots](Polygon/README.md ':include')
  - [Pocket Snapshots](Pocket/README.md ':include')
  - [Binance Smart Chain Snapshots](Binance_Smart_Chain/README.md ':include')
- - [Ethereum Snapshots](Ethereum/2023-02-21_eth_datastore/README.md ':include')
+ - [Ethereum Snapshots](Ethereum/README.md ':include')
  - [Aptos Snapshots](Aptos/README.md ':include')
- - [Near Snapshots](Near/2023-02-06_near_snap/README.md ':include')
+ - [Near Snapshots](Near/README.md ':include')
