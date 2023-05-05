@@ -30,3 +30,14 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
  - [Ethereum Snapshots](Ethereum/README.md ':include')
  - [Aptos Snapshots](Aptos/README.md ':include')
  - [Near Snapshots](Near/README.md ':include')
+
+## Backup Frequency
+| Snapshot Name | Backup Frequency |
+| --- | --- |
+| Aptos | Weekly |
+| Binance Smart Chain | Weekly |
+| Ethereum | Monthly |
+| Filecoin | Weekly |
+| Near | Weekly |
+| Pocket | Twice a week |
+| Polygon | Weekly |
