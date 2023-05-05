@@ -32,7 +32,7 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
  - [Near Snapshots](Near/README.md ':include')
 
 ## Backup Frequency
-| Snapshot Name | Backup Frequency |
+| Blockchain Network | Backup Frequency |
 | --- | --- |
 | Aptos | Weekly |
 | Binance Smart Chain | Weekly |
