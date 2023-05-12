@@ -1,0 +1,986 @@
+[
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigli3252ymk3u6ninyrxbd6xhkxpvjlxz4tmeam7h3jav7bn6mrbi",
+    "MinerFid": "f02301",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicz6susrl7y5fjbc4y3x3sf6du5lyat4zlfqa2p5ewlnfosdgqh3e",
+    "MinerFid": "f01888808",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif3sv7jovcn7ade6k7xrhg7ut5v2hztqeiuarbiskcapgdpd3ahhi",
+    "MinerFid": "f03223",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidws23qvmkfwejjfjg2qm2uydhltvuh4nbgh6w3forzr423g35mum",
+    "MinerFid": "f08399",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigg4yj2mssrg6yrjnucooifhcfuy3xofe2zf62u4fh6mzzusgmwaq",
+    "MinerFid": "f02032191",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihw7ko7gi5wy6j5bk32zzfvaeibdiyen2ik22cwofxnv2rqbllmsa",
+    "MinerFid": "f01862564",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidccvp3k4r6gjcvkfl56vpw23fkl3hal26kwhmajqdhqdxh3kfqk4",
+    "MinerFid": "f0240185",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreif2gh5xeirdzhq6fo57xlzr4vcrrmi2beqexgogki5eimup23kux4",
+    "MinerFid": "f01222595",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifeveerk7ccstiulnjo7wbs3ydizo364cl2pkgshknbt7rusqekma",
+    "MinerFid": "f01390330",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic2a4436k45qxbwbxyglcgxibng4frnvcpxe4ietlysyvm2kc3cxm",
+    "MinerFid": "f01163272",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreicrf6juldvsc5bpymvfoyivwzvwomlpduhar7bkmmbqxtsuif6l5y",
+    "MinerFid": "f01907556",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibo4h5hfy7bi4svnfhs3nqinel4k2smffowxrbstmq32ged2xramy",
+    "MinerFid": "f01337533",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreihs55ohukh2b45emodlwjjvd7n2ewvc7pipfc46br73znxs7fmu4m",
+    "MinerFid": "f02032191",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidoogkrbs34jaelxv3px3zhewjuhiz7gzvaslsaa3r5xnwtbyyyde",
+    "MinerFid": "f08399",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaqorosonj3wx5tagqukbxzmwwmcxsxtamrf6jsf5e7sriskcau2q",
+    "MinerFid": "f02301",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieok3md2lgrazvo3xmyrr3vf3fklxz4vymz5knwam2kvhktrchdwe",
+    "MinerFid": "f01225882",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreianqjbcvasxw5yjlhycrl6szbflel5paw7hywi36ujnqqwioao2oi",
+    "MinerFid": "f0717969",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiezm7q5aaswwgvokdktqo2i3mz5qt3ejkcqfkv3pvf43zfed7rjpm",
+    "MinerFid": "f0137168",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreibwcxo2nmhru5b2zy6cguiq5ic25gnkvq576c4mk6kfem6xsbb5ta",
+    "MinerFid": "f0143858",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreih3vcg5ftjkguzlqbfcdtxc2nvfxyo7onicf5zlsbansoivqarbq4",
+    "MinerFid": "f01390330",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidvzivqp4fvh4527umqetw6avd2es6v4bkcx5c6rc6lhgjwrlo7sq",
+    "MinerFid": "f01337533",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigmsg75joqxp7su26byzibdnvqxsykzu4n57sjsapnwfbevtittoi",
+    "MinerFid": "f03223",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiekklv6c55cdape4ttxangtgrjunwzc4k3ourqyeu2vfautjpkfzy",
+    "MinerFid": "f01907556",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidsxer3av766ynfbtl23dqnxwataqzmtw2rt2jy2zplyzsjnzsc2u",
+    "MinerFid": "f0240185",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreialwmlhb54us3wouelrb6lkmxi5ina5opwh7xcfanthiyolcpmptm",
+    "MinerFid": "f01222595",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiarpjbvri5olomszn3ehdspydtca7ysklpeqvohcq5oinxsfpdo2e",
+    "MinerFid": "f01862564",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreieccrihqeyolpmpwbyn4e2a6pe42lbv45rz54cxl6roqlv4tiyxm4",
+    "MinerFid": "f01163272",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreig2jvykfborkmympnozbt6s2ppgl2dzx6cus2uowv2cgzzvhtogqy",
+    "MinerFid": "f01862564",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiajs7tjaoruawwh63cnzujee6wmqlbkbud4ddysct33cx6nnozn5i",
+    "MinerFid": "f01390330",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifp543xqzzalgj7njtxhlygz246dwowwczy276ctbo2yr73n2zq5e",
+    "MinerFid": "f01907556",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidz5qxxtwihj6mbkjkqgzz64c4oqsuvkweyom5qqc263rxvkdbkce",
+    "MinerFid": "f0137168",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiepoz3snnfrtkudvnop7ifluoqeyj7dywvtdpew7awbmqaniigdem",
+    "MinerFid": "f02301",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreic3xjzb4prybmybqiyp5gn2vzctghfcdfn3kil34imzsqbgtbd3ha",
+    "MinerFid": "f03223",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigxk7dxsm6nl6t6vum5fgm7e2du7t7npbfzsv54hyvxq7xdivshk4",
+    "MinerFid": "f01163272",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreid2xijcy7nbdbja5zbxtpjk53ei5ttacvfx3ednm6u2n4daaj3see",
+    "MinerFid": "f0717969",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreidaewbihlpc3we6jnao7w7uc52ahbdeadxicbahx3pwnaqftiu6ge",
+    "MinerFid": "f02032191",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiaimsqvgo6ww7m7j4l2thawaf2apgdcfm7ahrtuqpg54tkvsma3y4",
+    "MinerFid": "f01888808",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifm6lmybhlnaglc2suahua3ifu663r32f32y2nqjv7icmdqvpag7e",
+    "MinerFid": "f0143858",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreigpfrtx7zhwvvcrff2vmkrb3g5nkr4yxer5i2c2yxjxdxfpvnqx6i",
+    "MinerFid": "f01337533",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreifrsr2u3kabdtkp7355ld2fk6bnh4oxo2ffy3eufqpjaumt2jmgsm",
+    "MinerFid": "f08399",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ },
+ {
+  "Uuid": "48a11fdb-2992-41ef-93f9-4710ceebef20",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": 2,
+  "Deals": [
+   {
+    "DealCid": "bafyreiex2moqqi4may7sgguc5se372l4lwm7nh7r4ylirlmhkgwt7ju7hi",
+    "MinerFid": "f01222595",
+    "StartEpoch": 2861308,
+    "Cost": ""
+   }
+  ]
+ }
+]
