@@ -1,0 +1,53 @@
+[
+ {
+  "Uuid": "",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmdPvZab22o9NN76NEDnnJYCt3DJxtffKpWg2yLtJdeoXU",
+  "PieceCid": "baga6ea4seaqf3lbv4fdyb7owbmrny44ubyx4uqvq7jz5uwdvhvnq2jt6cdvyscq",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ },
+ {
+  "Uuid": "",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmY7d8dCsvtkc6J4Vb7mAnMgg2qT1zYQsPK9LGZBYeHUwk",
+  "PieceCid": "baga6ea4seaqhoiy7dkjhkz4ibaq47urok5zqew6k7xblqmr5kxo74fsjk6mrenq",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ },
+ {
+  "Uuid": "",
+  "SourceFileName": "2023_05_08",
+  "SourceFilePath": "/f1/SNAP/fil/2023_05_08",
+  "SourceFileMd5": "",
+  "SourceFileSize": 14378855010,
+  "CarFileName": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFilePath": "/zfs/cars/fil/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "http://download.storefrontiers.cn/download/snapshot/filecoin/20230508/QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmdMU9WBh3aGYcRLorCTyGQYo9LjLpCtqXqmivmuUKs7ep",
+  "PieceCid": "baga6ea4seaqlvqdp5zdzabzrbmoprmakfucrnurafeo4cpxz7a7ahh7vyolyoha",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ }
+]
