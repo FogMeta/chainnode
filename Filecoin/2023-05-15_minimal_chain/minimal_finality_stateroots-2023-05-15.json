@@ -1,0 +1,50 @@
+[
+	{
+		"Uuid": "7b7387e2-1458-4b9f-a36f-a7b35ca67e03",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmWKFrVKLw7D1DaYorvAk88eCRto313zregX68HZa5N4Gk.car",
+		"CarFilePath": "QmWKFrVKLw7D1DaYorvAk88eCRto313zregX68HZa5N4Gk.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "http://download2.storefrontiers.cn/ipfs/Qmc6AwT9kRo9UdgdJGvz92vvc5gd4uxXvBLgz3QNFkjTBm",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmWKFrVKLw7D1DaYorvAk88eCRto313zregX68HZa5N4Gk",
+		"PieceCid": "baga6ea4seaqogijrj3q22zibpx37bj5g7z65ewxyym62d6rabkmxizl35fnq6iq",
+		"SourceId": 2,
+		"Deals": null
+	},
+	{
+		"Uuid": "5306d1aa-9cf0-4a05-8f12-b6bc2f7bde8b",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmSGHMUcFi9o358waiRRgXStyPm7YHBnaVHGx4aPhpaHw3.car",
+		"CarFilePath": "QmSGHMUcFi9o358waiRRgXStyPm7YHBnaVHGx4aPhpaHw3.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "http://download2.storefrontiers.cn/ipfs/QmU4HjHwN2DifHxtBKPEARGi3cQ6AbFqdGEEJdmVUSftzY",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmSGHMUcFi9o358waiRRgXStyPm7YHBnaVHGx4aPhpaHw3",
+		"PieceCid": "baga6ea4seaqevtazujr3m43wchxc3waoou54bis7cbmbsdtbwbp2x2iw7fstujq",
+		"SourceId": 2,
+		"Deals": null
+	},
+	{
+		"Uuid": "582eec93-ad0d-4f37-b284-3175b2c383bc",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 14985994812,
+		"CarFileName": "QmYAuVWgJU4miN9W9UcxM3wFrwBeC8ak1bDRqUTDZA8njF.car",
+		"CarFilePath": "QmYAuVWgJU4miN9W9UcxM3wFrwBeC8ak1bDRqUTDZA8njF.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "http://download2.storefrontiers.cn/ipfs/QmNTcfkpgydgLjVvmhL8GajwaiF3xzuHHjKceWGhfZWcqu",
+		"CarFileSize": 17045651456,
+		"PayloadCid": "QmYAuVWgJU4miN9W9UcxM3wFrwBeC8ak1bDRqUTDZA8njF",
+		"PieceCid": "baga6ea4seaqpyis2br4b3nqm2g3fu3sywo6uqi5xll54ig54bz7vxltekh272cy",
+		"SourceId": 2,
+		"Deals": null
+	}
+]
