@@ -36,7 +36,7 @@ It is worth noting that all deal metadata will be mint to the Opensea platform t
 | Blockchain Network | Backup Frequency |
 | --- | --- |
 | Aptos | Weekly |
-| Avalanche | Weekly ｜
+| Avalanche | Weekly |
 | Binance Smart Chain | Weekly |
 | Ethereum | Monthly |
 | Filecoin | Weekly |
