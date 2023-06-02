@@ -1,0 +1,53 @@
+[
+ {
+  "Uuid": "",
+  "SourceFileName": "latest.zst.00000000",
+  "SourceFilePath": "/home/nbfs/data/fogmeta/input/1023-1685376895/latest.zst.00000000",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmSBVhjWRreP4gRXkr5VYeCgc5Udb32fnvm5whywmWciKJ.car",
+  "CarFilePath": "/home/nbfs/data/fogmeta/output/1023-1685377596/QmSBVhjWRreP4gRXkr5VYeCgc5Udb32fnvm5whywmWciKJ.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmSBVhjWRreP4gRXkr5VYeCgc5Udb32fnvm5whywmWciKJ.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmSBVhjWRreP4gRXkr5VYeCgc5Udb32fnvm5whywmWciKJ",
+  "PieceCid": "baga6ea4seaqebre376abmxoqo7xtxitul5owjicr6kin3r3nulocdmkbjews2ci",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ },
+ {
+  "Uuid": "",
+  "SourceFileName": "latest.zst.00000001",
+  "SourceFilePath": "/home/nbfs/data/fogmeta/input/1023-1685376895/latest.zst.00000001",
+  "SourceFileMd5": "",
+  "SourceFileSize": 17180886010,
+  "CarFileName": "QmUdnYdQvfYxwAc7iL1h5S4K3tHvvKYVqg7NTa88tn4zhf.car",
+  "CarFilePath": "/home/nbfs/data/fogmeta/output/1023-1685377596/QmUdnYdQvfYxwAc7iL1h5S4K3tHvvKYVqg7NTa88tn4zhf.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmUdnYdQvfYxwAc7iL1h5S4K3tHvvKYVqg7NTa88tn4zhf.car",
+  "CarFileSize": 34091302912,
+  "PayloadCid": "QmUdnYdQvfYxwAc7iL1h5S4K3tHvvKYVqg7NTa88tn4zhf",
+  "PieceCid": "baga6ea4seaqazikn2lgi6r6m2mwpfknfxkwrab5w6rmlph5vq5fbds5n5jlcqgq",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ },
+ {
+  "Uuid": "",
+  "SourceFileName": "latest.zst.00000002",
+  "SourceFilePath": "/home/nbfs/data/fogmeta/input/1023-1685376895/latest.zst.00000002",
+  "SourceFileMd5": "",
+  "SourceFileSize": 16074802929,
+  "CarFileName": "QmULkitSpxNrGDu91DuZPFRCLqAQoYv9Su7RyaCNYeqdhe.car",
+  "CarFilePath": "/home/nbfs/data/fogmeta/output/1023-1685377596/QmULkitSpxNrGDu91DuZPFRCLqAQoYv9Su7RyaCNYeqdhe.car",
+  "CarFileMd5": "",
+  "CarFileUrl": "QmULkitSpxNrGDu91DuZPFRCLqAQoYv9Su7RyaCNYeqdhe.car",
+  "CarFileSize": 17045651456,
+  "PayloadCid": "QmULkitSpxNrGDu91DuZPFRCLqAQoYv9Su7RyaCNYeqdhe",
+  "PieceCid": "baga6ea4seaqmid6mzic2cgznhs2qyqajbuzkw5bysadg3i2m5gesxhlwefkiyay",
+  "StartEpoch": null,
+  "SourceId": null,
+  "Deals": null
+ }
+]

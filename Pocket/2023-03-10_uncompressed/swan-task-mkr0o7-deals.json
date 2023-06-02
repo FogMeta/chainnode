@@ -1,0 +1,2599 @@
+[
+	{
+		"Uuid": "3ab9aaf7-42e9-4f36-a18b-efb120b6fc2a",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmfCPh1WyW6FcihriqjFMVA8obwnB1a2zjheZHp6eBknnM.car",
+		"CarFilePath": "QmfCPh1WyW6FcihriqjFMVA8obwnB1a2zjheZHp6eBknnM.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmajywPy6mLemYDdrK3dgTKtU6wNtgQzfitsKcwecuwSsA",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmfCPh1WyW6FcihriqjFMVA8obwnB1a2zjheZHp6eBknnM",
+		"PieceCid": "baga6ea4seaqdl4v7zw73baola462a7qwsnwhe4urrgl6txgz2pu3czbdglhj2ha",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihsl25swfj5mwtcbgm3nrg3o2q7ui33fzjm4ktlczsuxt3zix6khe",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreictcon3a4akiwaxamacxhutq5yumiggky3jaw2mtqyc3ojpn5upk4",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid65gcsotkntuctbszk3uf4pwe6haio4ndfnchfigdqqxrxrfkq6y",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidhb2zbarkkncrslb2tx2pgu37tz7d4zli5w6yozzgvcpuen5jpe4",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia2efu2mbd2hpbpor2srgt2p575rm2kch6qxtibfkcsh3u6aum4qy",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicdlt4awgqwzg2yk3p6fwiomlw7l2xr5cjqldj744isrhzikijoqm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifwnsxvwnddjay5c53bpepyfu7a6lykhrfopiq5ymiqlfziv6nf6q",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieewa3gb26asspun5j2xcxy5ca3jds64wmtyb4zqvd3cx53zdi5a4",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiedrwih55diu4w6yjaopik4fq373ncft3d6mrpd56omflrx77c3gy",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihojhdjsfyqmsxzolmkzlebadnyj2vshmwx7eqnlxy7v2moxalcxe",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif5jcciht7kcojlugdtbojqxrfvjh7osxbkyz2h2hirnuusmdjssa",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigkghnibrn4uzor7sjtzyjegwj4btua3qivwbhkr7v54jzru4mt6u",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "8a5d15e8-313d-4e22-8791-d0ec7abe08af",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmSku7BfJ8UR5PpZuve2JMRBP3o19T5A9o7x3PjUJePdyr.car",
+		"CarFilePath": "QmSku7BfJ8UR5PpZuve2JMRBP3o19T5A9o7x3PjUJePdyr.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmeZrYj19UeFcuYWLHKGTwdn8pCRQNP3FH4o3FEJjaRuT4",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmSku7BfJ8UR5PpZuve2JMRBP3o19T5A9o7x3PjUJePdyr",
+		"PieceCid": "baga6ea4seaqmkcqq6irhabi5vlehca5bkj3bdeb6xikahu2ptms2kcehau7geii",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreielxmfnn7pofvfbxn552fvcdyxad7aan7nanyefc4aatquacsngpi",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiczcllq3ho7s3mi3db37x4xvwgaaqowtuq2jj46ivkow7es7pwovi",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiawi6d2w5tlmb6ndla2sngpnnyvfcl4upw35e63l2tbypvqsapoku",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigccj3mgrsd3psa23cfq7e2rk3rhvamnr7swcusc2dhe4x36pqipu",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiaz76ngms2hqr7ffpqmhyqgf6k7ynrte7q7l2jmgzbkqqrzwnsx5a",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieeusjqtrahrim7kndg2e2hkp2yg4nd2cdwxstclamys6kcfremna",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih7m2ynevi6xsva46jsm3hwqk2yrj72zdm3tftsrubdxdj6k4c4vi",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibzrkbtf32ky6t5fjtaui7kmfzyspqp5nhy6xohqdx2o6vh2hwvsq",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreich56q2pefjnmyqmbotiot6o2jmsk7priljcp4rkrauo5wd5bukwa",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihcuz276vfewicpeom4y6pk2s65mm6rwv4x6y3xosdgmekj4xdi3y",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifjy7gcd7zfs7nxgltdyfrgy7jwqpahkbh4u3frvbysygb5kmywym",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif5svfywos5ph4llanif52f6jq3w6s6ftmutt7usds6aiykqkbrli",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "ecf5674e-df1c-4830-84ca-4910ed08ebb1",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmQ6V6yZW3RUxXW486b4z6BsaFfJnqK5sUCYZZJAWcsx6M.car",
+		"CarFilePath": "QmQ6V6yZW3RUxXW486b4z6BsaFfJnqK5sUCYZZJAWcsx6M.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/Qmc5SxhJtFtcmSgxbgAokVVQNiSXaGtDA668gRyduu7Vk6",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmQ6V6yZW3RUxXW486b4z6BsaFfJnqK5sUCYZZJAWcsx6M",
+		"PieceCid": "baga6ea4seaqletrw6m5mlvkzbmwsbi5ess3scdk2jowyckz37zt2oh4jnpz2yhy",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreia2jexmsos2gfa3ok2dldzfwhwtluvhlqchr5xef5dm5wdhdgreze",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibccyu4voptukwnmqlkp4p364r45g5c5nblcghvypsp47yqat62li",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiguszkdeklzra34hgf4ecgr3anp7o46tevjbk4suyctfzgnvgab7i",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid2tvvosxoybkeed4gbmwf6zht34xp7cplm3dt3yqjnweooexaomi",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibycxhvspckmodq7o5a56umaerygunwf3zsncc6hqy2mobh6k6jw4",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigvguw5pvts6ytr2q66acawu5kgcepaxy7sxwka3o2443kdyrwiym",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibjgyxkdrmz5iaet4zelxz2s3vy5cowquimk7xpc43siax3yxq34u",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidpxbskzi4wfubwie667cdcqbdw3njwne7wsfclk6tdcbnyrvpsyy",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiasb6i7lr3onfcx2limtfxafadtfd2yxjlbysiz6r622epu7li4ce",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihdlt5sm7iquhwcikywignekyf6zlwc5nyxymyalen22aqtvyobmq",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibotqnmqiiqwyzbx7ie7meeoyzs2yzhnnlw3pm22fwfptcwakwpia",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "70994476-9380-4a2f-ae17-20700157ce69",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmPe4nADugdEj5Ch78dHNdbh6ahuTZuNGpn6r1Nt9KQAGM.car",
+		"CarFilePath": "QmPe4nADugdEj5Ch78dHNdbh6ahuTZuNGpn6r1Nt9KQAGM.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmUWZxhgjSYdKCR1PURyMe1x4oW5BsBMTwfFqp4uadgRWa",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmPe4nADugdEj5Ch78dHNdbh6ahuTZuNGpn6r1Nt9KQAGM",
+		"PieceCid": "baga6ea4seaqm3ocw2wxjoqrl6vd57qmcl2enx55wjd5j2nvojpa4f63ohap6yay",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiernik5p6gyhokfn6fskddjlpocajsejmdeo2fxquxm3ylqo5oi7q",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia6xulalt2cp66rzk7sdmsg5i7mbjfp7ubug5vz32uxsn7w45tbjm",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibax3vkqggkugnpa5gao4hph2cqhw3r2lbq5psbxrvsojjbi6wzlq",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibmpp7wdl2q3o7jbxd42kxzollcjb4t6i47zvk2ygdst7nhklrlaq",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicij7roz64rmvrvk7ronbpuq3m77vonpznxgnadkvky2luriz5ocq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidre5ti4pkcyqjqw6enns5osanivm6cd35n5q5acbkk5zrbzpakhe",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibxo3cuxwnudan4pbulzrolarga7xhzh62sse72e4pxguo7agxszi",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibzqinbippsh6buq67apgzi7oybgxxw47uh5h7oza3ri5fm5okek4",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid6567habvmesjuiuertiwqzjph54k6vy2nlxjwqbxx45446ur6j4",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiesb3luu3h32bpejcwylrd52ef5wii3tqjdwhpmc2hrpcidwgrvde",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "cdf334bb-5ec7-43cf-ad58-68e2711fbd68",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmTpLppH1HXzXtaeMbz6KAtfpUqNsrREd2Eqt53xiJBX4x.car",
+		"CarFilePath": "QmTpLppH1HXzXtaeMbz6KAtfpUqNsrREd2Eqt53xiJBX4x.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmddY3TYhMy5D9jmroB6TEUvV2p3Yw2n8KnFg5faUcjMms",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmTpLppH1HXzXtaeMbz6KAtfpUqNsrREd2Eqt53xiJBX4x",
+		"PieceCid": "baga6ea4seaqgve3vnsechhqca6vuqirtndbq33rnl5lajcsxodt3uhhftwwlcgi",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiat64axvpqbjipo3dll7wiqlcyf7r2jiu3ey77aq6wgjhfn3tmmpa",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibiw2nz4icljr3vyyfppxedfeulqqd5ejf555bx2cuais2flh4qci",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigmluobka56trmf4tqp2bou2woqkblotr7szvcwbzplmtgukgt3be",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicc6d7oo4mfxbarq2btexilryjfn3p6xdcvbihavyckb2tegfw5ou",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihwpst6iqv6vadahzaec7vhoctalmqcysm45eln3djrmisxrpemoe",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifia7sip6bmclfrda7qxopyhvm3gf3r5haiummmp35xpiidam7phi",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibf3g37jjmei2fm7rmibdogtrmrhuujjacst5v2er37ej3mwexhxi",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidfnzxcniuxhhsxdk334vzyd57vi5gnuyjv52c6gmclcfkcaelh3e",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreie2fpjwsselwocgjzss35r7mwje63wmnkdmybokrbosngy6myx2i4",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic2qwrcf25wqivywylltchjqhe4gwvdfyyeq4jwqwzs6tygaz4wiy",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifyr3qulzm7ozsyiglzftwpd4du5tknzzgwumbm5v7qs6er3m5oge",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "f39cfdcf-561c-47d6-8b10-eb61149f4892",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmZv6hkTwdZCi2bdRrc6vJa5zZpjBaYovBRAeCiFToCnEd.car",
+		"CarFilePath": "QmZv6hkTwdZCi2bdRrc6vJa5zZpjBaYovBRAeCiFToCnEd.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmXSXovaAdKQop4CJWRg4NqHYEFQe5TYGgrWCxRT9GidcG",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmZv6hkTwdZCi2bdRrc6vJa5zZpjBaYovBRAeCiFToCnEd",
+		"PieceCid": "baga6ea4seaqejxt2kg7t7gfgxtwx33cvm77ugzlflyeiy2i5udhwysmqir5veeq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreigdunwqn5idio77gtw7skbsjd2fpncnvmcfgx23skoujgjnq4s7b4",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibhl2cfm7fv36iixvgwe7zms7m6bxg6ynrbke443zgaxkyomjfroe",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidhpinpzqfan3om53vucph6p6l35cmsy7a7mgrr5flfa6rjlslbda",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieajvactfplyalylro2agflscg3wm7pk7nx74clmva5vedkpzvygu",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifgbaboea4bplujwe4sr4jwvjfiplk7zky67efskiyyzjiujzhpte",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib3byyyg5wdognmmwpvu5j5iiwozhq63dplb74deraz6v2nryh5cy",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicv2wu6idk366cnkgitxmaoq52wkrrjoqyy444hfhhpdkosocfdmy",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiapsflaimlnfzqvqsczwrmnqvchzuntuuk5v7d6txnbxvq7pdvuua",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihguvkkxyadym53v7v66af4667j5xf4cwssgzlapps762daygtvju",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifyfq35oxnrf3dwiwcmq7h2pvvxfu4tpcjkirnldh5ngemkqrbkiy",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreighlipdi6kr5cvzcmqxwg2emcq35zzk3eypiuhxrqzlfecfovz5ky",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiav7sx7hnh2nonp56qtod6v3mzibk4qkidkux7rdria25h3szyskm",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "fc45d17a-77a3-46da-9ada-3a936352d78a",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmPKAzXFSeBBV9N4JMfM313azwdGkXkNuCzRg21joLxoDt.car",
+		"CarFilePath": "QmPKAzXFSeBBV9N4JMfM313azwdGkXkNuCzRg21joLxoDt.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmRm5p7i8yGycJ68MKUU51e2o5JDPcs5NeZVLjmtvuajFQ",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmPKAzXFSeBBV9N4JMfM313azwdGkXkNuCzRg21joLxoDt",
+		"PieceCid": "baga6ea4seaqag7eaj2kssgq2pha4d7i7ddwrecc2zlrskuxapuppupzwunr5cmq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreie7qxo52bek53eifjtm4xqa4z2qc7uiqezlv4qiqeqmacmtauhdha",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidoltisfkisa7ryv5s6cw3h6kbf3my4xx5m5uur3p6x6syaeqmu6i",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiadwtbwf3si5wam72ffabskf22obn3lpg552wp5uazvinv7rem5pu",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigijeexr2yf2dtejujzxutrpg77yhagxhb6cstpkms3qiziyrlfnq",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiah2aujsnymgoj7rxspyiadwor5eombqbame6c5h6d3hl35diqvji",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifi3dm7jkhyjgoiryhqw2g5ch6xu3trait4pts4jo2lbovoct5rni",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigdbmwg74it4cbetlbwpag3io4ezyeachrwyinwuvw4ya32oi75t4",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihq4qdjyhzxofkobldrg6ttf47bosuse2jkb4lbejen6j6dui7b6y",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreickybjzzepcscq6eojpmaeu7vt54aa7zvcsunn6tf7uje53wlkc64",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicym3udpxyopasipik6cab4dm7gacnu2kjvr5ogwaun5dgd7dxzgm",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreickdvpohcd44e5pmjaqgp7ktbylho2i4b26ilhchxwhzfrzefy65a",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "0b8e5257-a402-4740-a54c-4170d41b4ec5",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmXDPUxAKAc8RbjrW2JbpNj9KK2EdhmEwY3W3R3VktzBuh.car",
+		"CarFilePath": "QmXDPUxAKAc8RbjrW2JbpNj9KK2EdhmEwY3W3R3VktzBuh.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/Qma7hoFYiLAXSXnEdCW24sWRYEhbtnbggNCy8auGcAzM2r",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmXDPUxAKAc8RbjrW2JbpNj9KK2EdhmEwY3W3R3VktzBuh",
+		"PieceCid": "baga6ea4seaqdbyybwdjigprrzp6gutkec2rbcuzidbcidoj43xm7wskamxw6yii",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihigaa2gfkwqkf7chle2v54kl6o732cjpnvva23etibp65ucrhrvq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiefhrchs77c4hqr5sy3y4nocppndrc7dc7o6jawnjsfbmprjym6ke",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifula32nsfjhqrkyahe27a23h2taeyznqgk4ppzltp4dc46tcbina",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic6ztbz5i27onb2s7lbn6x7fwjqhuenc2tj3mumiwrvoyswopmwli",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieiwh3z35zwassvgncuwg42kkekdxtpmrir2pyzrlluxln6elar5a",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicj73lnclz3wzb3frar2cihv5jfor2bijzmhbwgepu45gzbb6odcq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigqsumhftdujsnowilusebidrfzfh22rcchoxuem6ujir7phgkgnq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic2gjfvhn55kerpl4czkhhsjc65x4b2cjrwe7k5j7z2v5yuyw4dhm",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigwepdoj5rky5lh2ksbu2dl6xqdmhwecnzo2yhfoeoamykvfhuk7q",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieuoa2o5kft4ylhkyibqgobxmlvly5a545sz5gytf5wpvowvyw4gi",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigo6bveiqqbiueilpfzlaodcf32tfo4xfzwjw33ij7kqoe2a6xiry",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "a1e2f67f-a0fa-4056-87bb-2e0350328c19",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmamwfFwFkxWnuDCwNmxj9TAW4Kkxfo3QGD7GvxEKq1YWE.car",
+		"CarFilePath": "QmamwfFwFkxWnuDCwNmxj9TAW4Kkxfo3QGD7GvxEKq1YWE.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmbGkQnPhNL8UMNjFuMa3v7XxHtQuv24jJ4gBZdiAukXfx",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmamwfFwFkxWnuDCwNmxj9TAW4Kkxfo3QGD7GvxEKq1YWE",
+		"PieceCid": "baga6ea4seaqgya657akyv2wsurwqnjipsba46aibthi2sejsydh6sm24xvoyady",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiffawsgq736x6yqskvfvp762dshxnnipyxumnn7xusgn2azxmnowq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif5xctndeofjfrynmb6x26opanteg5i7s4j4qy4euv25iy7vzrlia",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidnf5lya7mjqcccefr54krpudqvuebb54jbnnqvmf76xr7dnv6qmu",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihkid5rjbx72qsu2g4uvrfnfchvrnfuiwmhr26ag3u44ubsm4t6ey",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifbn5ykddcd57u5mr2wmcgo5usbsfoiyxgtiu5wtzd2gvtmk275rq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidnqdcfbpwrtadbnnfciol6uuiaeaovnmkl62tk7cgdsj34uoz6ma",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihkephrf3twlsrel4ezx4c6ecd4tloy3wk5nhkj7x5wklb63zszte",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidve3h77f6u5rkvoyk43n6ujey5e3tz7sjxo2p6to2gz5cgkj7qxa",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihdyte5epqxlhjsvqc262hi73mk6n2pmf7ghhkzoqxpptizbe4jga",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihckyymvvw3fdnjc2bazw54jwl3ctr5ru7fmlbtsfjv2mfibo2uou",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "7a630a2f-6e9c-4796-ab87-60cefd25a5bf",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmTGitGTrPsFKk7pwv9bSH3aogvpqZSUThFrkY7z6NELgs.car",
+		"CarFilePath": "QmTGitGTrPsFKk7pwv9bSH3aogvpqZSUThFrkY7z6NELgs.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmYXJbfdx5S3qEUNPQPLLj5vKub6WC6e3u9PNF6fFFTGzP",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmTGitGTrPsFKk7pwv9bSH3aogvpqZSUThFrkY7z6NELgs",
+		"PieceCid": "baga6ea4seaqorkszb535ngqqsp4yxkdk3dwwlggxzfdilo5qaunldmqg77pzydq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihbgsh4qvld5loybvem2xwrmq63npqsuzx6jggandc3izeb5djwua",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia2iq2e7c5r4xaeocyrmzvcjb73ejvg7n57c6gqa2m5p36p6zjlfy",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid25q2bncni7unu6354uilgxevkgxyv3zq4vzqatfz6d2q4742cw4",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidvcqwfp6u3xvoioelgfl3a24oudlohmqng26qdmavw5kbcfetvsa",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic6uu7otporwqiml5swwes6wah4t6foaifn3t2ka75htl6ml6e7sy",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreignotwxjkxpyxsjcixbjihtyqqsum4hywnveatn72z7e7glwml6ra",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreietvzdcjza7squdrqlscz6xxyopqiqd64qoh5uuow2dddhd2rxd3i",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreig75mudjjcdtbk47lekbnfriw7bo2xqw3iwtltkywvinhvqkyy6pu",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibctzixewltmmy2ewvtbvdovukiu56rw4x4imiqoimaz2bviozv2q",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicbesk5z3xhor2yjoky3acjgsmbaswi56p5hma3sdawe5i5d75roa",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreig7uobsmrs6xkweksenmu6ycgn445kwna4tyqjju6jdaojrn7ns7a",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "17779d29-fb4b-4c58-8d41-3c71d0fc2bd1",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmbpLc6cNazDiggws2LUEfSgz5axD89VACqQHVGdbaJHrF.car",
+		"CarFilePath": "QmbpLc6cNazDiggws2LUEfSgz5axD89VACqQHVGdbaJHrF.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmNQFcb8Bupov9PLG8nydV2jRf5qyhZsrP1fviGpAtSNFZ",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmbpLc6cNazDiggws2LUEfSgz5axD89VACqQHVGdbaJHrF",
+		"PieceCid": "baga6ea4seaqnzpb5jtoi5ff7vtwnynqavpdiclh2nkzmdck746dqghhqpqcbopa",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreigcx6slkpw3mv5n4jjw77l5dqfynhrmt7q54sssqs36dvqbc4rrq4",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiayds2qrcefp2l4bekhphyj2xj63aniwuhnrx3q5wt2cx3iwjqr2i",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidp5iwy5bajztjxxnlk7hzg5rzwaugkabxv3jcjxpfkzypj3r46hy",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiex4tmmq27r7zionmze64emjtxvw4kawx3hc3ojtze7xygdy4i2u4",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif2r7dgcrfuocei4c7vltaql5lafgl65niwq5v2qz4xvmjhqcndpq",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreie2ccei67i7ov75heflbooowobdwc7hbffk456zep2kr6fohw6p5m",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibkrrfu4vpme4w2fyv7djd53yssvqcj5ysd4mlzknoi6npndxc4zy",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreielsu3yzkrlelpzp6o22ruwjkaxzycvl2mqi6y3bbgfdicktshg5a",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifqhb5sfpapwbhw6vig72awd3wkr666y26gwujuzukzyetpak3ahm",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidprcf5b5tngxya2jr3776e4u6t5f6dfwo2gpyxdb453ykk7jhl6m",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic3jpul4h7b5ztyyitviyx5nv23ddlfk7yz2g2rxmet5vgifzrnk4",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "ccdd7f74-e539-4178-80a3-6211c618a5d0",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmTAXVr3M4miHd779NcrK1WCao22bGu75om46y1XVQNW1W.car",
+		"CarFilePath": "QmTAXVr3M4miHd779NcrK1WCao22bGu75om46y1XVQNW1W.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmSJfesJRFFh7dyj1GmNX3UBHdvE2BCxkS2FXcAsxrgLPZ",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmTAXVr3M4miHd779NcrK1WCao22bGu75om46y1XVQNW1W",
+		"PieceCid": "baga6ea4seaqkmx2bplh5wsiqljp3ndj666scy7od4yqpmijnirw6jowdcuoceeq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiab3o2qml2pgahap26n7teza4p75o2lyoljsrqdvbbxaqcfmp25t4",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibnv4z4pak3gcjpmv64ppk4pj7shp5nt3vsfgsokd3v47orhcvlxq",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidjpf6caqphkyef2gghojds6c2x6xrftzilkksphwcvwzo4yrmabm",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia65n2xutmjbyaldgatloilutwvxq5flgz7eckrmsnlshvunaxwca",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiep3mjqq6kdtsldo7ek7ni7m2adsvhjrpugbnz6f54iw63ks4k3uu",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicpnx2a7bpc6lzsldvwdsqm6jbi642f7cg4gzgfylicnr4sl4g2we",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiaowc6gq3ahvnakp26gfht2ap4eqb4umtgzdhipelvmvpkm7axvce",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidkb2fd3zsdtdgoylaujzlnxbpv4wtjfr5gfq4u6rk5ybignvxge4",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia2msajuhgwovejmfox6imnxr3do6hw7ntmx7r6gjashr6yfh6rw4",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicmpqclyv6bhe7dlzn5chrprot7vjyoebilpvzb4bceidhomt5ssi",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih2wt6cp3ioqsl2fey4xi5vjmblqlrlkulccer4hcoatocbrwutca",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "a09260cb-6dfe-432c-8a46-4a426af79b4a",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmQnmk8W5XxQ9kH8JuPkUTvCwuvmWskKSCTV3Xfoq1NSvS.car",
+		"CarFilePath": "QmQnmk8W5XxQ9kH8JuPkUTvCwuvmWskKSCTV3Xfoq1NSvS.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmcMi2ha4JEbHiCwHfvbuswHCiUczwtKnsNtgZC3JGd8ac",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmQnmk8W5XxQ9kH8JuPkUTvCwuvmWskKSCTV3Xfoq1NSvS",
+		"PieceCid": "baga6ea4seaqnvma5b6de3vr6mrrvsydohrkvtyidd3yikwjsi6sivy3ehrt5woa",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreifqbb2dk67en7aldw4teitthftcvpyd4ilbeoj37ajiybd6lvxb5u",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigf75k4umldkm7jw3znfeif5j55ty3q7fiav33ufmok2u5thgekcu",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihvca27f5cqwby5s2w5dim7d7uebj7tlvpwu2fijp4vrqbpphtism",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieubl2socqcipj6jv72kysjeqsckzynqoft4xmebbgd5e73v7v2qa",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibtajs4fqqp3ovleksolbgvmnwwfx5paahgjizpir2e2ngn2jsfuu",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidsbwhywnlfj45oy5lcwfk7r6yrf2vjhxpjrjcvyab5pletrdmp24",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihjzan2sbe5f4wepo4li4zsqq3fcnam6pblmcpb6qm64go2wtxikm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicsxq2j4gn2hibvtxyh6itfgkc5zz6vj4azvlfzuohoehdddi4cmi",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib6sqmtadpbnq2mymphizonzokgy67lqcyzqq5jizhnt46l6ervoe",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigjxmg3mm2h6uqp2qaiybhsjcz4s3mx6tijutmww2cp2xpgzr7hzm",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifb3mtr2k72vlqnk2eyf6imzpq42lo5dl4sfxvb3ms66uiy5fhnby",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih3ygtw442sdtcby2t7rlds6qpxeeka6wgehrjunw73arx53ekwyi",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "5b931c60-316d-439f-a482-01b4ffc69da0",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmSMMomMh3ow7Dg98Y3xLTMDT1BgrfMhcig5sRU481qyfS.car",
+		"CarFilePath": "QmSMMomMh3ow7Dg98Y3xLTMDT1BgrfMhcig5sRU481qyfS.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmWzFxnDGgxVGA2jyucR5YosDeBGvHn1nTsr5xJsyCy22X",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmSMMomMh3ow7Dg98Y3xLTMDT1BgrfMhcig5sRU481qyfS",
+		"PieceCid": "baga6ea4seaqhstq7y6xyo4yngronqwcgvqqrlkzzezoest32snbkxotphu3gyga",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreih7nqj7zpxisotg6wh3udqoxzlswubzfp7yynxqjqi4dumbcfbabq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiaihu6kydfp4aehifxs5itc2b5x6yanbpgejxdpzrhopdod374ski",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihuwj7gtkjljzqy4if5vl4am3pypfrdydr4ddpply4quxpk2boeta",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifytf5fyh2zdhug5i64o35eocf7cctxzbwab2lwgln3jukq74j2pi",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigawc7od2hq62x7azsj36a227ni5wp2snq2uy7jaddqdyiq2o376u",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiadlrih6cedrx76r6kigx63xth4jwuwfwj55rdix4at7kbf63enue",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreie33rwgbotaz4pjy3kvyd7ctap3vtnaot6j3bqtukdmxxddkhgzim",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiex4ffeiurwz4ndzvrhvztflwbfa6xfbruljjo64lpz3aggjxck3e",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihxmesjkvvleno5kjbjllh6ng53sy52ev4jytswnpi6xvndmljemy",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihfl5yjnniift2cixhwiji2yzxhh6apzrci7m4luolr4tvud63x3q",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigropfwnmcl2l75n6y6llozxpyz4zqbyjzvlmxxiow4odjz4i6xsm",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreianosuyxjxtwkyhy6ncuppv6rwxzuhoim6lgahv5qt7xnlrqfi4xy",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "21cfcb99-0933-4333-ad1c-76000978122e",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmVFyYnzDdjo2ckai5KnvoF7JEeAfmq9Qtc5YhcYU8nSJT.car",
+		"CarFilePath": "QmVFyYnzDdjo2ckai5KnvoF7JEeAfmq9Qtc5YhcYU8nSJT.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmPdMFadchqSbRRgmpLEKr4KwA51Vp1cAEaBKLM3ukwqoC",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmVFyYnzDdjo2ckai5KnvoF7JEeAfmq9Qtc5YhcYU8nSJT",
+		"PieceCid": "baga6ea4seaqabipbwi7qzzt2m5k266bgvusafl33giyloye2linl3rwt2p5moaq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreidu36zhkcoqxwldoacw2hpviasjs5ujk642clxng3sklyuled3ehi",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifj5bloqbmy2budclrvshr74xp35kyaktxsuhh2cupcdzi3a6v54a",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigm6mdxetssbxs6j5bbjvncgqpjwfzy222cdkaohh6kzmyqotpvdq",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicf77putfopkvqjfjn443pvhchx6w2qylepxynidjemtinrqstizq",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreida2ldyhuqvciihyn4qggy2r4riec2ejqzt65rjlgst4s442oj6sq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifqry2z7w2gac2fhfqyvqxaoqhqnvxdobprrzx6w6yytrxszk35m4",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigzzib7fru5vlr375vy2oqjis6mauogx2ijv5zw4hnmwsstuwqswu",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicwrukx6vo23hymyjgjetar2mkfx4locwjrxscgjrdzh522b6zjea",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidikrgfqjp6r3zhr26dvhopcrpryhuxz6ll7naih3pr67czcgbs5m",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicqzw7q27sqtk4fj7hulg7d2jm5jykf46nkxlxua6xshytk5olhmq",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "a33e2cb3-9998-4391-9e26-d17497ffa7c5",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmWZzezF3pYqdgunCVaHQVVZNEvHAmMwuMPGLYgmWCCD2R.car",
+		"CarFilePath": "QmWZzezF3pYqdgunCVaHQVVZNEvHAmMwuMPGLYgmWCCD2R.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmPEL2EzgsvJ1ne3jSZ7GF9yuYxvtSwxZLGUotzJLQgKv7",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmWZzezF3pYqdgunCVaHQVVZNEvHAmMwuMPGLYgmWCCD2R",
+		"PieceCid": "baga6ea4seaqgmsv2xnzooeot6yv4r2p3e6jsb5wpp5yixw2cduarzyhvmqrxeci",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihrk3t4xc2vhniopibv6pu4omufwkmzom35mp6gkos3fgzgobweje",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiehevqxlnesdu5uilel3snfclvavdaxisizs2ylphngp5euys33py",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicboc2mzgc7b5f55w5j42pcp2qxxxnksl4kiy22ebz4slfh4vy5qm",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibmeonyicqxhy2bxzgruyilatpyejuasdekinkvchu25vpb7n6iti",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigp76a4awyk6gbsthgy4n7vmumm3y6axww6xet6xdneeirowrisyu",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreien3jpgl3oqi2q5vvwvokw5feef2obqvgpkpkss7jofx3kkp4nybu",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigdwuoxnk3eqxwl7w7ldtamw6n2clpzcqfcb6uqstxjjl3x2sohwe",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicju3oifk4ckpe4bbzcjslx75idseb2wfokhewc2yxuuo5tfox2x4",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibyw76pcrwmkkdmb2xhvwuhpsfmim64e4uucd6j76e7n34ng74y7m",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibgjyn6lxzbucvswim4n2nyp4fi5azroxbsmrmfahbba2apsqqevq",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihq72dzriscgysd4djnxofao2ho3tclkudkifzo5jpqtl3xuvsthe",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicr5jebzwgu2qfiivxr7kgkzufwuq6b7j3ebc7hvkeb2azlor3mvm",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "050c3a34-805f-4408-b8da-d9099d5937c6",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmYTMeZssycx3cyT97UWrvR3w33r9R5GwftseH512S4Xt8.car",
+		"CarFilePath": "QmYTMeZssycx3cyT97UWrvR3w33r9R5GwftseH512S4Xt8.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmR7JbTojEvJW1qvoLGTcvdm86pMHh16y7hxNQHoAyK1eF",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmYTMeZssycx3cyT97UWrvR3w33r9R5GwftseH512S4Xt8",
+		"PieceCid": "baga6ea4seaqp3zyqtgzjspca4ncherejlw34xlydpx4ctaypk3xhcjhtalk6mda",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiageub3grs4fnjhkg5kvmcgpjqlbojdiar5lroxuooibs7rezl4ii",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigmumlijjrtwyx6rrzlmjkch34kmi5ilsop5w74nbswpqs2mozrr4",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicrqi5jea2cxs3kddhrnyuwbxno53g3i5c3xfzcen5agcrrc7clmu",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif2blrk6ykmahiaxr6g3fqae7qukxot524336vvwrxcp322org3ei",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiac46l2w5a2nbiqtoovio5i2qwpslolvok7z5zhdoghmrhxjhlzpu",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih7mb5cc74yty4hcesppuktihqmf63asucs2ajqakzpiiktozed4e",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidkamwhjtxavpyjnhno3baubat5igllnvv3glvpbv3cccx4sg2nku",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid3louixjpbyokk2vs6rq6ooa3kjzknuv5khtzxkhtxkqkiyreaim",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiginiu5wmbo27id5zpxiqxuy75taf5ycx3sldthjshpyc63q2vy4m",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidmiinkfjmgnnxkiu5zdad5qhmbzm4tfjpk4wdonpovbmzqf4ihxa",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreialamt6iw6iv3n7t6lj57fbelqeyybmu2czw7zsj4p553lcttrurq",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "09fdbcc0-1735-40dd-853e-90b73deb2e73",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmR4P4HN1a1MgmJ5VxtUhXXKfU6sKctYqbNW69M3RBiQ1b.car",
+		"CarFilePath": "QmR4P4HN1a1MgmJ5VxtUhXXKfU6sKctYqbNW69M3RBiQ1b.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmWYFpaJcDNFCuJ4iKp3jbxYFq9U3k1cqkHZe4UDihxH2f",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmR4P4HN1a1MgmJ5VxtUhXXKfU6sKctYqbNW69M3RBiQ1b",
+		"PieceCid": "baga6ea4seaqlred6nnugjzjv2u6mra7gbka3qdoaxysqaddtdrrbekdzl7p62pq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreih6gny6kqcmn3g6lj2vpepfrrfqr6qnz3b4q7f5o63hj4rmauooxy",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreickkeiw5rlw4gyldqsvsqxamr5gyjapkarwcnjtlknlphclcr755u",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicvkvyzdsys77wyk43ypkucxjgxvdbp2uthicdjvpcb245e6rmlc4",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifvmvk3vy4d4bsgexvq65ndxsukj2wcopjzrf7qftueyovvvvoomq",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiahzfkgwkc6uqsxubekekrawqhgwtkoeec6h72p3emt674m27o33a",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifzzf5qjrd7jixfen5slohxdyhl5cfo3zmerddvnqr4ycbo3pvoeu",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih35bnfi42zftagmme3flx2gbtcshr6vgn2ydyywtgjvi7twnhzy4",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib6u427siq5rrqwhgwhkl47guaybzge3yo7zhoijucpusbllcik5u",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibtqksrwwp7slxoo6v77d7sjtyaras6gqpiweg4chqonwhhzzh7jq",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif765j3eky52v7h2yooqsn7z3rcjq7dg22tzypr5n2wpt55or3vyu",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreichb3ie2r3rcrcnl37r5fo3xdvvdpkt5m6xmjy5vupymujypb6xg4",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "8e71e328-6173-456e-ac80-9881e8cc6df8",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmTFNCrDc7BhGze4C2rGSbyjSwPzVeqGBd6tYzvR6eyiBM.car",
+		"CarFilePath": "QmTFNCrDc7BhGze4C2rGSbyjSwPzVeqGBd6tYzvR6eyiBM.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmYhtgT4PpHF9cPAbKevbEAdDMwDg1snoNxh4dzDW7FQQu",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmTFNCrDc7BhGze4C2rGSbyjSwPzVeqGBd6tYzvR6eyiBM",
+		"PieceCid": "baga6ea4seaqomo7jqnztkil34d6wmgveuey47yjakclhiphwq3lx2bq7so3asba",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreidt6n6ogfhreauoe7t6dic3srubvzrvcfsnvs37xqhhu6ln4etaiy",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibig7bjkfjd5ohuubdh7zfb647r5zrxtfrmybtkmopb3jedeoajei",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiefis7jsagisumso5kew72nhlnma7emgpekcokbhymg2wko6r4cwi",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicnudkscr42jtkm5bhy6shcgcvm5gonwttcixcacclditkwycsxsy",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidwamrl7lohf2vjwezopwhg2n7dkfyzkrw6uaqurwmcduko35zwze",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiafxtuqqlrhajhgo5skdkuicosn7najmooyodzgsgswmyewl7jgoe",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidhj2oocaxm7j72nm4uvjbhtunmhzrud2qg5sie5bedxj6tq6doea",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifglnaliche3enfzwjszqdhyi4ipezwt5wuuvwwbqt7za2jhqtpve",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifj4uuwmxwgygunf3ukhexs5h2qmmxiorrclrxmfxsboxqn527d2y",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiclidosvdv77duyrbi7w6lv5hgbuogchl5b6wn73zqt37bcpz3c5a",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid6eipxs3du3wp2mrbewsl5cjsub77b4cqwd2axc4tqis2ls44doe",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihefmb7eizlhphv4c7zg7jijwxk7lckmyfoblmbmukudzwakpgtai",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "5f3cc173-2e5e-4197-bfb0-f1b8c2f809ce",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmeXtM7u8ocEMuL8AsvrHm8t41wegB97kqud3f5YhamV7Z.car",
+		"CarFilePath": "QmeXtM7u8ocEMuL8AsvrHm8t41wegB97kqud3f5YhamV7Z.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmZ3wVBqot3HwjhNgfBDpEtvaEfgRtW6mgfMwC58stYYxW",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmeXtM7u8ocEMuL8AsvrHm8t41wegB97kqud3f5YhamV7Z",
+		"PieceCid": "baga6ea4seaqimpdlo2zeea24s6c6zf3omz6pe76yeprxkwzi2xo2thcyffismcq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiawnxwip2odcpv6akgyttcgzxvflvfejteutwxhcz2733ktegscqq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihvcagbvby74pgm2xk22lgsvsyhckosbxhmqdbeaj5rmksdruxpeq",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiazsfff5z73ooqamkd4fuo6qpyk3ryymezt5iauxakcm5qxix2mum",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib3jplidjmrtio5fw3pzwc33gr4bwiaipqmzganxuarhnxspumnxq",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifrjogxkxvc6ktrin3juem4ule6k3oi7xswqrayfz7liutotudsc4",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiddrd2l3k74s4fkoavbhoi6aialr7d3em5g6tp3f3jnxodqzghowy",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibw6lxkyunwrxiofuznp4tu3gld6dkrckwuikxdwi5yrxbr6imjoe",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib434bjbimt7vviw63vbqfxnralbacglkxhv2xmgldvvym7ssaac4",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid6nksdb76vu4gvhu5glzrmljh6vgx2ujj5juzceezhqvs4pme5wy",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicgunijrk25lodb7q5xla7x7y7zsgfzld7g6dyyon4ynn6xwuib2m",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibwhflzxahqnpmuzj7lpck45g2zj2xfmuswxz5w7oqgcb457j33uy",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "502e570f-c6de-4c5a-8acc-902d611ba150",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmXSXfb4S74GYuoBaKzB2eN1ifmbaxM6mMRQepXYCWTwMM.car",
+		"CarFilePath": "QmXSXfb4S74GYuoBaKzB2eN1ifmbaxM6mMRQepXYCWTwMM.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmQj4NsF3ZoFFfqYEkYQPyekdV8j8czTtgK62jJnCq5D7w",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmXSXfb4S74GYuoBaKzB2eN1ifmbaxM6mMRQepXYCWTwMM",
+		"PieceCid": "baga6ea4seaqjcusyqokf5xi6qdr3ljbnaaofcokkxnd2wa7rcurtcfkyz7flihy",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreignqaqtux6dqkswfspt66hay25wuvnoys7r4lhimm7y75cnubpisu",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic62xyqtkgzrakwvr6dmsv7lywt2gqczy5jjyi3uj5wbl63yle4ta",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih4giybgfzua722ij2zxresnctjfipjhymmjcetpk3tb6buvmujpi",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiaiug534wc3aou7r4g4qoj33anhkem4otyx5au2xkozx3ho55duhq",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiabratyxwf3hrzznaw3ra6ptphvsdgyzpihjh7vzjw44v6vqf4umm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifylmipjamovvzqnshqzpuygpnjpdb67rjsgh2sf33uccejv6hcqq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihw3bzcbwywxspswrzfkf5tbqfrz7oqubpjii3cfgl2ygv34oo464",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigt7gnkaj6526tkxplhvpdl3ii6gcz6pdgjib6vc6jlnc5hpfcrvi",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreienmy237746gyvvd56dj3jmcv56qygenrmd4kohgmnnepxdeuwoai",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiawlobzo4pqeuzhgkh2uvschroyl3r55xcq3rl6urvcj4bjc7yhd4",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "0024370a-bbea-4a87-ad09-f5615bbcf519",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "Qme6DwEHDwe8M1n4NFwxZt48pGAvmPFkNdCWtg4rtWtvJP.car",
+		"CarFilePath": "Qme6DwEHDwe8M1n4NFwxZt48pGAvmPFkNdCWtg4rtWtvJP.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmV3nktaEZMd4McFFHZW3RzsksNHtTHT5oDJ6uDMPiVaBk",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "Qme6DwEHDwe8M1n4NFwxZt48pGAvmPFkNdCWtg4rtWtvJP",
+		"PieceCid": "baga6ea4seaqlqqnblietqvxxflarovagvbtudv6l2ihpr6hjqcrgtpc6z2uvcdi",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreidjvktmmflvvjrtdocccawhwaionbfwdk3xwm2di3y5bllccelad4",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibzrlqykf47pwcdjhrp3lbdj5pt3zjx4ovnz4oggsp4vzgcuozkhm",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic5jxinkt7dfxqfugvcydy7s53gj7skdxzi4pvevguvrgxripfm2u",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigoudo63om3ykkmci3golmeb53yshxmakkdr6qz2ztczyivawxcs4",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihvoxyd5urdzaxkcrkfp7wbfm5mvopizyarygt5f3k4zmjsf2v3pa",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifeystlokykdy25osevdgqlgxu4u6qkx3k2xkp73o626jq62selum",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreie3mux4dd4wzjrbmqarpvlhq3liylfi5ygh2oflolo3xt56r7mcga",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib5axutzyymtwnvvvw5edmr5kplezydis63lyzqecoi6atd7l6774",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihypixu5bnghrfr3traid5hsbemsmde2y7e73f4m47jxvckzzsacm",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibk2nl4toglivr7en76l4bemqpjggdyiwnir3xvfug4pch62jsltu",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigxeq6p2lyn5k3tyvu5ie5oe7ksb2ydeewf3laaflan7gxgulclru",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "e32fe8a2-b4ff-4c44-a59c-b654eaaa3ccf",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmcBoSmALbMtm3eny1rYp9i9z5TQbhLzRRFo1rt7EtYRBx.car",
+		"CarFilePath": "QmcBoSmALbMtm3eny1rYp9i9z5TQbhLzRRFo1rt7EtYRBx.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmRGgw4wvdPwdYVMJ97x1x6K3XbfXJDyufwRVsL7oZhxkt",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmcBoSmALbMtm3eny1rYp9i9z5TQbhLzRRFo1rt7EtYRBx",
+		"PieceCid": "baga6ea4seaqmuxcgznpv5ngbvcvleoe5cykx7ion5p2hooa67bzdvbag6g2eqay",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiblhgrc4coes6yyeheczfwza4cprveyzwb7dthxzs2a3iphjat7pq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihrt7cihndzbdg57qh36dakqabgjnwjmlo2g3zvdvg6j7vv53theu",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiemzvzztflekwanac2y67nq5usj6d2bbaomn5bgb7omukdocnzmpm",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiadph5shzukhguqv7hfw2hyjqko2paapxk4pho5xxvevuyc2zcqti",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicsqmnrpxh2o4ot67faemederzqorgw7srm7jvhjjas6bce37r37a",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifx7xset3zq37x3p4qzcj34ziesfuevvs22vq7huvdxljsywuwodq",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigs26u2vyytmwnfcllfuedwvn4opez3lwpxryispfd4nkz24345w4",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifxfq54jncdf6jdowrb4zjpkayu5enyyoog73kdg6yndzbqvmpfvi",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib6cbb6t4pnjiol6dd3dm2n4sozjxh2dwyeq4qyislxmkloq7kbiq",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiawkyqarwipl2zavoefufce3zznoxvnhesg3zppplyiqjabx647em",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidiaiu7nvav3dqjj4oqyyhwiqhy5yqrrv5mb6coqt7ib22qiaxnbu",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicrgwitaaonkssrfkiqzjwyev5h4txhidiw4opytk3orivw4dtft4",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "fc1e67a0-9110-4332-891a-c2ddafc07ed7",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmXi8QLkKt6wZYLt6Qavi538o9vgdgKLwWcmwxu1mTDKmk.car",
+		"CarFilePath": "QmXi8QLkKt6wZYLt6Qavi538o9vgdgKLwWcmwxu1mTDKmk.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmZZMvbBAN4Jdaweq3tLLGQKi1VM1SU1bwdoE3duiPGF3q",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmXi8QLkKt6wZYLt6Qavi538o9vgdgKLwWcmwxu1mTDKmk",
+		"PieceCid": "baga6ea4seaqotqbui56xgfjalnuhtbbafux6ef6wpvmwftlkvdipqdysbhzvkby",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreif2l6aiyoy3r2wcajuiqnmmv43ynskm4q27dpzgnefmmrnw4unmru",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigp66d4wrn3uc4kpntm7ry4dxk7zggfphlxjolxm22rwjd25lsz4u",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreib55zuyx73wnmujho4sgadx6j7udem7dlj62uc3nes4xb6byeeune",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibgzsxismy73cxofyo7o6k7u725l6lmychyjm76qilkrpiqauipwy",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiate5spaoxk5x4p5rylikl7i2yrmdschexz2ve6jifwzujiyxwyim",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibknsxd3l6hzkrkf6hva7rbpybtigpkdupowfrhsaqli5wton5xfm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiapaunia5xt6c7zemgtqgml45qorzxohig3jwrx3p7scsjwsck7ku",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiejxs22npxjg5hcipeaxltvngkgwswe4of77laiiazh57uxznp7ii",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreig5dzuvy4be4uo33ztbutegj326alg7svmoxiasvzhpuze6jj3ioq",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigsfswvvbs5o4p3bth4wlblqmo3t62ia3bdfgrhaodypvgzbibrxe",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid4rkvpu7g2lpugp5pzo5uabejh7mnfinqqw2gbpmejmztagekula",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "8bbe2d23-be2a-4acd-981a-305a67dfe6a7",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmVE6DJ1PkERFMmG8bNC48ggxKHmr93BrTTgdV8vFKdatU.car",
+		"CarFilePath": "QmVE6DJ1PkERFMmG8bNC48ggxKHmr93BrTTgdV8vFKdatU.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmaWpsodFn5X2XoApNigAihkGUiPcHnGoB6QkkgraoyNCY",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmVE6DJ1PkERFMmG8bNC48ggxKHmr93BrTTgdV8vFKdatU",
+		"PieceCid": "baga6ea4seaqi2usbkrsrwqgpblrmwzpl3qrstcglmmhstuehgfdxk3afih63yla",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreicpdagdwrqequ4nxvpwqwi2xixxo7vka5axu3wewxe6qxsypbxcky",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiet4ang7ofj4wd7kx5njhjh6mgxbooyr5lj2qmcpne3rkthmmjqou",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihqd2oyubvvflk4s6vtgqap5ain4sazat4yn4nhwgqvdwtvolpurm",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreie2rshkyw47wn6xflb26c4abakumd27zl4mpqvczrqhiq7tdb7arm",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicaxzpm7fpd772w4rbahjkinc7a5yec6ankb4pxwsostnjifbyp7e",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicugmxylyish3fkrju2wqihwb7qqqr3q2sbbmpdksvshbhkyg3j5m",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiadeiuxsw5ndlca2xq6hmjzccq7dm4fsr2mvxnyn46gp565enhr6q",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreielsf6ba5z6ryv3apqsgxsa3vlg7asv5sc7coqumhccenabriol2m",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreighqm6idj3apilxu3jlh4wodjqjrgggfllyd2k7nxuzdgqts5zei4",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidtdfnfpghxxgin5qkyvvh7henraxnttzc4ao4o77o5hscofd3qzq",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreictuczlraof2kpfic5dygmbfrmoh7ee5krhgnxuw6yn4d3uppbvh4",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "183793e8-e89e-4935-be3d-26f5550c40f9",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmZXNyGKYpkHVrG83DsXZ1Skp9QL7iUvAzwEEnbvpn2NhC.car",
+		"CarFilePath": "QmZXNyGKYpkHVrG83DsXZ1Skp9QL7iUvAzwEEnbvpn2NhC.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmdqZR2Th96EVXDSftg1b5p1Yf987kBNgXsyZkyACYth2D",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmZXNyGKYpkHVrG83DsXZ1Skp9QL7iUvAzwEEnbvpn2NhC",
+		"PieceCid": "baga6ea4seaqasfw6itmbiuanaypokt7l7aq46dcfehaswbco2qlnzizim6fsiei",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreiaj6mm2jcla2tmnehhqv7bgb7pk3yksllu3nixngxrgdmucn5ighu",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifcalacyvufw4zz7s5eqzarwfxxrsugeiqxeughmmdnlwldhk7eee",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidbmq4ul2wsdeur3huejydswy7tvateddatfi5mguim6bz6yfuovm",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihygtvd4ajwovghhgdedbstdfznz5xfxdnzsezxdqfimnlak6zzvy",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifswjazzgxeo4dsuschpuxmrka3oy4v5ghpt5nxne64rsy56iypge",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiae7rvmivj5utbvaklvaptpeuwj4qrlivakbm2czoklue6crlxi5e",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigtqhp6t5gqle3wonl5t2a7l5utsfzvenfwsyiciyq5gfkrxlvbze",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreid3mzivrtpb5yaouepo5shuharkaj3v7ahevqzk6fazxiei6zrf5e",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih67gssqdwj2zdnmmsjyy2o7g65h5qpgshqsn25qixlpzpnj3wq34",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibj3d7zd3fdhswu5entlvep4c2tgybpc4m4axsvgajxqcb26glofa",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif3v4unlidatcmn3q74hvidfbwkkmv2y7wpkpluiwyigggxkaek5u",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiew57uqoqxovkbgs4pxj67ut2vc3ya5yxfyy7ab5ntangq5d3yv24",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "64ce91b7-ad6a-4f00-b66a-22a6465bb2f9",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "Qmey6vum8BtcsxpMhbXVGwKAgba9yKHqJdcDKVNHFsqHjm.car",
+		"CarFilePath": "Qmey6vum8BtcsxpMhbXVGwKAgba9yKHqJdcDKVNHFsqHjm.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmSJvbSd93zuFV4VkTZ5LrQRZN4RTHVCpYt9LKZStkbV7L",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "Qmey6vum8BtcsxpMhbXVGwKAgba9yKHqJdcDKVNHFsqHjm",
+		"PieceCid": "baga6ea4seaqlyqiwoekizn4ukr3k7ezmt27g27nt33ghe3i62dh7hdjga6dtmfa",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreic6i7rpsdpwckei5xa4bdkjahescefncjilzvtmkbqbf5cdob7u7q",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibrgsiutiyup4y6mh3zqjoqg7e2obormvsyzvlkosej4bd37wad3u",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidshgbjmitf4sxiivfj6jp6yusk2uetntripnn25vq7mvbxbd3upu",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidnua5npmflivlhyj4gjdhxayrf7v4k7hufbsfn5w7ptfnhwbfsey",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibiz4o7ttvhqhowmi3ggk4t6ec7puxrtzwcqczqowhjf23vpufr4u",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihohxkaghfpkqmgj3qdeqblzvar3dn3hsvgstivxp3n5zt23evggm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibulsncwsaf223j6vgc6vy7l6qdj4hxpa5laawpy2bwcq7hcarfhu",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihsjd7tx3efqug7uop5ty7kesffypaz75w7lnpd2yfjooakeb52gy",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiatemagbc4g2d5nbmhlf7e44esmq5rqhiexoxjga444ycamt6ing4",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigjqs4ffwfpvuxbqekgixg77i47nfbbszms4x2ydi5yjlbzhyurva",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidqsfeuszakc4vbtgp5weefg2ygjdv6h3thldrkelkejizfiwpefm",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "1652dae3-e15c-4b7d-82b0-9bef483cd8a5",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmbGjwSZGsjWgdey24VqXajmFXk28dq2KSdVYditTPupYa.car",
+		"CarFilePath": "QmbGjwSZGsjWgdey24VqXajmFXk28dq2KSdVYditTPupYa.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmQEF71GpGou19mcnu2UwZAk1ja2QNcoUSFk16Y3P4q13K",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmbGjwSZGsjWgdey24VqXajmFXk28dq2KSdVYditTPupYa",
+		"PieceCid": "baga6ea4seaqi56f4vhmxev64shqquoajdqkimzcqpmd4y2uoyacrvx3thfszsni",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihsfb2643wqfy7zfsb7ta2m7yegbdm7zmuiaq4tta5vbm2pf2nnnu",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiedh3fbpnblcdflbghkhlubl26uneszsjn4sw4ifox4hsh46pdjym",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibq7ljnzgfssx3fjlzi6isk5btsge3hq6adboso2oguhd5lmmtzye",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifmrzg6vru5wmzdzjwttiuwk657fxmozsdqyrtqxiqf6zypbbobbq",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidf5ndraeqgb5fphfdn7f5agi2k5ei2ei5n3736c4avuuw2vpydmm",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigsqncl4p4mxbbj3kcan3hrdci5h5nkqphnkqhtfwx6olxm7zkmgi",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreieo46d4ajcephkcilz6nfukmw2lhq2vin22edzodwuhy5tstfl3zm",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifexfot375fl5q5vli76ziknvvadwfxt5cwmljgcirjummi6kpvam",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicfmxvsj6bncfgaxr5sbt476rwk247xeksfvx5m4vu4u4orpxrexq",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidnkloonnhafodj6bcfekelhcovemmyyschpd2gqlzm5jv5cpm44a",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidees7fqttoqudjdlq7266rlatdieztgzzm2bawtvyyvwzyikfo3a",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "670e97c0-8ada-499b-af43-f9e40cc0f768",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmUAUQmwqQUkqX6xpQQ4w2RAN3t2y4S2UcmjUhcjp4w9TN.car",
+		"CarFilePath": "QmUAUQmwqQUkqX6xpQQ4w2RAN3t2y4S2UcmjUhcjp4w9TN.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmPsoBrVV81BtjZvnT1biTEsZuzp31gAtKUqJrCEndHKrC",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmUAUQmwqQUkqX6xpQQ4w2RAN3t2y4S2UcmjUhcjp4w9TN",
+		"PieceCid": "baga6ea4seaqdcgr75wwtw6pxta6o3t32kdixwrl3elrfvsp7xcdkyd4b4gze4jq",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreidzbgc2casu5augkj46ax2vsmmj747frp5wijtzjppjf22fklkwva",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiaf2omqhrcz2spzs4u27mg5cupjomeqjsp57oqtuaceqrit7vtpii",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreia63xz3ml4vjn5bpzqpn2mtfe6oo6ddgdcnyv3dyuccw26ewqx4xe",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibsh5vrerpysu3qpwcxjq2khrhe3h35tklzjl6m5ihcjznwae2mva",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreif4bk64duhdpnmcdkzw4f6poqfxhabccyjmys3q2y3qsk5oasvpha",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiapqgxlmbdxrbeebzb4lgtlzmgp4374bjro27c4jzn37ykiouy6ri",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913784,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreien7jj6zv4favuqj6o33ciqyhi7epqrejfwteccbs4o5wqqg4hdvy",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreickuxmellngj2pdnjex6otbfjl673kwp64a4sobygmat5iy5ripni",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibz5thug5kdyto6p44ukkl4bqz5vdtmw424zp2s75zykvk3uj7pem",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibhedpmtswe7py7v4vlg3s5ganqhworasxksmkidtqnljxjl77ple",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreih65wlg6bf2os5kxym7agmvz7ufq7apjnbogrb37iay6axhm4oyqa",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreig77gl4lvwexuq76qxw2xrkt5ygwpnhecunbtr4472kqjvizxh3sy",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "ad3af9c6-4a67-4879-9e99-ff3190777b73",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 17180886010,
+		"CarFileName": "QmZXYqUs3zHDgcXjYvSc3VE4ngkhC1PaW8kP6hm6WVy9yQ.car",
+		"CarFilePath": "QmZXYqUs3zHDgcXjYvSc3VE4ngkhC1PaW8kP6hm6WVy9yQ.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmdW3Q9gEKbz4Z7RQw3z7RVwbVehBmeC2rMd5i2HJQosSe",
+		"CarFileSize": 34091302912,
+		"PayloadCid": "QmZXYqUs3zHDgcXjYvSc3VE4ngkhC1PaW8kP6hm6WVy9yQ",
+		"PieceCid": "baga6ea4seaqf4q7xr5iqadr3vsngck4bjwx6q7yuzhr2ijxcy454adtwnzg7ghy",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreicepluxpr6rfpzsrqvitg6ebdociwvlozbyb6wazdri7iepnnrxuq",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibfumsw5z6y4tiweidxxu24ouel6ehnzz5smhy3onent5po7sqcji",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihs5yswvg6b4otrca3sjgor2xukbn5twx5lxcsinopv76dhgnhq2m",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreig3gdvsr4ipwbuwnvtvzzf4wpz3ftwi5lwihzy7flpareaxnpyxfu",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreic4bqn2pk4u3hm7wwakknmmxup6n2nkigzm7phz4oxsv65a4hz47u",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreihd53vvycvmh6mognphwtzat7yvtjtilbuouyghkqjzarvwpgidjq",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifd6njieejp3rfixx5zmdtpl3xjs7v3zzeyytgoggf3a7yfofmnju",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifk3etiv64o7a7j5zcoipma5eoiv2dsdibjxtrx6fu7drzcdsj67m",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreicwhoi26bbuupgxt7u3djtaszuhcyiwytf7zfzzgzzblnr4rwftqy",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	},
+	{
+		"Uuid": "2e861a8f-a9a7-4f40-988d-ff18b69a3ce4",
+		"SourceFileName": "fil-test010",
+		"SourceFilePath": "fil-test010",
+		"SourceFileMd5": "",
+		"SourceFileSize": 6105233923,
+		"CarFileName": "QmbTTAQVdajg1wGWhqHHMhfivihMp416roQBt5QcRYGT8s.car",
+		"CarFilePath": "QmbTTAQVdajg1wGWhqHHMhfivihMp416roQBt5QcRYGT8s.car",
+		"CarFileMd5": "",
+		"CarFileUrl": "https://download.fogmetalabs.com/ipfs/QmbhZcxtjeSAQExFFz6niKCjxfBgx26npkWgAoQrT4GAQz",
+		"CarFileSize": 8522825728,
+		"PayloadCid": "QmbTTAQVdajg1wGWhqHHMhfivihMp416roQBt5QcRYGT8s",
+		"PieceCid": "baga6ea4seaqo7h7k3psh4kpcvskt4bfhero7cigyn2knvszx6d2ff4sqvofrwny",
+		"SourceId": 2,
+		"Deals": [
+			{
+				"DealCid": "bafyreihjlorvptyehkvuvltuyc33rvlogpmekb2q4ggcjfmuoyge2vlfpe",
+				"MinerFid": "f010088",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidfaomwaeblh6qcqejk2m6d5teyspwyshjjcqdpwynr3viohczuv4",
+				"MinerFid": "f01163272",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibqt663557nshjfoapzqx4yj6nfx4iaxulzv3ysi3qb6h6wpyeabm",
+				"MinerFid": "f01337533",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreifagpnnjcgtugdpo2w73pkf5ekvbl3ooro3svtssaw3atbc2frkru",
+				"MinerFid": "f0143858",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreigwrw6z6x3qwamiumjiurpmhhfycvzg6gerejqvnmza6jii6pc5ri",
+				"MinerFid": "f01691327",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreidhpjrw5wenf66ken7iuzwkmo3vsm2sddhhloooq52jcf3zxklo2y",
+				"MinerFid": "f01862564",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiagwoh6kkrq5jqaxsar3yldybxvurqgu7wtcfvhuo5mhp5l3ha6hu",
+				"MinerFid": "f02032191",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiet3zxksph45nk2ixfoelgojjolb5w3al4mkhvendufcgutkizayq",
+				"MinerFid": "f02301",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiakr34lpe7jv6nqucmig5zktysnupo5ej4m56mk7vl7ec5o6fxxba",
+				"MinerFid": "f0240185",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreibjl5szpb6ze4asw2qlcstmghrxveowiq35kgghoydo45mtwd23x4",
+				"MinerFid": "f03223",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			},
+			{
+				"DealCid": "bafyreiddfothcmra6pu3m5o6wktd2nhkbxtxws5qthbx47usfd2pctcl64",
+				"MinerFid": "f0717969",
+				"StartEpoch": 2913785,
+				"Cost": ""
+			}
+		]
+	}
+]
