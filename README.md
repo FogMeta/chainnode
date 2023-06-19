@@ -1,4 +1,4 @@
-# Chainsnap
+# Chain Node
 [![Made by FogMeta](https://img.shields.io/badge/made%20by-FogMeta-green.svg)](https://fogmeta.com/)
 [![Follow on Twitter](https://img.shields.io/badge/follow_on%20-Twitter-brightgreen.svg)](https://twitter.com/FogMeta)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
